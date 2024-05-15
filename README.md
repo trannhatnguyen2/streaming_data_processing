@@ -98,9 +98,9 @@ Before running this script, ensure you have the following installed:
 
 3.  **Read and store data to MinIO**
 
-        ```bash
-        python spark_streaming/orders_delta_spark_to_minio.py
-        ```
+    ```bash
+    python spark_streaming/orders_delta_spark_to_minio.py
+    ```
 
     Read data in `Kafka Topic`then push them to `MinIO` with `delta lake` format
 
