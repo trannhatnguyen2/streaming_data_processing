@@ -33,23 +33,21 @@ Before running this script, ensure you have the following installed:
 
 ## Getting Started
 
-1. **Clone the repository**:
+1.  **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/trannhatnguyen2/streaming_data_processing
-   ```
+    ```bash
+    git clone https://github.com/trannhatnguyen2/streaming_data_processing
+    ```
 
-2. **Start our data streaming infrastructure**
+2.  **Start our data streaming infrastructure**
 
-   ```bash
-   docker compose -f docker-compose.yaml -f storage-docker-compose.yaml up -d
-   ```
+    ```bash
+    docker compose -f docker-compose.yaml -f storage-docker-compose.yaml up -d
+    ```
 
-   This command will download the necessary Docker images, create containers, and start the services in detached mode.
+    This command will download the necessary Docker images, create containers, and start the services in detached mode.
 
-3. **Setup environment**
-
-Activate your conda environment and install required packages:
+3.  **Setup environment**
 
     ```bash
     conda create -n streaming python==3.10
@@ -58,50 +56,53 @@ Activate your conda environment and install required packages:
     pip install -r requirements.txt
     ```
 
-4. **Access the Services**
+    Activate your conda environment and install required packages
 
-   - Postgres is accessible on the default port `5432`.
-   - Debezium UI is accessible at `http://localhost:8080`.
-   - Kafka Control Center is accessible at `http://localhost:9021`.
-   - MinIO is accessible at ``http://localhost:9001`.
+4.  **Access the Services**
+
+    - Postgres is accessible on the default port `5432`.
+    - Debezium UI is accessible at `http://localhost:8080`.
+    - Kafka Control Center is accessible at `http://localhost:9021`.
+    - MinIO is accessible at `http://localhost:9001`.
 
 ## How-to Guide
 
-1. **Create Connector Postgres to Debezium**
+1.  **Create Connector Postgres to Debezium**
 
-   Firstly, modifying your config in config/postgresql-cdc.example.json
-
-   ```bash
-   bash streaming/run.sh register_connector configs/postgresql-cdc.json
-   ```
-
-2. **Create an empty table in PostgreSQL and insert new record to the table**
-
-   ```bash
-   python streaming/utils/create_table.py
-   python streaming/utils/insert_table.py
-   ```
-
-   **Note:** Print records as json format in terminal
-
-   ```bash
-   python streaming/json_consume_message.py
-   ```
-
-3. **Produce data to Kafka topic**
-
-   ```bash
-   cd data_ingestion/kafka_producer
-   python produce_json.py
-   ```
-
-4. **Store data to MinIO**
-
-Read data in `Kafka Topic`then push them to `MinIO` with `delta lake` format
+    Firstly, modifying your config in configs/orders-cdc.json
 
     ```bash
-    python spark_streaming/delta_spark_to_minio.py
+    cd debezium/
+    bash run.sh register_connector configs/orders-cdc.json
     ```
+
+2.  **Create an empty table in PostgreSQL and insert new record to the table**
+
+    ```bash
+    python streaming/utils/create_table.py
+    python streaming/utils/insert_table.py
+    ```
+
+    <!-- **Note:** Print records as json format in terminal
+
+    ```bash
+    python streaming/json_consume_message.py
+    ``` -->
+
+<!-- 3.  **Produce data to Kafka topic**
+
+    ```bash
+    cd data_ingestion/kafka_producer
+    python produce_json.py
+    ``` -->
+
+3.  **Read and store data to MinIO**
+
+        ```bash
+        python spark_streaming/orders_delta_spark_to_minio.py
+        ```
+
+    Read data in `Kafka Topic`then push them to `MinIO` with `delta lake` format
 
 ## Read data streaming in MinIO
 
@@ -118,23 +119,26 @@ When you are already inside the `trino` container, typing `trino` to in an inter
 After that, run the following command to register a new schema for our data:
 
 ```sql
-CREATE SCHEMA IF NOT EXISTS datalake.device
-WITH (location = 's3://datalake/');
+CREATE SCHEMA IF NOT EXISTS lakehouse.orders
+WITH (location = 's3://lakehouse/');
 
-CREATE TABLE IF NOT EXISTS datalake.device.device (
+CREATE TABLE IF NOT EXISTS lakehouse.orders.orders (
 event_timestamp TIMESTAMP(3) WITH TIME ZONE,
-created VARCHAR,
-device_id TINYINT,
-feature_0 DOUBLE,
-feature_1 DOUBLE,
-feature_3 DOUBLE,
-feature_4 DOUBLE,
-feature_5 DOUBLE,
-feature_6 DOUBLE,
-feature_8 DOUBLE,
-if_movement VARCHAR
+order_date VARCHAR,
+order_time VARCHAR,
+order_number VARCHAR,
+order_line_number TINYINT,
+customer_name VARCHAR,
+product_name VARCHAR,
+store VARCHAR,
+promotion VARCHAR,
+order_quantity TINYINT,
+unit_price DOUBLE,
+unit_cost DOUBLE,
+unit_discount DOUBLE,
+sales_amount DOUBLE
 ) WITH (
-location = 's3://datalake/device'
+location = 's3://lakehouse/orders'
 );
 ```
 

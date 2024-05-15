@@ -1,0 +1,1001 @@
+"order_date","order_time","order_number","order_line_number","customer_name","product_name","store","promotion","order_quantity","unit_price","unit_cost","unit_discount","sales_amount"
+2021-09-29,16:18:59,SO20210929/S23-12,1,Dũng Phạm Tiến,Gia vị dạng bột khác,KPIM Mart Dịch Vọng,Giảm giá mua trên 35 sản phẩm,55,125000.0,77700.0,18750.0,5843750.00
+2021-10-17,16:13:46,SO20211017/S20-12,1,Ngọc Nguyễn Hồng,Khăn giấy bỏ túi,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,6,12500.0,6250.0,0.0,75000.00
+2021-10-17,17:57:33,SO20211017/S20-25,2,Nam Phạm Phương,Khăn giấy hộp,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,2,11500.0,5750.0,0.0,23000.00
+2021-10-17,17:57:33,SO20211017/S20-25,3,Nam Phạm Phương,Nước chấm,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 35 sản phẩm,44,160000.0,96861.0,24000.0,5984000.00
+2021-10-17,19:41:45,SO20211017/S20-36,1,Hải Quách Hồng,Lò vi sóng,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,2,1350000.0,759240.0,0.0,2700000.00
+2021-10-17,17:04:55,SO20211017/S23-21,2,Khánh Nguyễn Phạm Minh,Cafe đen lon,KPIM Mart Dịch Vọng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-17,17:04:55,SO20211017/S23-21,4,Khánh Nguyễn Phạm Minh,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Dịch Vọng,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-09-30,18:12:19,SO20210930/S10-1,1,Tuấn Lưu Anh,Cafe đen lon,KPIM Mart Võng Thị,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-09-30,18:12:19,SO20210930/S10-1,2,Tuấn Lưu Anh,Khăn giấy bỏ túi,KPIM Mart Võng Thị,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-09-30,07:22:53,SO20210930/S13-2,1,Thư Nguyễn Anh,Bánh bông lan,KPIM Mart Đức Giang,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-09-30,11:26:01,SO20210930/S13-9,1,Trang Nguyễn Linh,Lò vi sóng,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,31,1350000.0,759240.0,135000.0,37665000.00
+2021-09-30,11:26:01,SO20210930/S13-9,2,Trang Nguyễn Linh,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Đức Giang,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-09-30,11:26:01,SO20210930/S13-9,5,Trang Nguyễn Linh,Khăn giấy hộp,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,32,11500.0,5750.0,1150.0,331200.00
+2021-09-30,17:21:38,SO20210930/S13-15,1,Linh Đỗ Nhật,Bắp Hạt Đông Lạnh,KPIM Mart Đức Giang,Không giảm giá,4,12000.0,6000.0,0.0,48000.00
+2021-10-17,07:19:13,SO20211017/S23-3,1,Quang Đỗ Tuấn,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dịch Vọng,Không giảm giá,5,158000.0,98213.0,0.0,790000.00
+2021-10-17,07:19:13,SO20211017/S23-3,2,Quang Đỗ Tuấn,"Xay tiêu, tỏi",KPIM Mart Dịch Vọng,Không giảm giá,10,85000.0,50232.0,0.0,850000.00
+2021-09-29,17:18:28,SO20210929/S28-11,1,Đạt Nguyễn Phát,Mì Lẩu,KPIM Mart Hàng Buồm,Không giảm giá,1,5600.0,2800.0,0.0,5600.00
+2021-09-30,07:27:45,SO20210930/S7-4,2,Tùng Lê Đình,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Phố Huế,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-09-30,21:59:11,SO20210930/S7-37,1,Ngọc Hoàng Khánh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Phố Huế,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-09-30,07:23:23,SO20210930/S13-3,1,Anh Nguyễn Quý,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Đức Giang,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-09-30,08:20:35,SO20210930/S23-3,2,Nam Lê Phạm Hải,"Xay tiêu, tỏi",KPIM Mart Dịch Vọng,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-09-30,08:20:35,SO20210930/S23-3,3,Nam Lê Phạm Hải,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dịch Vọng,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-09-29,17:27:37,SO20210929/S23-16,1,Hân Nguyễn Thị Ngọc,Bình đựng nước thủy tinh,KPIM Mart Dịch Vọng,Không giảm giá,4,120000.0,74592.0,0.0,480000.00
+2021-09-29,11:17:26,SO20210929/S26-2,1,Quân Võ Hồ Hoàng,Bia,KPIM Mart Bạch Đằng,Không giảm giá,1,280000.0,140000.0,0.0,280000.00
+2021-09-29,14:36:06,SO20210929/S26-9,1,Uyên Nguyễn Đoàn Nhã,Nồi cơm nấu chậm,KPIM Mart Bạch Đằng,Không giảm giá,2,1500000.0,843600.0,0.0,3000000.00
+2021-09-29,19:39:29,SO20210929/S26-18,2,Khánh Đỗ Quốc,"Kẹp gắp, khui hộp",KPIM Mart Bạch Đằng,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-09-29,19:39:29,SO20210929/S26-18,3,Khánh Đỗ Quốc,Vỉ hấp,KPIM Mart Bạch Đằng,Không giảm giá,5,80000.0,47278.0,0.0,400000.00
+2021-09-29,17:45:28,SO20210929/S29-14,1,Hoàng Nguyễn Đăng Việt,Cafe đen hòa tan,KPIM Mart Hàng Trống,Không giảm giá,1,202000.0,101000.0,0.0,202000.00
+2021-09-30,10:04:00,SO20210930/S2-9,1,Tâm Lương Hoàng Minh,Túi đựng rác size nhỏ,KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,17,69000.0,34500.0,3450.0,1114350.00
+2021-10-16,08:22:42,SO20211016/S23-2,3,Ngọc Trần Thị Bảo,"Kẹp gắp, khui hộp",KPIM Mart Dịch Vọng,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-16,17:11:30,SO20211016/S23-18,2,Ngọc Trịnh Minh,Máy ép trái cây,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,30,1500000.0,843600.0,150000.0,40500000.00
+2021-10-16,19:09:41,SO20211016/S23-35,2,Nhi Đoàn Yến,Máy ép trái cây,KPIM Mart Dịch Vọng,Không giảm giá,9,1500000.0,843600.0,0.0,13500000.00
+2021-10-16,11:25:27,SO20211016/S26-10,3,Phát Tô Hồng,Rây lọc,KPIM Mart Bạch Đằng,Không giảm giá,1,70000.0,35000.0,0.0,70000.00
+2021-09-30,11:16:01,SO20210930/S23-8,1,Khánh Lương Vân,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dịch Vọng,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-09-30,11:18:49,SO20210930/S23-9,1,Bách Đồng Phạm,"Xay tiêu, tỏi",KPIM Mart Dịch Vọng,Không giảm giá,5,85000.0,50232.0,0.0,425000.00
+2021-09-30,14:49:39,SO20210930/S23-12,2,Quân Nguyễn Đoàn Minh,Sữa bột,KPIM Mart Dịch Vọng,Không giảm giá,1,369000.0,229370.0,0.0,369000.00
+2021-09-30,14:49:39,SO20210930/S23-12,3,Quân Nguyễn Đoàn Minh,Bình đựng nước nhựa,KPIM Mart Dịch Vọng,Không giảm giá,2,160000.0,96861.0,0.0,320000.00
+2021-09-30,16:37:12,SO20210930/S23-15,4,Anh Vũ Thị Phương,Nồi cơm nắp rời,KPIM Mart Dịch Vọng,Không giảm giá,4,250000.0,125000.0,0.0,1000000.00
+2021-09-30,17:17:19,SO20210930/S23-18,3,Uyên Lưu Nguyễn Hoàng,Cá thu hộp,KPIM Mart Dịch Vọng,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-09-30,16:07:37,SO20210930/S29-13,3,Thành Dương Trung,Lạp xưởng khác,KPIM Mart Hàng Trống,Không giảm giá,2,146000.0,90754.0,0.0,292000.00
+2021-09-30,20:14:10,SO20210930/S29-20,2,Huy Nguyễn Thành,Nồi cơm nắp rời,KPIM Mart Hàng Trống,Không giảm giá,2,250000.0,125000.0,0.0,500000.00
+2021-09-30,15:26:33,SO20210930/S5-12,1,Trung Trần Quang,Sữa bột,KPIM Mart Hàn Thuyên,Không giảm giá,2,369000.0,229370.0,0.0,738000.00
+2021-09-30,15:26:33,SO20210930/S5-12,3,Trung Trần Quang,"Xay tiêu, tỏi",KPIM Mart Hàn Thuyên,Giảm giá mua trên 25 sản phẩm,26,85000.0,50232.0,8500.0,1989000.00
+2021-09-30,18:13:43,SO20210930/S5-20,1,Nam Nguyễn Hoàng,Snack khoai tây Big Sheet,KPIM Mart Hàn Thuyên,Không giảm giá,1,6000.0,3000.0,0.0,6000.00
+2021-09-30,18:32:18,SO20210930/S5-25,2,Trí Nguyễn Viết,"Xay tiêu, tỏi",KPIM Mart Hàn Thuyên,Không giảm giá,1,85000.0,50232.0,0.0,85000.00
+2021-09-30,18:04:46,SO20210930/S8-27,1,Kiệt Nguyễn Tuấn,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Phan Chu Trinh,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-09-30,18:04:46,SO20210930/S8-27,2,Kiệt Nguyễn Tuấn,Cháo ăn liền,KPIM Mart Phan Chu Trinh,Không giảm giá,3,11800.0,5900.0,0.0,35400.00
+2021-09-30,18:04:46,SO20210930/S8-27,4,Kiệt Nguyễn Tuấn,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Phan Chu Trinh,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-09-30,07:51:22,SO20210930/S18-2,2,Ngọc Trần Trí Bảo,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Vũ Tông Phan,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-09-30,18:28:05,SO20210930/S18-17,1,Luân Lý Trung,Sữa bột,KPIM Mart Vũ Tông Phan,Không giảm giá,3,369000.0,229370.0,0.0,1107000.00
+2021-09-30,19:03:08,SO20210930/S18-20,2,Đức Nguyễn Minh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Vũ Tông Phan,Không giảm giá,6,158000.0,98213.0,0.0,948000.00
+2021-09-30,20:46:08,SO20210930/S18-24,2,Sơn Nguyễn Minh,Rau Sắc Màu Hỗn Hợp,KPIM Mart Vũ Tông Phan,Giảm giá mua trên 5 sản phẩm,14,39000.0,19500.0,780.0,535080.00
+2021-09-30,09:37:06,SO20210930/S21-4,3,Thảo Đoàn Phạm Phương,Rau Sắc Màu Hỗn Hợp,KPIM Mart Nguyễn Khang,Giảm giá mua trên 5 sản phẩm,11,39000.0,19500.0,780.0,420420.00
+2021-09-30,12:46:13,SO20210930/S21-6,1,Châu Lâm Nguyễn Dương,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Nguyễn Khang,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-09-30,19:08:35,SO20210930/S21-24,1,Đăng Trần Đồng Hải,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Nguyễn Khang,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-17,18:49:11,SO20211017/S23-32,1,Tài Võ Văn,Ngũ vị hương,KPIM Mart Dịch Vọng,Không giảm giá,5,13300.0,4974.0,0.0,66500.00
+2021-10-17,18:49:41,SO20211017/S23-33,2,Mạnh Trần Tiến,Ly giữ nhiệt,KPIM Mart Dịch Vọng,Không giảm giá,5,220000.0,110000.0,0.0,1100000.00
+2021-10-17,20:28:59,SO20211017/S23-39,4,Anh Tạ Phương,Rau Sắc Màu Hỗn Hợp,KPIM Mart Dịch Vọng,Không giảm giá,4,39000.0,19500.0,0.0,156000.00
+2021-10-17,07:58:54,SO20211017/S26-5,2,Anh Hà Mai,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Bạch Đằng,Giảm giá mua trên 15 sản phẩm,18,158000.0,98213.0,7900.0,2701800.00
+2021-10-17,17:42:43,SO20211017/S26-25,1,Huy Nguyễn Văn,Miến sườn heo,KPIM Mart Bạch Đằng,Không giảm giá,2,210000.0,133644.0,0.0,420000.00
+2021-10-17,17:42:43,SO20211017/S26-25,2,Huy Nguyễn Văn,Nồi cơm nắp rời,KPIM Mart Bạch Đằng,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-17,19:46:18,SO20211017/S26-32,3,Bảo Phùng Gia,"Gia vị nấu lẩu, canh",KPIM Mart Bạch Đằng,Giảm giá mua trên 15 sản phẩm,18,38000.0,19000.0,1900.0,649800.00
+2021-10-17,11:39:44,SO20211017/S29-9,3,Quân Phạm Tùng,"Xay tiêu, tỏi",KPIM Mart Hàng Trống,Không giảm giá,4,85000.0,50232.0,0.0,340000.00
+2021-10-18,10:18:08,SO20211018/S7-7,2,Linh Tạ Thị Diệu,Ly giữ nhiệt,KPIM Mart Phố Huế,Không giảm giá,7,220000.0,110000.0,0.0,1540000.00
+2021-10-18,10:18:08,SO20211018/S7-7,3,Linh Tạ Thị Diệu,"Xay tiêu, tỏi",KPIM Mart Phố Huế,Giảm giá mua trên 35 sản phẩm,44,85000.0,50232.0,12750.0,3179000.00
+2021-07-02,10:56:16,SO20210702/S21-10,2,Anh Đinh Cát,Cháo ly,KPIM Mart Nguyễn Khang,Giảm giá mua trên 35 sản phẩm,45,12500.0,6250.0,1875.0,478125.00
+2021-07-02,07:20:12,SO20210702/S24-1,3,Huy Trần Nhật,Tiêu xay,KPIM Mart Nghĩa Đô,Không giảm giá,1,13800.0,5161.0,0.0,13800.00
+2021-07-02,13:53:58,SO20210702/S24-12,3,Hạnh Dương Thị Bích,Miến khác,KPIM Mart Nghĩa Đô,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-07-02,18:08:48,SO20210702/S24-24,3,Đức Nguyễn Văn,Tiêu xay,KPIM Mart Nghĩa Đô,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-09-30,10:04:00,SO20210930/S2-9,4,Tâm Lương Hoàng Minh,Tiêu xay,KPIM Mart Ngọc Hà,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-09-30,11:26:53,SO20210930/S2-13,1,Kiệt Võ Anh,Miến khác,KPIM Mart Ngọc Hà,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-09-30,12:56:50,SO20210930/S2-18,2,Ly Nguyễn Phương,Miến khác,KPIM Mart Ngọc Hà,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-09-30,12:56:50,SO20210930/S2-18,3,Ly Nguyễn Phương,Máy ép chậm,KPIM Mart Ngọc Hà,Không giảm giá,7,1390000.0,781736.0,0.0,9730000.00
+2021-09-30,17:09:16,SO20210930/S2-31,1,Nghĩa Hoàng Nhân,Dao thái,KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,17,80000.0,47278.0,4000.0,1292000.00
+2021-09-30,17:52:58,SO20210930/S2-37,1,Linh Nguyễn Tuệ,Tiêu xay,KPIM Mart Ngọc Hà,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-09-30,17:52:58,SO20210930/S2-37,3,Linh Nguyễn Tuệ,Cháo ly,KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,18,12500.0,6250.0,625.0,213750.00
+2021-09-30,17:52:58,SO20210930/S2-37,4,Linh Nguyễn Tuệ,Cháo ly,KPIM Mart Ngọc Hà,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-09-30,18:26:30,SO20210930/S2-39,4,Trung Phan Tuấn,Chả Bò,KPIM Mart Ngọc Hà,Không giảm giá,3,48000.0,24000.0,0.0,144000.00
+2021-09-30,11:36:08,SO20210930/S5-4,1,My Lê Thị Trà,Cháo ly,KPIM Mart Hàn Thuyên,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-09-30,11:36:08,SO20210930/S5-4,2,My Lê Thị Trà,Miến khác,KPIM Mart Hàn Thuyên,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-17,20:51:48,SO20211017/S7-56,1,An Nguyễn Thiên,Bếp gas mini,KPIM Mart Phố Huế,Không giảm giá,1,360000.0,223776.0,0.0,360000.00
+2021-10-17,20:51:48,SO20211017/S7-56,2,An Nguyễn Thiên,Tiêu xay,KPIM Mart Phố Huế,Không giảm giá,8,13800.0,5161.0,0.0,110400.00
+2021-10-17,20:51:48,SO20211017/S7-56,3,An Nguyễn Thiên,Nắp chắn dầu,KPIM Mart Phố Huế,Không giảm giá,3,75000.0,37500.0,0.0,225000.00
+2021-10-17,12:05:45,SO20211017/S13-11,1,Tú Vương Ngọc,Cháo ly,KPIM Mart Đức Giang,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-17,12:05:45,SO20211017/S13-11,3,Tú Vương Ngọc,Dao thái,KPIM Mart Đức Giang,Giảm giá mua trên 5 sản phẩm,11,80000.0,47278.0,1600.0,862400.00
+2021-10-17,12:05:45,SO20211017/S13-11,4,Tú Vương Ngọc,Ly thủy tinh,KPIM Mart Đức Giang,Không giảm giá,4,4000.0,2000.0,0.0,16000.00
+2021-10-17,18:26:30,SO20211017/S13-38,1,Tuấn Nguyễn Minh,Hỗn Hợp Hạt Dạng Thanh Giàu Đạm Hạt Vị Caramel Muối Và Bơ,KPIM Mart Đức Giang,Không giảm giá,2,209000.0,133008.0,0.0,418000.00
+2021-10-16,13:05:46,SO20211016/S26-13,2,Trinh Huỳnh Thị Tú,Nồi cơm nấu chậm,KPIM Mart Bạch Đằng,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-10-17,16:39:30,SO20211017/S4-1,1,Mạnh Nguyễn Tiến,Bình đựng nước thủy tinh,KPIM Mart Lĩnh Nam,Không giảm giá,2,120000.0,74592.0,0.0,240000.00
+2021-10-17,10:20:32,SO20211017/S7-9,1,Bách Đỗ Gia,Cafe đen hòa tan,KPIM Mart Phố Huế,Không giảm giá,1,202000.0,101000.0,0.0,202000.00
+2021-10-17,10:20:32,SO20211017/S7-9,2,Bách Đỗ Gia,Vỉ hấp,KPIM Mart Phố Huế,Không giảm giá,8,80000.0,47278.0,0.0,640000.00
+2021-10-17,18:11:13,SO20211017/S7-34,1,Quang Nguyễn Minh,Vỉ hấp,KPIM Mart Phố Huế,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-17,18:53:42,SO20211017/S7-41,2,Thịnh Doãn Tiến,Nồi đất,KPIM Mart Phố Huế,Không giảm giá,1,190000.0,95000.0,0.0,190000.00
+2021-10-17,07:41:42,SO20211017/S13-2,3,Khánh Lê Minh Nam,Cafe phin nguyên hạt,KPIM Mart Đức Giang,Không giảm giá,4,276000.0,138000.0,0.0,1104000.00
+2021-10-17,12:05:45,SO20211017/S13-11,2,Tú Vương Ngọc,Bếp gas đơn,KPIM Mart Đức Giang,Không giảm giá,4,400000.0,248640.0,0.0,1600000.00
+2021-10-17,14:24:12,SO20211017/S13-17,2,Hà Phạm Thu,Bia,KPIM Mart Đức Giang,Giảm giá mua trên 35 sản phẩm,59,280000.0,140000.0,42000.0,14042000.00
+2021-09-30,10:04:00,SO20210930/S2-9,2,Tâm Lương Hoàng Minh,Bình đựng nước thủy tinh,KPIM Mart Ngọc Hà,Giảm giá mua trên 25 sản phẩm,36,120000.0,74592.0,12000.0,3888000.00
+2021-09-30,10:04:00,SO20210930/S2-9,3,Tâm Lương Hoàng Minh,"Kẹp gắp, khui hộp",KPIM Mart Ngọc Hà,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-09-30,12:56:50,SO20210930/S2-18,1,Ly Nguyễn Phương,Vỉ hấp,KPIM Mart Ngọc Hà,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-10-17,16:13:46,SO20211017/S20-12,2,Ngọc Nguyễn Hồng,Bánh que &,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-17,17:17:18,SO20211017/S20-19,1,Hạnh Phạm Minh,Miến khác,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-17,17:17:18,SO20211017/S20-19,3,Hạnh Phạm Minh,Chả Bò,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,1,48000.0,24000.0,0.0,48000.00
+2021-10-17,17:57:33,SO20211017/S20-25,1,Nam Phạm Phương,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,3,78000.0,46096.0,0.0,234000.00
+2021-09-30,20:56:04,SO20210930/S13-30,1,Đức Nguyễn Tiến,Miến khác,KPIM Mart Đức Giang,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-09-30,20:56:04,SO20210930/S13-30,2,Đức Nguyễn Tiến,Cháo ly,KPIM Mart Đức Giang,Không giảm giá,7,12500.0,6250.0,0.0,87500.00
+2021-09-30,06:28:39,SO20210930/S16-1,1,Thành Đào Thế,Tiêu xay,KPIM Mart Ô Chợ Dừa,Không giảm giá,5,13800.0,5161.0,0.0,69000.00
+2021-09-30,06:28:39,SO20210930/S16-1,2,Thành Đào Thế,Ly thủy tinh,KPIM Mart Ô Chợ Dừa,Không giảm giá,10,4000.0,2000.0,0.0,40000.00
+2021-09-30,18:26:54,SO20210930/S16-17,1,Thư Phạm Minh,Miến khác,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-09-30,20:45:32,SO20210930/S16-23,1,Hoàng Nguyễn Sỹ,Miến khác,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-09-30,08:35:08,SO20210930/S23-4,1,Hoàn Lê Văn,Miến khác,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,29,363000.0,225641.0,36300.0,9474300.00
+2021-09-30,09:32:19,SO20210930/S23-5,1,Mai Trần Phùng Xuân,Tiêu xay,KPIM Mart Dịch Vọng,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-09-30,14:49:39,SO20210930/S23-12,5,Quân Nguyễn Đoàn Minh,Tiêu xay,KPIM Mart Dịch Vọng,Giảm giá mua trên 15 sản phẩm,18,13800.0,5161.0,690.0,235980.00
+2021-09-30,18:26:30,SO20210930/S2-39,3,Trung Phan Tuấn,"Kẹp gắp, khui hộp",KPIM Mart Ngọc Hà,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-09-30,11:40:12,SO20210930/S5-5,1,Anh Nguyễn Thế,Cafe đen hòa tan,KPIM Mart Hàn Thuyên,Không giảm giá,3,202000.0,101000.0,0.0,606000.00
+2021-09-30,15:26:33,SO20210930/S5-12,2,Trung Trần Quang,Nồi cơm nấu chậm,KPIM Mart Hàn Thuyên,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-09-30,18:32:18,SO20210930/S5-25,3,Trí Nguyễn Viết,Bếp từ đôi,KPIM Mart Hàn Thuyên,Giảm giá mua trên 35 sản phẩm,45,3250000.0,1753885.0,487500.0,124312500.00
+2021-09-30,06:41:15,SO20210930/S15-3,1,Thành Nguyễn Ngọc Huy,Gia vị dạng bột khác,KPIM Mart Tây Sơn,Không giảm giá,9,125000.0,77700.0,0.0,1125000.00
+2021-09-30,12:05:28,SO20210930/S15-11,2,Anh Bùi Thị Quỳnh,Bếp từ đôi,KPIM Mart Tây Sơn,Không giảm giá,3,3250000.0,1753885.0,0.0,9750000.00
+2021-09-30,16:37:12,SO20210930/S23-15,3,Anh Vũ Thị Phương,Cá trích hộp,KPIM Mart Dịch Vọng,Giảm giá mua trên 35 sản phẩm,47,12000.0,6000.0,1800.0,479400.00
+2021-09-30,17:17:19,SO20210930/S23-18,1,Uyên Lưu Nguyễn Hoàng,Miến khác,KPIM Mart Dịch Vọng,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-09-30,12:59:09,SO20210930/S26-7,1,Hường Nguyễn Thúy,Bánh que &,KPIM Mart Bạch Đằng,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-09-30,17:11:52,SO20210930/S26-11,2,Linh Nguyễn Hương,Dao thái,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,29,80000.0,47278.0,8000.0,2088000.00
+2021-09-30,19:55:18,SO20210930/S26-20,3,Quang Trần Minh,Nồi inox,KPIM Mart Bạch Đằng,Giảm giá mua trên 15 sản phẩm,17,720000.0,458208.0,36000.0,11628000.00
+2021-09-30,18:37:18,SO20210930/S29-19,1,Mỹ Trần Hoàng,Tiêu xay,KPIM Mart Hàng Trống,Giảm giá mua trên 25 sản phẩm,36,13800.0,5161.0,1380.0,447120.00
+2021-09-30,18:37:18,SO20210930/S29-19,3,Mỹ Trần Hoàng,Rau củ đóng hộp,KPIM Mart Hàng Trống,Giảm giá mua trên 35 sản phẩm,49,37500.0,18750.0,5625.0,1561875.00
+2021-09-30,20:14:10,SO20210930/S29-20,1,Huy Nguyễn Thành,Tiêu xay,KPIM Mart Hàng Trống,Giảm giá mua trên 35 sản phẩm,45,13800.0,5161.0,2070.0,527850.00
+2021-09-30,20:14:10,SO20210930/S29-20,3,Huy Nguyễn Thành,Miến khác,KPIM Mart Hàng Trống,Giảm giá mua trên 15 sản phẩm,22,363000.0,225641.0,18150.0,7586700.00
+2021-09-30,11:22:19,SO20210930/S8-9,1,Giang Lê Thị Thanh,Giò Lụa Ngon,KPIM Mart Phan Chu Trinh,Không giảm giá,2,225000.0,112500.0,0.0,450000.00
+2021-09-30,07:13:07,SO20210930/S18-1,1,Kỳ Trương Thư,Nồi cơm nấu chậm,KPIM Mart Vũ Tông Phan,Không giảm giá,2,1500000.0,843600.0,0.0,3000000.00
+2021-09-30,07:13:07,SO20210930/S18-1,2,Kỳ Trương Thư,Mì khoai tây,KPIM Mart Vũ Tông Phan,Không giảm giá,3,4200.0,2100.0,0.0,12600.00
+2021-09-30,07:51:22,SO20210930/S18-2,3,Ngọc Trần Trí Bảo,Nồi nhôm,KPIM Mart Vũ Tông Phan,Không giảm giá,3,580000.0,369112.0,0.0,1740000.00
+2021-09-30,11:08:01,SO20210930/S18-6,3,Bảo Nguyễn Gia,Nồi nhôm,KPIM Mart Vũ Tông Phan,Không giảm giá,3,580000.0,369112.0,0.0,1740000.00
+2021-09-30,11:47:53,SO20210930/S7-13,1,Linh Trương Khánh,Nồi nhôm,KPIM Mart Phố Huế,Không giảm giá,1,580000.0,369112.0,0.0,580000.00
+2021-09-30,18:43:00,SO20210930/S7-30,2,Thảo Nguyễn Thị Thanh,Bếp từ hồng ngoại,KPIM Mart Phố Huế,Giảm giá mua trên 15 sản phẩm,15,3250000.0,1972100.0,162500.0,46312500.00
+2021-09-30,20:31:43,SO20210930/S7-35,2,Trang Nguyễn Minh,Vỉ hấp,KPIM Mart Phố Huế,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-09-30,18:12:19,SO20210930/S10-1,3,Tuấn Lưu Anh,"Kẹp gắp, khui hộp",KPIM Mart Võng Thị,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-09-30,11:26:01,SO20210930/S13-9,3,Trang Nguyễn Linh,Mì cay,KPIM Mart Đức Giang,Không giảm giá,8,5500.0,4235.0,0.0,44000.00
+2021-09-30,11:26:01,SO20210930/S13-9,4,Trang Nguyễn Linh,Nồi đất,KPIM Mart Đức Giang,Không giảm giá,1,190000.0,95000.0,0.0,190000.00
+2021-09-30,17:21:38,SO20210930/S13-15,3,Linh Đỗ Nhật,Máy đánh trứng,KPIM Mart Đức Giang,Không giảm giá,1,711000.0,452480.0,0.0,711000.00
+2021-09-30,18:26:54,SO20210930/S16-17,2,Thư Phạm Minh,Tương cà,KPIM Mart Ô Chợ Dừa,Không giảm giá,9,27000.0,13500.0,0.0,243000.00
+2021-09-30,09:32:19,SO20210930/S23-5,2,Mai Trần Phùng Xuân,Gia vị dạng bột khác,KPIM Mart Dịch Vọng,Không giảm giá,1,125000.0,77700.0,0.0,125000.00
+2021-09-30,09:32:19,SO20210930/S23-5,3,Mai Trần Phùng Xuân,Nồi đất,KPIM Mart Dịch Vọng,Không giảm giá,1,190000.0,95000.0,0.0,190000.00
+2021-09-30,09:32:19,SO20210930/S23-5,4,Mai Trần Phùng Xuân,"Kẹp gắp, khui hộp",KPIM Mart Dịch Vọng,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-09-30,18:49:06,SO20210930/S8-29,1,Huyền Phan Thanh,Dao thái,KPIM Mart Phan Chu Trinh,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-09-30,11:59:12,SO20210930/S15-10,2,Quân Đặng Minh,Bình đun siêu tốc,KPIM Mart Tây Sơn,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-09-30,14:19:23,SO20210930/S15-13,1,Đức Nguyễn Hưng,"Thau, rổ",KPIM Mart Tây Sơn,Không giảm giá,7,275000.0,137500.0,0.0,1925000.00
+2021-09-30,10:42:00,SO20210930/S18-5,2,Anh Nguyễn Hoàng,Tiêu xay,KPIM Mart Vũ Tông Phan,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-09-30,11:08:01,SO20210930/S18-6,1,Bảo Nguyễn Gia,Nồi inox,KPIM Mart Vũ Tông Phan,Giảm giá mua trên 35 sản phẩm,41,720000.0,458208.0,108000.0,25092000.00
+2021-09-30,11:08:01,SO20210930/S18-6,2,Bảo Nguyễn Gia,Miến khác,KPIM Mart Vũ Tông Phan,Giảm giá mua trên 15 sản phẩm,19,363000.0,225641.0,18150.0,6552150.00
+2021-09-30,15:12:02,SO20210930/S18-10,4,Linh Lê Thị Phương,Cháo ly,KPIM Mart Vũ Tông Phan,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-09-30,19:37:53,SO20210930/S18-21,1,Việt Đỗ Trọng,Bếp gas mini,KPIM Mart Vũ Tông Phan,Không giảm giá,2,360000.0,223776.0,0.0,720000.00
+2021-09-30,20:56:04,SO20210930/S13-30,3,Đức Nguyễn Tiến,Sữa tươi,KPIM Mart Đức Giang,Không giảm giá,10,320000.0,193723.0,0.0,3200000.00
+2021-09-30,06:28:39,SO20210930/S16-1,3,Thành Đào Thế,Khăn giấy hộp,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-09-30,17:49:45,SO20210930/S16-15,1,Anh Nguyễn Bá Quốc,Muối hồng Himalaya,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 35 sản phẩm,41,17500.0,8750.0,2625.0,609875.00
+2021-09-30,17:49:45,SO20210930/S16-15,2,Anh Nguyễn Bá Quốc,Khăn giấy bỏ túi,KPIM Mart Ô Chợ Dừa,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-09-30,20:45:32,SO20210930/S16-23,2,Hoàng Nguyễn Sỹ,Bếp gas âm,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,3190000.0,1935692.0,0.0,3190000.00
+2021-09-30,08:20:35,SO20210930/S23-3,1,Nam Lê Phạm Hải,Bún mắm,KPIM Mart Dịch Vọng,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-09-30,14:49:39,SO20210930/S23-12,1,Quân Nguyễn Đoàn Minh,Cafe đen lon,KPIM Mart Dịch Vọng,Không giảm giá,7,360000.0,196390.0,0.0,2520000.00
+2021-09-30,16:37:12,SO20210930/S23-15,1,Anh Vũ Thị Phương,Lò vi sóng,KPIM Mart Dịch Vọng,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-09-30,16:37:12,SO20210930/S23-15,2,Anh Vũ Thị Phương,Cafe đen lon,KPIM Mart Dịch Vọng,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-09-30,16:20:38,SO20210930/S26-9,2,Hà Nguyễn Hải,Bún mắm,KPIM Mart Bạch Đằng,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-09-30,18:04:46,SO20210930/S8-27,3,Kiệt Nguyễn Tuấn,Bánh trứng,KPIM Mart Phan Chu Trinh,Không giảm giá,4,41000.0,20500.0,0.0,164000.00
+2021-09-30,11:59:12,SO20210930/S15-10,1,Quân Đặng Minh,Khăn giấy hộp,KPIM Mart Tây Sơn,Giảm giá mua trên 25 sản phẩm,28,11500.0,5750.0,1150.0,289800.00
+2021-09-30,12:05:28,SO20210930/S15-11,1,Anh Bùi Thị Quỳnh,Bún mắm,KPIM Mart Tây Sơn,Giảm giá mua trên 15 sản phẩm,23,215000.0,107500.0,10750.0,4697750.00
+2021-09-30,07:51:22,SO20210930/S18-2,1,Ngọc Trần Trí Bảo,Lò vi sóng,KPIM Mart Vũ Tông Phan,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-09-30,10:42:00,SO20210930/S18-5,1,Anh Nguyễn Hoàng,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Vũ Tông Phan,Không giảm giá,3,119000.0,73970.0,0.0,357000.00
+2021-09-30,11:08:01,SO20210930/S18-6,4,Bảo Nguyễn Gia,Cafe đen lon,KPIM Mart Vũ Tông Phan,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-09-30,15:12:02,SO20210930/S18-10,1,Linh Lê Thị Phương,Sữa tươi,KPIM Mart Vũ Tông Phan,Không giảm giá,1,320000.0,193723.0,0.0,320000.00
+2021-09-30,15:12:02,SO20210930/S18-10,2,Linh Lê Thị Phương,Cafe đen lon,KPIM Mart Vũ Tông Phan,Không giảm giá,5,360000.0,196390.0,0.0,1800000.00
+2021-09-30,15:12:02,SO20210930/S18-10,3,Linh Lê Thị Phương,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Vũ Tông Phan,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-09-30,18:28:05,SO20210930/S18-17,2,Luân Lý Trung,Cafe đen lon,KPIM Mart Vũ Tông Phan,Giảm giá mua trên 25 sản phẩm,26,360000.0,196390.0,36000.0,8424000.00
+2021-09-30,07:28:55,SO20210930/S21-1,1,An Lê Minh Thúy,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Nguyễn Khang,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-09-30,19:40:39,SO20210930/S26-18,2,Anh Nguyễn Thị Thảo,Cafe đen lon,KPIM Mart Bạch Đằng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-09-30,19:55:18,SO20210930/S26-20,1,Quang Trần Minh,Cafe đen lon,KPIM Mart Bạch Đằng,Không giảm giá,5,360000.0,196390.0,0.0,1800000.00
+2021-09-30,19:55:18,SO20210930/S26-20,2,Quang Trần Minh,Cafe đen lon,KPIM Mart Bạch Đằng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-09-30,16:07:37,SO20210930/S29-13,1,Thành Dương Trung,Mắm ruốc,KPIM Mart Hàng Trống,Không giảm giá,3,81000.0,47869.0,0.0,243000.00
+2021-09-30,18:37:18,SO20210930/S29-19,4,Mỹ Trần Hoàng,Bếp gas đôi,KPIM Mart Hàng Trống,Không giảm giá,6,470000.0,292152.0,0.0,2820000.00
+2021-09-30,18:37:18,SO20210930/S29-19,5,Mỹ Trần Hoàng,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Hàng Trống,Không giảm giá,3,119000.0,73970.0,0.0,357000.00
+2021-09-30,18:37:18,SO20210930/S29-19,6,Mỹ Trần Hoàng,Bún mắm,KPIM Mart Hàng Trống,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-01,11:15:44,SO20211001/S1-18,1,Linh Lê Thị Thùy,Cafe đen lon,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,360000.0,196390.0,0.0,1080000.00
+2021-10-01,12:06:47,SO20211001/S1-22,2,Thịnh Phan Văn,Cafe đen lon,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,5,360000.0,196390.0,0.0,1800000.00
+2021-10-01,14:26:30,SO20211001/S1-30,1,Duyên Phạm Hoàng Phương,Khăn giấy hộp,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-01,15:36:59,SO20211001/S1-33,1,Ngân Bùi Thu,Cafe đen lon,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-01,15:44:33,SO20211001/S1-34,2,Linh Dương Lâm Khánh,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-01,15:44:33,SO20211001/S1-34,3,Linh Dương Lâm Khánh,Bún mắm,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,29,215000.0,107500.0,21500.0,5611500.00
+2021-10-01,17:32:16,SO20211001/S1-46,1,Thành Nguyễn Bá,Cafe đen lon,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,44,360000.0,196390.0,54000.0,13464000.00
+2021-10-01,17:56:11,SO20211001/S1-49,1,Oanh Bùi Thị Kim,Bánh trứng,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,43,41000.0,20500.0,6150.0,1498550.00
+2021-10-17,18:49:11,SO20211017/S23-32,2,Tài Võ Văn,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Dịch Vọng,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-17,18:49:11,SO20211017/S23-32,3,Tài Võ Văn,Khăn giấy hộp,KPIM Mart Dịch Vọng,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-17,18:49:41,SO20211017/S23-33,1,Mạnh Trần Tiến,Nồi cơm điện tử,KPIM Mart Dịch Vọng,Không giảm giá,1,1190000.0,669256.0,0.0,1190000.00
+2021-10-17,17:42:43,SO20211017/S26-25,3,Huy Nguyễn Văn,Lò vi sóng,KPIM Mart Bạch Đằng,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-10-17,18:47:37,SO20211017/S26-28,1,Thy Lê Hồ Minh,Khăn giấy hộp,KPIM Mart Bạch Đằng,Giảm giá mua trên 15 sản phẩm,15,11500.0,5750.0,575.0,163875.00
+2021-10-17,20:33:44,SO20211017/S26-35,1,Vy Bùi Hà,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Bạch Đằng,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-17,10:25:25,SO20211017/S29-4,2,Việt Vũ Hoàng,Bún mắm,KPIM Mart Hàng Trống,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-17,19:56:43,SO20211017/S29-33,1,Hiếu Lê Hữu,Bún mắm,KPIM Mart Hàng Trống,Không giảm giá,3,215000.0,107500.0,0.0,645000.00
+2021-10-17,21:31:11,SO20211017/S29-36,2,Đạo Nguyễn Tiến,Khăn giấy hộp,KPIM Mart Hàng Trống,Không giảm giá,4,11500.0,5750.0,0.0,46000.00
+2021-10-18,10:18:08,SO20211018/S7-7,1,Linh Tạ Thị Diệu,Cafe đen lon,KPIM Mart Phố Huế,Giảm giá mua trên 25 sản phẩm,32,360000.0,196390.0,36000.0,10368000.00
+2021-10-18,11:57:42,SO20211018/S7-9,1,Chi Hoàng Linh,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Phố Huế,Giảm giá mua trên 25 sản phẩm,27,119000.0,73970.0,11900.0,2891700.00
+2021-09-30,19:08:35,SO20210930/S21-24,3,Đăng Trần Đồng Hải,Cá nục hộp,KPIM Mart Nguyễn Khang,Không giảm giá,3,21000.0,16170.0,0.0,63000.00
+2021-10-01,11:04:18,SO20211001/S6-6,1,Khoa Nguyễn Anh,Khăn giấy hộp,KPIM Mart UDIC Riverside 1,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-01,11:32:19,SO20211001/S6-11,1,Linh Lý Lê Khánh,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-01,12:38:11,SO20211001/S6-16,2,Minh Ngô Tuấn,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-01,12:38:11,SO20211001/S6-16,4,Minh Ngô Tuấn,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart UDIC Riverside 1,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-01,16:45:48,SO20211001/S6-24,1,Trang Nguyễn Thuỳ,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-01,17:56:24,SO20211001/S6-36,1,Ngân Nguyễn Thị Kim,Khô chà bông,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,32,44100.0,22050.0,4410.0,1270080.00
+2021-10-01,18:06:10,SO20211001/S6-38,1,Vi Đỗ Thuỳ Thảo,Giò Bò Ngon,KPIM Mart UDIC Riverside 1,Không giảm giá,2,295000.0,178588.0,0.0,590000.00
+2021-10-01,19:26:29,SO20211001/S6-42,4,An Nguyễn Thùy,Khăn giấy bỏ túi,KPIM Mart UDIC Riverside 1,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-01,20:57:42,SO20211001/S6-48,4,Uyên Đinh Khánh,Khăn giấy bỏ túi,KPIM Mart UDIC Riverside 1,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-01,20:57:42,SO20211001/S6-48,6,Uyên Đinh Khánh,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,3,360000.0,196390.0,0.0,1080000.00
+2021-10-01,21:36:41,SO20211001/S6-50,3,Giang Đinh Trường,Khăn giấy hộp,KPIM Mart UDIC Riverside 1,Không giảm giá,4,11500.0,5750.0,0.0,46000.00
+2021-10-01,09:10:20,SO20211001/S12-6,2,Triết Lê Hoàng Minh,Bún mắm,KPIM Mart Thạch Bàn,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-01,11:43:59,SO20211001/S12-10,2,Tú Đỗ Phạm Tuấn,Khăn giấy hộp,KPIM Mart Thạch Bàn,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-01,11:44:44,SO20211001/S12-11,1,Nguyên Nguyễn Trọng,Bún mắm,KPIM Mart Thạch Bàn,Giảm giá mua trên 15 sản phẩm,23,215000.0,107500.0,10750.0,4697750.00
+2021-07-02,20:57:59,SO20210702/S18-30,2,Chi Đinh Hà,Bắp Hạt Đông Lạnh,KPIM Mart Vũ Tông Phan,Không giảm giá,2,12000.0,6000.0,0.0,24000.00
+2021-07-02,10:28:19,SO20210702/S21-9,2,Nhung Trần Hồng,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Nguyễn Khang,Không giảm giá,2,119000.0,73970.0,0.0,238000.00
+2021-07-02,10:28:19,SO20210702/S21-9,3,Nhung Trần Hồng,Bếp gas âm,KPIM Mart Nguyễn Khang,Không giảm giá,5,3190000.0,1935692.0,0.0,15950000.00
+2021-07-02,11:47:59,SO20210702/S21-16,2,Anh Lê Đức,Nồi cơm điện tử,KPIM Mart Nguyễn Khang,Không giảm giá,1,1190000.0,669256.0,0.0,1190000.00
+2021-07-02,17:32:50,SO20210702/S21-28,1,Trà Bùi Hương,Khăn giấy bỏ túi,KPIM Mart Nguyễn Khang,Không giảm giá,7,12500.0,6250.0,0.0,87500.00
+2021-07-02,17:32:50,SO20210702/S21-28,3,Trà Bùi Hương,Lò vi sóng,KPIM Mart Nguyễn Khang,Giảm giá mua trên 25 sản phẩm,40,1350000.0,759240.0,135000.0,48600000.00
+2021-07-02,07:20:12,SO20210702/S24-1,4,Huy Trần Nhật,Lò vi sóng,KPIM Mart Nghĩa Đô,Không giảm giá,2,1350000.0,759240.0,0.0,2700000.00
+2021-07-02,13:53:58,SO20210702/S24-12,2,Hạnh Dương Thị Bích,Nước chấm,KPIM Mart Nghĩa Đô,Giảm giá mua trên 25 sản phẩm,36,160000.0,96861.0,16000.0,5184000.00
+2021-07-02,18:08:48,SO20210702/S24-24,1,Đức Nguyễn Văn,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Nghĩa Đô,Giảm giá mua trên 35 sản phẩm,48,119000.0,73970.0,17850.0,4855200.00
+2021-07-02,18:08:48,SO20210702/S24-24,2,Đức Nguyễn Văn,Bún mắm,KPIM Mart Nghĩa Đô,Không giảm giá,9,215000.0,107500.0,0.0,1935000.00
+2021-07-02,20:08:47,SO20210702/S24-33,2,Anh Ngô Phương,Bún mắm,KPIM Mart Nghĩa Đô,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-18,18:43:35,SO20211018/S7-21,1,Minh Nguyễn Văn,Bếp gas âm,KPIM Mart Phố Huế,Không giảm giá,5,3190000.0,1935692.0,0.0,15950000.00
+2021-10-18,07:54:02,SO20211018/S13-2,4,Phúc Lê Hoàng,Khăn giấy hộp,KPIM Mart Đức Giang,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-18,15:12:44,SO20211018/S13-5,1,Thư Thạch Anh,Bún mắm,KPIM Mart Đức Giang,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-18,15:40:09,SO20211018/S16-6,1,Hiền Đồng Thị Thanh,Cafe đen lon,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 15 sản phẩm,18,360000.0,196390.0,18000.0,6156000.00
+2021-10-18,15:40:09,SO20211018/S16-6,2,Hiền Đồng Thị Thanh,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,550000.0,341880.0,0.0,1650000.00
+2021-10-18,16:17:03,SO20211018/S16-10,1,Phát Huỳnh Đức,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 15 sản phẩm,16,550000.0,341880.0,27500.0,8360000.00
+2021-10-18,17:01:28,SO20211018/S23-13,1,Quân Nguyễn Xuân,Bún mắm,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,27,215000.0,107500.0,21500.0,5224500.00
+2021-10-18,17:23:38,SO20211018/S23-15,1,Bảo Nguyễn Hữu,Nước chấm,KPIM Mart Dịch Vọng,Không giảm giá,2,160000.0,96861.0,0.0,320000.00
+2021-10-18,17:55:40,SO20211018/S23-16,1,Phúc Nguyễn Xuân,Cá nục hộp,KPIM Mart Dịch Vọng,Không giảm giá,7,21000.0,16170.0,0.0,147000.00
+2021-10-18,10:03:17,SO20211018/S26-7,2,An Nguyễn Thị Thu,Khăn giấy hộp,KPIM Mart Bạch Đằng,Không giảm giá,5,11500.0,5750.0,0.0,57500.00
+2021-10-18,13:13:39,SO20211018/S26-12,2,Uyên Nguyễn Phương,Hủ tiếu bò kho,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,38,206000.0,103000.0,20600.0,7045200.00
+2021-10-18,17:51:30,SO20211018/S26-17,1,Long Đỗ Hải,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Bạch Đằng,Không giảm giá,4,550000.0,341880.0,0.0,2200000.00
+2021-10-01,18:49:58,SO20211001/S1-59,5,Minh Nguyễn Đình,Sữa tươi,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,320000.0,193723.0,0.0,640000.00
+2021-10-01,19:40:33,SO20211001/S1-67,1,Vinh Bùi Thế,SữA Chua NếP CẩM 100G,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,36000.0,18000.0,0.0,144000.00
+2021-10-01,06:31:44,SO20211001/S11-2,3,Khánh Võ Ngọc Bảo,Bún mắm,KPIM Mart Việt Hưng,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-01,06:31:44,SO20211001/S11-2,4,Khánh Võ Ngọc Bảo,Cafe đen lon,KPIM Mart Việt Hưng,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-01,08:55:36,SO20211001/S11-7,1,Khôi Đồng Nguyên,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Việt Hưng,Không giảm giá,1,550000.0,341880.0,0.0,550000.00
+2021-10-01,11:39:46,SO20211001/S11-9,3,Quang Nguyễn Văn,Cá nục hộp,KPIM Mart Việt Hưng,Không giảm giá,4,21000.0,16170.0,0.0,84000.00
+2021-10-01,17:22:28,SO20211001/S11-25,3,Linh Nguyễn Vũ Bảo,Cafe đen lon,KPIM Mart Việt Hưng,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-01,17:36:35,SO20211001/S11-26,3,Phú Trịnh Hữu,SữA Chua NếP CẩM 100G,KPIM Mart Việt Hưng,Không giảm giá,1,36000.0,18000.0,0.0,36000.00
+2021-10-01,18:42:32,SO20211001/S11-32,2,Đạt Hoàng Văn,Trà khô,KPIM Mart Việt Hưng,Giảm giá mua trên 25 sản phẩm,31,44000.0,22000.0,4400.0,1227600.00
+2021-10-01,18:49:55,SO20211001/S11-33,2,Khánh Nguyễn Ngọc,Khăn giấy hộp,KPIM Mart Việt Hưng,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-01,07:12:06,SO20211001/S14-3,1,Dũng Lê Tiến,Khăn giấy hộp,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 25 sản phẩm,38,11500.0,5750.0,1150.0,393300.00
+2021-10-01,12:22:21,SO20211001/S14-13,1,Vy Võ Ngọc Thúy,Cafe đen lon,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 15 sản phẩm,18,360000.0,196390.0,18000.0,6156000.00
+2021-09-30,14:49:39,SO20210930/S23-12,4,Quân Nguyễn Đoàn Minh,"Kẹp gắp, khui hộp",KPIM Mart Dịch Vọng,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-09-30,17:17:19,SO20210930/S23-18,2,Uyên Lưu Nguyễn Hoàng,Cafe sữa lon  ,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,28,270000.0,135000.0,27000.0,6804000.00
+2021-09-30,16:20:38,SO20210930/S26-9,1,Hà Nguyễn Hải,Bia,KPIM Mart Bạch Đằng,Không giảm giá,5,280000.0,140000.0,0.0,1400000.00
+2021-09-30,17:11:52,SO20210930/S26-11,1,Linh Nguyễn Hương,"Kẹp gắp, khui hộp",KPIM Mart Bạch Đằng,Giảm giá mua trên 15 sản phẩm,18,80000.0,47278.0,4000.0,1368000.00
+2021-09-30,19:40:39,SO20210930/S26-18,1,Anh Nguyễn Thị Thảo,Trà hòa tan,KPIM Mart Bạch Đằng,Không giảm giá,3,72000.0,36000.0,0.0,216000.00
+2021-10-17,17:10:42,SO20211017/S20-18,1,Trọng Trần Đức,Bếp từ hồng ngoại,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,1,3250000.0,1972100.0,0.0,3250000.00
+2021-10-17,17:17:18,SO20211017/S20-19,2,Hạnh Phạm Minh,Nồi đất,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,7,190000.0,95000.0,0.0,1330000.00
+2021-10-17,18:49:11,SO20211017/S20-30,1,Kiên Quách Huy,"Kẹp gắp, khui hộp",KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-17,18:49:11,SO20211017/S20-30,2,Kiên Quách Huy,Cafe phin nguyên hạt,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 25 sản phẩm,40,276000.0,138000.0,27600.0,9936000.00
+2021-10-17,17:04:55,SO20211017/S23-21,3,Khánh Nguyễn Phạm Minh,Mì khoai tây,KPIM Mart Dịch Vọng,Giảm giá mua trên 35 sản phẩm,58,4200.0,2100.0,630.0,207060.00
+2021-10-17,20:28:59,SO20211017/S23-39,1,Anh Tạ Phương,Mì cay,KPIM Mart Dịch Vọng,Không giảm giá,1,5500.0,4235.0,0.0,5500.00
+2021-10-17,20:28:59,SO20211017/S23-39,2,Anh Tạ Phương,"Kẹp gắp, khui hộp",KPIM Mart Dịch Vọng,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-17,20:28:59,SO20211017/S23-39,3,Anh Tạ Phương,Bếp từ đôi,KPIM Mart Dịch Vọng,Không giảm giá,2,3250000.0,1753885.0,0.0,6500000.00
+2021-10-17,07:58:54,SO20211017/S26-5,1,Anh Hà Mai,Máy ép trái cây,KPIM Mart Bạch Đằng,Không giảm giá,3,1500000.0,843600.0,0.0,4500000.00
+2021-10-17,14:25:37,SO20211017/S26-16,2,Nam Hoàng Thế,Nồi cơm nấu chậm,KPIM Mart Bạch Đằng,Không giảm giá,3,1500000.0,843600.0,0.0,4500000.00
+2021-10-17,14:25:37,SO20211017/S26-16,3,Nam Hoàng Thế,Cafe đen hòa tan,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,31,202000.0,101000.0,20200.0,5635800.00
+2021-10-17,19:46:18,SO20211017/S26-32,2,Bảo Phùng Gia,Nồi cơm nấu chậm,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,26,1500000.0,843600.0,150000.0,35100000.00
+2021-10-17,20:33:44,SO20211017/S26-35,2,Vy Bùi Hà,Gia vị dạng bột khác,KPIM Mart Bạch Đằng,Không giảm giá,2,125000.0,77700.0,0.0,250000.00
+2021-10-17,20:33:44,SO20211017/S26-35,3,Vy Bùi Hà,Bánh đa cua,KPIM Mart Bạch Đằng,Không giảm giá,1,303000.0,183431.0,0.0,303000.00
+2021-10-17,10:25:25,SO20211017/S29-4,1,Việt Vũ Hoàng,Bếp từ hồng ngoại,KPIM Mart Hàng Trống,Không giảm giá,3,3250000.0,1972100.0,0.0,9750000.00
+2021-10-17,10:25:25,SO20211017/S29-4,3,Việt Vũ Hoàng,Bình đựng nước thủy tinh,KPIM Mart Hàng Trống,Không giảm giá,8,120000.0,74592.0,0.0,960000.00
+2021-09-30,19:03:08,SO20210930/S18-20,1,Đức Nguyễn Minh,Mì khoai tây,KPIM Mart Vũ Tông Phan,Giảm giá mua trên 15 sản phẩm,20,4200.0,2100.0,210.0,79800.00
+2021-09-30,20:46:08,SO20210930/S18-24,1,Sơn Nguyễn Minh,"Kẹp gắp, khui hộp",KPIM Mart Vũ Tông Phan,Giảm giá mua trên 15 sản phẩm,15,80000.0,47278.0,4000.0,1140000.00
+2021-09-30,09:37:06,SO20210930/S21-4,1,Thảo Đoàn Phạm Phương,Máy ép trái cây,KPIM Mart Nguyễn Khang,Giảm giá mua trên 25 sản phẩm,27,1500000.0,843600.0,150000.0,36450000.00
+2021-09-30,18:53:45,SO20210930/S21-23,1,Nhi Trần Hoàng Yến,Nồi cơm nấu chậm,KPIM Mart Nguyễn Khang,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-09-30,20:50:08,SO20210930/S21-27,1,Huy Vũ Gia,Máy ép trái cây,KPIM Mart Nguyễn Khang,Giảm giá mua trên 15 sản phẩm,17,1500000.0,843600.0,75000.0,24225000.00
+2021-10-01,12:38:11,SO20211001/S6-16,3,Minh Ngô Tuấn,Máy ép trái cây,KPIM Mart UDIC Riverside 1,Không giảm giá,3,1500000.0,843600.0,0.0,4500000.00
+2021-10-01,12:56:57,SO20211001/S6-18,1,Giang Ngô Hương,Nồi nhôm,KPIM Mart UDIC Riverside 1,Không giảm giá,5,580000.0,369112.0,0.0,2900000.00
+2021-10-01,16:45:48,SO20211001/S6-24,2,Trang Nguyễn Thuỳ,Bình đựng nước thủy tinh,KPIM Mart UDIC Riverside 1,Không giảm giá,4,120000.0,74592.0,0.0,480000.00
+2021-10-01,19:16:00,SO20211001/S6-40,2,Tâm Nguyễn Công,Bình đựng nước thủy tinh,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,19,120000.0,74592.0,6000.0,2166000.00
+2021-10-01,09:10:20,SO20211001/S12-6,1,Triết Lê Hoàng Minh,Bếp từ hồng ngoại,KPIM Mart Thạch Bàn,Không giảm giá,9,3250000.0,1972100.0,0.0,29250000.00
+2021-09-30,16:07:37,SO20210930/S29-13,2,Thành Dương Trung,Gia vị dạng bột khác,KPIM Mart Hàng Trống,Không giảm giá,4,125000.0,77700.0,0.0,500000.00
+2021-09-30,18:37:18,SO20210930/S29-19,2,Mỹ Trần Hoàng,"Kẹp gắp, khui hộp",KPIM Mart Hàng Trống,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-09-30,20:14:10,SO20210930/S29-20,4,Huy Nguyễn Thành,Máy ép trái cây,KPIM Mart Hàng Trống,Không giảm giá,4,1500000.0,843600.0,0.0,6000000.00
+2021-10-01,15:44:33,SO20211001/S1-34,1,Linh Dương Lâm Khánh,Cafe phin nguyên hạt,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,8,276000.0,138000.0,0.0,2208000.00
+2021-10-01,17:25:48,SO20211001/S1-44,1,Tâm Lương Hoàng Minh,Bia,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 15 sản phẩm,18,280000.0,140000.0,14000.0,4788000.00
+2021-10-01,17:56:11,SO20211001/S1-49,2,Oanh Bùi Thị Kim,Bếp từ đôi,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,5,3250000.0,1753885.0,0.0,16250000.00
+2021-10-01,17:56:11,SO20211001/S1-49,4,Oanh Bùi Thị Kim,Gia vị dạng bột khác,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,125000.0,77700.0,0.0,500000.00
+2021-10-01,18:48:45,SO20211001/S1-58,1,Phước Lê Ngọc,Gia vị dạng bột khác,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,125000.0,77700.0,0.0,125000.00
+2021-10-01,18:49:58,SO20211001/S1-59,2,Minh Nguyễn Đình,Nồi đất,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,38,190000.0,95000.0,19000.0,6498000.00
+2021-10-01,18:49:58,SO20211001/S1-59,3,Minh Nguyễn Đình,Bếp từ hồng ngoại,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,3250000.0,1972100.0,0.0,3250000.00
+2021-10-01,06:31:44,SO20211001/S11-2,1,Khánh Võ Ngọc Bảo,Vỉ hấp,KPIM Mart Việt Hưng,Giảm giá mua trên 25 sản phẩm,25,80000.0,47278.0,8000.0,1800000.00
+2021-10-17,12:37:31,SO20211017/S23-12,1,Phượng Vầy Ngọc,Bột chiên giòn,KPIM Mart Dịch Vọng,Không giảm giá,2,30000.0,15000.0,0.0,60000.00
+2021-10-17,16:18:46,SO20211017/S23-16,1,Việt Park Đinh Quốc,Miến lẩu thái,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,36,250000.0,125000.0,25000.0,8100000.00
+2021-10-17,17:04:55,SO20211017/S23-21,1,Khánh Nguyễn Phạm Minh,Tiêu xay,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,28,13800.0,5161.0,1380.0,347760.00
+2021-10-17,17:04:55,SO20211017/S23-21,5,Khánh Nguyễn Phạm Minh,Miến khác,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,28,363000.0,225641.0,36300.0,9147600.00
+2021-10-17,18:49:41,SO20211017/S23-33,3,Mạnh Trần Tiến,Cháo ly,KPIM Mart Dịch Vọng,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-17,06:28:42,SO20211017/S26-1,1,Hằng Bùi Thu,Miến khác,KPIM Mart Bạch Đằng,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-17,14:25:37,SO20211017/S26-16,1,Nam Hoàng Thế,Miến khác,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,25,363000.0,225641.0,36300.0,8167500.00
+2021-10-17,17:21:42,SO20211017/S26-22,1,Tiến Trần Dụng Nhật,Cháo ly,KPIM Mart Bạch Đằng,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-01,10:28:17,SO20211001/S11-8,3,Phương Vũ Minh,Máy ép trái cây,KPIM Mart Việt Hưng,Không giảm giá,2,1500000.0,843600.0,0.0,3000000.00
+2021-10-01,17:17:24,SO20211001/S11-24,1,Tâm Hoàng Nguyễn Duy,Cafe phin nguyên hạt,KPIM Mart Việt Hưng,Không giảm giá,5,276000.0,138000.0,0.0,1380000.00
+2021-10-01,17:17:24,SO20211001/S11-24,3,Tâm Hoàng Nguyễn Duy,"Kẹp gắp, khui hộp",KPIM Mart Việt Hưng,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-01,17:36:35,SO20211001/S11-26,1,Phú Trịnh Hữu,Nồi cơm nấu chậm,KPIM Mart Việt Hưng,Không giảm giá,4,1500000.0,843600.0,0.0,6000000.00
+2021-10-01,17:36:35,SO20211001/S11-26,4,Phú Trịnh Hữu,Nồi đất,KPIM Mart Việt Hưng,Không giảm giá,3,190000.0,95000.0,0.0,570000.00
+2021-10-01,18:49:55,SO20211001/S11-33,3,Khánh Nguyễn Ngọc,Cafe phin nguyên hạt,KPIM Mart Việt Hưng,Không giảm giá,2,276000.0,138000.0,0.0,552000.00
+2021-10-01,11:14:02,SO20211001/S14-10,2,Vy Nguyễn Phương,Máy ép trái cây,KPIM Mart Hồ Đắc Di,Không giảm giá,9,1500000.0,843600.0,0.0,13500000.00
+2021-10-17,18:51:08,SO20211017/S29-28,2,Linh Trịnh Ngọc,Bột chiên đa dụng,KPIM Mart Hàng Trống,Không giảm giá,10,19000.0,9500.0,0.0,190000.00
+2021-10-18,07:24:04,SO20211018/S7-2,1,Hải Nguyễn Đức Anh,Nồi nhôm,KPIM Mart Phố Huế,Không giảm giá,6,580000.0,369112.0,0.0,3480000.00
+2021-10-18,18:38:39,SO20211018/S13-18,1,Ngọc Nguyễn Khánh,Nồi cơm nấu chậm,KPIM Mart Đức Giang,Không giảm giá,3,1500000.0,843600.0,0.0,4500000.00
+2021-10-18,15:40:09,SO20211018/S16-6,3,Hiền Đồng Thị Thanh,Túi đựng rác size nhỏ,KPIM Mart Ô Chợ Dừa,Không giảm giá,5,69000.0,34500.0,0.0,345000.00
+2021-10-18,18:36:26,SO20211018/S16-15,2,Châm Nguyễn Ngọc Quỳnh,Vỉ hấp,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 15 sản phẩm,23,80000.0,47278.0,4000.0,1748000.00
+2021-10-18,17:51:30,SO20211018/S26-17,2,Long Đỗ Hải,Vỉ hấp,KPIM Mart Bạch Đằng,Không giảm giá,5,80000.0,47278.0,0.0,400000.00
+2021-10-01,11:43:59,SO20211001/S12-10,1,Tú Đỗ Phạm Tuấn,Máy ép trái cây,KPIM Mart Thạch Bàn,Giảm giá mua trên 15 sản phẩm,21,1500000.0,843600.0,75000.0,29925000.00
+2021-10-01,18:00:58,SO20211001/S12-28,2,Trân Phạm Quỳnh Bảo,Nồi cơm nấu chậm,KPIM Mart Thạch Bàn,Giảm giá mua trên 15 sản phẩm,20,1500000.0,843600.0,75000.0,28500000.00
+2021-10-18,11:57:42,SO20211018/S7-9,2,Chi Hoàng Linh,Túi đựng rác size vừa,KPIM Mart Phố Huế,Giảm giá mua trên 25 sản phẩm,31,82000.0,48460.0,8200.0,2287800.00
+2021-10-01,08:19:17,SO20211001/S1-9,1,Như Trần Phương,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,7,158000.0,98213.0,0.0,1106000.00
+2021-10-01,11:11:41,SO20211001/S1-17,2,Công Nguyễn Huy,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-01,12:54:39,SO20211001/S1-25,1,Linh Cù Ngọc,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,30,158000.0,98213.0,15800.0,4266000.00
+2021-10-01,14:26:30,SO20211001/S1-30,2,Duyên Phạm Hoàng Phương,Bột rau câu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,18500.0,9250.0,0.0,55500.00
+2021-10-01,17:05:20,SO20211001/S1-40,1,Thiên Nguyễn Phạm Kim Bảo,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,6,158000.0,98213.0,0.0,948000.00
+2021-10-01,17:25:48,SO20211001/S1-44,2,Tâm Lương Hoàng Minh,Ngũ vị hương,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,13300.0,4974.0,0.0,13300.00
+2021-10-01,18:42:27,SO20211001/S1-57,1,Hùng Vương Xuân,Snack khoai tây Big Sheet,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,6000.0,3000.0,0.0,6000.00
+2021-10-01,18:49:58,SO20211001/S1-59,1,Minh Nguyễn Đình,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,41,158000.0,98213.0,23700.0,5506300.00
+2021-10-01,06:31:44,SO20211001/S11-2,2,Khánh Võ Ngọc Bảo,"Gia vị nấu lẩu, canh",KPIM Mart Việt Hưng,Không giảm giá,4,38000.0,19000.0,0.0,152000.00
+2021-10-01,11:47:08,SO20211001/S19-12,2,Thư Nguyễn Thị Minh,Máy ép trái cây,KPIM Mart Royal City,Không giảm giá,2,1500000.0,843600.0,0.0,3000000.00
+2021-10-01,15:24:50,SO20211001/S19-16,2,Huyền Phạm Thu,Vỉ hấp,KPIM Mart Royal City,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-01,17:59:11,SO20211001/S19-24,1,Bình Đặng Việt An,Máy ép trái cây,KPIM Mart Royal City,Giảm giá mua trên 25 sản phẩm,27,1500000.0,843600.0,150000.0,36450000.00
+2021-10-01,11:08:05,SO20211001/S22-7,1,Nhi Quách Khả,Bếp gas đơn,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,3,400000.0,248640.0,0.0,1200000.00
+2021-10-01,11:08:05,SO20211001/S22-7,2,Nhi Quách Khả,"Kẹp gắp, khui hộp",KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 5 sản phẩm,13,80000.0,47278.0,1600.0,1019200.00
+2021-10-01,16:19:46,SO20211001/S22-17,1,Lộc Nguyễn Văn,Bếp từ đôi,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,2,3250000.0,1753885.0,0.0,6500000.00
+2021-10-01,16:42:57,SO20211001/S22-20,1,Anh Nguyễn Duy,Bếp nướng điện,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,10,549000.0,341258.0,0.0,5490000.00
+2021-10-01,18:45:55,SO20211001/S22-30,3,Anh Vũ Mai,Cafe phin nguyên hạt,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,3,276000.0,138000.0,0.0,828000.00
+2021-10-01,19:09:02,SO20211001/S22-31,1,Trang Vương Quỳnh,Cafe phin nguyên hạt,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,7,276000.0,138000.0,0.0,1932000.00
+2021-10-01,06:31:44,SO20211001/S11-2,5,Khánh Võ Ngọc Bảo,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Việt Hưng,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-10-01,11:39:46,SO20211001/S11-9,1,Quang Nguyễn Văn,Snack khoai tây Big Sheet,KPIM Mart Việt Hưng,Không giảm giá,4,6000.0,3000.0,0.0,24000.00
+2021-10-01,16:28:52,SO20211001/S11-21,1,Huy Nguyễn Đức,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Việt Hưng,Giảm giá mua trên 25 sản phẩm,31,158000.0,98213.0,15800.0,4408200.00
+2021-10-01,17:17:24,SO20211001/S11-24,2,Tâm Hoàng Nguyễn Duy,Sữa bột,KPIM Mart Việt Hưng,Không giảm giá,1,369000.0,229370.0,0.0,369000.00
+2021-10-01,17:22:28,SO20211001/S11-25,1,Linh Nguyễn Vũ Bảo,Kẹo mềm,KPIM Mart Việt Hưng,Không giảm giá,1,20000.0,10000.0,0.0,20000.00
+2021-10-01,07:12:06,SO20211001/S14-3,2,Dũng Lê Tiến,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hồ Đắc Di,Không giảm giá,8,158000.0,98213.0,0.0,1264000.00
+2021-10-01,07:12:06,SO20211001/S14-3,3,Dũng Lê Tiến,Miến sườn heo,KPIM Mart Hồ Đắc Di,Không giảm giá,4,210000.0,133644.0,0.0,840000.00
+2021-10-01,07:22:11,SO20211001/S14-4,1,Quang Trần Văn,Bột rau câu,KPIM Mart Hồ Đắc Di,Không giảm giá,7,18500.0,9250.0,0.0,129500.00
+2021-10-01,11:04:18,SO20211001/S6-6,2,Khoa Nguyễn Anh,Bột rau câu,KPIM Mart UDIC Riverside 1,Không giảm giá,3,18500.0,9250.0,0.0,55500.00
+2021-10-01,12:56:57,SO20211001/S6-18,2,Giang Ngô Hương,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,43,158000.0,98213.0,23700.0,5774900.00
+2021-10-01,17:56:24,SO20211001/S6-36,6,Ngân Nguyễn Thị Kim,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,16,158000.0,98213.0,7900.0,2401600.00
+2021-10-01,19:26:29,SO20211001/S6-42,2,An Nguyễn Thùy,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,25,158000.0,98213.0,15800.0,3555000.00
+2021-10-01,20:57:42,SO20211001/S6-48,1,Uyên Đinh Khánh,Ly sứ,KPIM Mart UDIC Riverside 1,Không giảm giá,1,20000.0,10000.0,0.0,20000.00
+2021-10-01,20:57:42,SO20211001/S6-48,3,Uyên Đinh Khánh,Ly giữ nhiệt,KPIM Mart UDIC Riverside 1,Không giảm giá,1,220000.0,110000.0,0.0,220000.00
+2021-10-01,20:57:42,SO20211001/S6-48,5,Uyên Đinh Khánh,"Xay tiêu, tỏi",KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,29,85000.0,50232.0,8500.0,2218500.00
+2021-10-01,06:18:11,SO20211001/S12-1,1,Tùng Nguyễn Khánh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Thạch Bàn,Giảm giá mua trên 35 sản phẩm,49,158000.0,98213.0,23700.0,6580700.00
+2021-10-01,07:18:49,SO20211001/S12-3,1,Vân Ngô Thị Thúy,"Xay tiêu, tỏi",KPIM Mart Thạch Bàn,Giảm giá mua trên 25 sản phẩm,31,85000.0,50232.0,8500.0,2371500.00
+2021-10-17,19:46:18,SO20211017/S26-32,1,Bảo Phùng Gia,Nồi inox,KPIM Mart Bạch Đằng,Không giảm giá,1,720000.0,458208.0,0.0,720000.00
+2021-10-17,11:39:44,SO20211017/S29-9,1,Quân Phạm Tùng,Miến khác,KPIM Mart Hàng Trống,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-17,11:39:44,SO20211017/S29-9,2,Quân Phạm Tùng,Miến lẩu thái,KPIM Mart Hàng Trống,Không giảm giá,3,250000.0,125000.0,0.0,750000.00
+2021-09-30,09:37:06,SO20210930/S21-4,2,Thảo Đoàn Phạm Phương,Dao thái,KPIM Mart Nguyễn Khang,Giảm giá mua trên 15 sản phẩm,20,80000.0,47278.0,4000.0,1520000.00
+2021-09-30,18:11:05,SO20210930/S21-17,1,Khang Hoàng Phúc,Heo hộp khác Picnic Shoulder Classic,KPIM Mart Nguyễn Khang,Giảm giá mua trên 5 sản phẩm,14,1226000.0,689502.0,24520.0,16820720.00
+2021-09-30,19:08:35,SO20210930/S21-24,2,Đăng Trần Đồng Hải,Miến khác,KPIM Mart Nguyễn Khang,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-01,17:50:47,SO20211001/S12-24,1,Nghi Ngô Đoan Bách,Ly sứ,KPIM Mart Thạch Bàn,Không giảm giá,1,20000.0,10000.0,0.0,20000.00
+2021-10-01,18:00:58,SO20211001/S12-28,1,Trân Phạm Quỳnh Bảo,"Xay tiêu, tỏi",KPIM Mart Thạch Bàn,Không giảm giá,4,85000.0,50232.0,0.0,340000.00
+2021-10-01,07:53:55,SO20211001/S19-4,1,Hiếu Bùi Minh,"Xay tiêu, tỏi",KPIM Mart Royal City,Giảm giá mua trên 25 sản phẩm,34,85000.0,50232.0,8500.0,2601000.00
+2021-10-01,11:47:08,SO20211001/S19-12,1,Thư Nguyễn Thị Minh,"Xay tiêu, tỏi",KPIM Mart Royal City,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-10-01,15:24:50,SO20211001/S19-16,1,Huyền Phạm Thu,"Xay tiêu, tỏi",KPIM Mart Royal City,Không giảm giá,6,85000.0,50232.0,0.0,510000.00
+2021-10-01,15:30:25,SO20211001/S19-17,1,Huân Đào Tư,Ngũ vị hương,KPIM Mart Royal City,Giảm giá mua trên 25 sản phẩm,31,13300.0,4974.0,1330.0,371070.00
+2021-10-01,20:25:44,SO20211001/S19-33,1,Nam Đàm Văn,Nồi cơm nắp rời,KPIM Mart Royal City,Không giảm giá,10,250000.0,125000.0,0.0,2500000.00
+2021-10-01,16:42:57,SO20211001/S22-20,2,Anh Nguyễn Duy,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-18,18:43:35,SO20211018/S7-21,3,Minh Nguyễn Văn,Tương cà Ketchup,KPIM Mart Phố Huế,Giảm giá mua trên 15 sản phẩm,17,20500.0,15785.0,1025.0,331075.00
+2021-10-18,18:43:35,SO20211018/S7-21,4,Minh Nguyễn Văn,Túi đựng rác size vừa,KPIM Mart Phố Huế,Không giảm giá,2,82000.0,48460.0,0.0,164000.00
+2021-10-18,07:54:02,SO20211018/S13-2,1,Phúc Lê Hoàng,Mì Lẩu,KPIM Mart Đức Giang,Không giảm giá,3,5600.0,2800.0,0.0,16800.00
+2021-10-01,11:32:19,SO20211001/S6-11,2,Linh Lý Lê Khánh,Miến lẩu thái,KPIM Mart UDIC Riverside 1,Không giảm giá,3,250000.0,125000.0,0.0,750000.00
+2021-10-01,12:38:11,SO20211001/S6-16,1,Minh Ngô Tuấn,Miến khác,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,20,363000.0,225641.0,18150.0,6897000.00
+2021-10-01,17:56:24,SO20211001/S6-36,2,Ngân Nguyễn Thị Kim,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-01,17:56:24,SO20211001/S6-36,3,Ngân Nguyễn Thị Kim,Cháo ly,KPIM Mart UDIC Riverside 1,Không giảm giá,9,12500.0,6250.0,0.0,112500.00
+2021-10-17,18:51:08,SO20211017/S29-28,1,Linh Trịnh Ngọc,Máy ép chậm,KPIM Mart Hàng Trống,Giảm giá mua trên 25 sản phẩm,36,1390000.0,781736.0,139000.0,45036000.00
+2021-10-17,21:31:11,SO20211017/S29-36,1,Đạo Nguyễn Tiến,Tiêu xay,KPIM Mart Hàng Trống,Không giảm giá,2,13800.0,5161.0,0.0,27600.00
+2021-10-18,07:24:04,SO20211018/S7-2,2,Hải Nguyễn Đức Anh,Miến lẩu thái,KPIM Mart Phố Huế,Không giảm giá,2,250000.0,125000.0,0.0,500000.00
+2021-10-18,07:24:04,SO20211018/S7-2,3,Hải Nguyễn Đức Anh,Chả Bò,KPIM Mart Phố Huế,Không giảm giá,1,48000.0,24000.0,0.0,48000.00
+2021-10-18,10:18:08,SO20211018/S7-7,4,Linh Tạ Thị Diệu,Cháo ly,KPIM Mart Phố Huế,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-18,18:43:35,SO20211018/S7-21,2,Minh Nguyễn Văn,Tiêu xay,KPIM Mart Phố Huế,Không giảm giá,2,13800.0,5161.0,0.0,27600.00
+2021-10-18,20:45:42,SO20211018/S7-27,1,Bảo Lê Nguyễn Gia,Miến khác,KPIM Mart Phố Huế,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-18,07:54:02,SO20211018/S13-2,2,Phúc Lê Hoàng,Chả Bò,KPIM Mart Đức Giang,Giảm giá mua trên 15 sản phẩm,23,48000.0,24000.0,2400.0,1048800.00
+2021-10-18,18:38:39,SO20211018/S13-18,3,Ngọc Nguyễn Khánh,Miến khác,KPIM Mart Đức Giang,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-18,16:04:47,SO20211018/S16-8,1,Trang Nguyễn Quỳnh,Miến khác,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 25 sản phẩm,35,363000.0,225641.0,36300.0,11434500.00
+2021-10-18,18:36:26,SO20211018/S16-15,1,Châm Nguyễn Ngọc Quỳnh,Dao thái,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-01,17:56:24,SO20211001/S6-36,4,Ngân Nguyễn Thị Kim,Cháo ly,KPIM Mart UDIC Riverside 1,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-01,17:56:24,SO20211001/S6-36,5,Ngân Nguyễn Thị Kim,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-01,19:16:00,SO20211001/S6-40,1,Tâm Nguyễn Công,Jambon Xông Khói,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,18,47000.0,23500.0,2350.0,803700.00
+2021-10-01,19:16:00,SO20211001/S6-40,3,Tâm Nguyễn Công,Dao thái,KPIM Mart UDIC Riverside 1,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-01,19:26:29,SO20211001/S6-42,1,An Nguyễn Thùy,Chả Bò,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,36,48000.0,24000.0,4800.0,1555200.00
+2021-10-01,19:26:29,SO20211001/S6-42,3,An Nguyễn Thùy,Cháo ly,KPIM Mart UDIC Riverside 1,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-10-01,20:57:42,SO20211001/S6-48,2,Uyên Đinh Khánh,Cháo ly,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 5 sản phẩm,13,12500.0,6250.0,250.0,159250.00
+2021-10-01,21:36:41,SO20211001/S6-50,1,Giang Đinh Trường,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-01,21:36:41,SO20211001/S6-50,2,Giang Đinh Trường,Miến lẩu thái,KPIM Mart UDIC Riverside 1,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-01,21:48:19,SO20211001/S6-51,1,Việt Nguyễn Hữu Đức,Miến khác,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,26,363000.0,225641.0,36300.0,8494200.00
+2021-10-01,06:18:11,SO20211001/S12-1,2,Tùng Nguyễn Khánh,Miến khác,KPIM Mart Thạch Bàn,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-01,14:54:53,SO20211001/S12-15,1,Vũ Nguyễn Văn Trường,Miến khác,KPIM Mart Thạch Bàn,Giảm giá mua trên 25 sản phẩm,29,363000.0,225641.0,36300.0,9474300.00
+2021-10-01,17:56:03,SO20211001/S12-25,1,Hiếu Trần Thị Ngọc,Miến khác,KPIM Mart Thạch Bàn,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-01,17:56:03,SO20211001/S12-25,2,Hiếu Trần Thị Ngọc,Xúc Xích Đức,KPIM Mart Thạch Bàn,Không giảm giá,5,36800.0,18400.0,0.0,184000.00
+2021-10-01,17:56:03,SO20211001/S12-25,3,Hiếu Trần Thị Ngọc,Miến khác,KPIM Mart Thạch Bàn,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-01,18:18:49,SO20211001/S12-29,1,Quang Phạm Nguyễn Minh,Miến lẩu thái,KPIM Mart Thạch Bàn,Không giảm giá,2,250000.0,125000.0,0.0,500000.00
+2021-10-01,18:41:55,SO20211001/S12-31,1,Phú Nguyễn Thành,Miến lẩu thái,KPIM Mart Thạch Bàn,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-01,18:41:55,SO20211001/S12-31,2,Phú Nguyễn Thành,Cháo ly,KPIM Mart Thạch Bàn,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-01,19:35:31,SO20211001/S12-34,1,Vy Nguyễn Ngọc Yến,Tiêu xay,KPIM Mart Thạch Bàn,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-10-01,21:42:18,SO20211001/S12-43,2,Sơn Trần Anh,Máy lọc nước,KPIM Mart Thạch Bàn,Không giảm giá,1,7800000.0,4209324.0,0.0,7800000.00
+2021-10-01,11:47:08,SO20211001/S19-12,3,Thư Nguyễn Thị Minh,Tiêu xay,KPIM Mart Royal City,Giảm giá mua trên 15 sản phẩm,18,13800.0,5161.0,690.0,235980.00
+2021-10-01,11:11:41,SO20211001/S1-17,1,Công Nguyễn Huy,Xúc xích bò Gold,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,21000.0,16170.0,0.0,42000.00
+2021-10-01,12:06:47,SO20211001/S1-22,1,Thịnh Phan Văn,Khăn lau tạp dề,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,46000.0,23000.0,0.0,138000.00
+2021-10-01,12:06:47,SO20211001/S1-22,3,Thịnh Phan Văn,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,32,13800.0,5161.0,1380.0,397440.00
+2021-10-01,17:05:20,SO20211001/S1-40,2,Thiên Nguyễn Phạm Kim Bảo,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,29,13800.0,5161.0,1380.0,360180.00
+2021-10-01,17:56:11,SO20211001/S1-49,3,Oanh Bùi Thị Kim,Miến khác,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-01,18:49:58,SO20211001/S1-59,4,Minh Nguyễn Đình,Cháo ly,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-01,10:28:17,SO20211001/S11-8,1,Phương Vũ Minh,Miến khác,KPIM Mart Việt Hưng,Giảm giá mua trên 15 sản phẩm,15,363000.0,225641.0,18150.0,5172750.00
+2021-10-01,10:28:17,SO20211001/S11-8,2,Phương Vũ Minh,Cháo ly,KPIM Mart Việt Hưng,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-01,11:39:46,SO20211001/S11-9,2,Quang Nguyễn Văn,Tiêu xay,KPIM Mart Việt Hưng,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-10-01,17:22:28,SO20211001/S11-25,2,Linh Nguyễn Vũ Bảo,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart Việt Hưng,Giảm giá mua trên 15 sản phẩm,19,78000.0,46096.0,3900.0,1407900.00
+2021-10-01,17:36:35,SO20211001/S11-26,2,Phú Trịnh Hữu,Tiêu xay,KPIM Mart Việt Hưng,Giảm giá mua trên 35 sản phẩm,46,13800.0,5161.0,2070.0,539580.00
+2021-10-01,18:42:32,SO20211001/S11-32,1,Đạt Hoàng Văn,Máy lọc nước,KPIM Mart Việt Hưng,Không giảm giá,3,7800000.0,4209324.0,0.0,23400000.00
+2021-10-01,18:42:32,SO20211001/S11-32,3,Đạt Hoàng Văn,Miến khác,KPIM Mart Việt Hưng,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-01,18:49:55,SO20211001/S11-33,1,Khánh Nguyễn Ngọc,Xúc xích bò Gold,KPIM Mart Việt Hưng,Không giảm giá,4,21000.0,16170.0,0.0,84000.00
+2021-10-01,07:22:11,SO20211001/S14-4,2,Quang Trần Văn,Cháo ly,KPIM Mart Hồ Đắc Di,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-01,12:01:12,SO20211001/S14-12,1,Nhật Phạm Nguyên,Bột chiên giòn,KPIM Mart Hồ Đắc Di,Không giảm giá,2,30000.0,15000.0,0.0,60000.00
+2021-10-01,19:08:53,SO20211001/S14-27,2,Anh Diệp Kỳ,Dao thái,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 25 sản phẩm,39,80000.0,47278.0,8000.0,2808000.00
+2021-10-01,19:13:38,SO20211001/S14-28,1,Huy Nguyễn Lê,"Cháo Yến Mạch, Chà Là Và Hồ Đào",KPIM Mart Hồ Đắc Di,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-01,06:30:23,SO20211001/S17-1,1,Lộc Vũ Tiến,"Thau, rổ",KPIM Mart Golden Land,Không giảm giá,1,275000.0,137500.0,0.0,275000.00
+2021-10-01,08:37:53,SO20211001/S17-5,2,Huy Nguyễn Gia,Vỉ nướng,KPIM Mart Golden Land,Không giảm giá,4,155000.0,96348.0,0.0,620000.00
+2021-10-01,08:37:53,SO20211001/S17-5,3,Huy Nguyễn Gia,Tiêu xay,KPIM Mart Golden Land,Giảm giá mua trên 25 sản phẩm,32,13800.0,5161.0,1380.0,397440.00
+2021-10-01,16:12:48,SO20211001/S17-14,2,Hoài Dương Minh,Giò Lụa Ngon,KPIM Mart Golden Land,Không giảm giá,1,225000.0,112500.0,0.0,225000.00
+2021-10-01,18:08:35,SO20211001/S20-26,1,Anh Nguyễn Châu,Miến khác,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-18,17:01:28,SO20211018/S23-13,2,Quân Nguyễn Xuân,Cá trích hộp,KPIM Mart Dịch Vọng,Không giảm giá,10,12000.0,6000.0,0.0,120000.00
+2021-10-18,17:55:40,SO20211018/S23-16,2,Phúc Nguyễn Xuân,Tiêu xay,KPIM Mart Dịch Vọng,Giảm giá mua trên 35 sản phẩm,44,13800.0,5161.0,2070.0,516120.00
+2021-10-18,20:56:12,SO20211018/S23-21,2,Vi Vương Thị Hà,Miến khác,KPIM Mart Dịch Vọng,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-18,13:13:39,SO20211018/S26-12,1,Uyên Nguyễn Phương,Tiêu xay,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,31,13800.0,5161.0,1380.0,385020.00
+2021-10-18,19:01:51,SO20211018/S29-16,2,Mai Huỳnh Ngọc Xuân,Miến khác,KPIM Mart Hàng Trống,Giảm giá mua trên 35 sản phẩm,57,363000.0,225641.0,54450.0,17587350.00
+2021-10-19,17:05:11,SO20211019/S3-3,3,Anh Nguyễn Mai,Chả Bò,KPIM Mart CT1A Hateco Apolo,Giảm giá mua trên 25 sản phẩm,30,48000.0,24000.0,4800.0,1296000.00
+2021-10-19,06:09:07,SO20211019/S13-1,1,Dũng Trần Hoàng,Miến lẩu thái,KPIM Mart Đức Giang,Không giảm giá,4,250000.0,125000.0,0.0,1000000.00
+2021-10-19,06:21:35,SO20211019/S13-2,2,Linh Nguyễn Thị Mai,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart Đức Giang,Không giảm giá,1,78000.0,46096.0,0.0,78000.00
+2021-10-19,11:09:38,SO20211019/S13-17,1,Nhi Nguyễn Uyên,Cháo ly,KPIM Mart Đức Giang,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-19,11:24:15,SO20211019/S13-19,1,Ly Hoàng Khánh,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart Đức Giang,Không giảm giá,2,78000.0,46096.0,0.0,156000.00
+2021-10-19,15:41:46,SO20211019/S13-21,2,Kiệt Chung Thế,Cháo đóng thùng,KPIM Mart Đức Giang,Không giảm giá,6,360000.0,196390.0,0.0,2160000.00
+2021-10-19,08:04:23,SO20211019/S16-2,1,Vinh Lê Thị Yên,Miến khác,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-01,18:32:08,SO20211001/S22-29,1,Hằng Nguyễn Diệu,"Thau, rổ",KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,4,275000.0,137500.0,0.0,1100000.00
+2021-10-01,18:32:08,SO20211001/S22-29,3,Hằng Nguyễn Diệu,Tiêu xay,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,13800.0,5161.0,0.0,13800.00
+2021-10-01,18:45:55,SO20211001/S22-30,1,Anh Vũ Mai,Bánh que &,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-01,12:27:47,SO20211001/S25-14,1,Thanh Trần Phương,Giò Lụa Ngon,KPIM Mart Trần Duy Hưng,Không giảm giá,3,225000.0,112500.0,0.0,675000.00
+2021-10-01,19:35:31,SO20211001/S12-34,2,Vy Nguyễn Ngọc Yến,Khăn giấy hộp,KPIM Mart Thạch Bàn,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-01,21:42:18,SO20211001/S12-43,1,Sơn Trần Anh,Cafe đen lon,KPIM Mart Thạch Bàn,Không giảm giá,5,360000.0,196390.0,0.0,1800000.00
+2021-10-01,08:31:42,SO20211001/S19-5,1,Hà Lê Ngọc,Khăn giấy hộp,KPIM Mart Royal City,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-01,11:47:08,SO20211001/S19-12,4,Thư Nguyễn Thị Minh,Bánh trứng,KPIM Mart Royal City,Không giảm giá,6,41000.0,20500.0,0.0,246000.00
+2021-10-01,17:10:41,SO20211001/S19-20,1,Khá Nguyễn Văn,Cafe đen lon,KPIM Mart Royal City,Không giảm giá,3,360000.0,196390.0,0.0,1080000.00
+2021-10-01,17:10:41,SO20211001/S19-20,2,Khá Nguyễn Văn,Cafe đen lon,KPIM Mart Royal City,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-01,20:25:44,SO20211001/S19-33,2,Nam Đàm Văn,Bánh bông lan,KPIM Mart Royal City,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-01,19:09:02,SO20211001/S22-31,2,Trang Vương Quỳnh,Khăn giấy hộp,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-01,11:47:40,SO20211001/S25-13,1,Hân Nguyễn Thị Ngọc,Bún mắm,KPIM Mart Trần Duy Hưng,Không giảm giá,5,215000.0,107500.0,0.0,1075000.00
+2021-10-01,16:24:13,SO20211001/S25-21,1,Hiếu Nguyễn Trung,Cafe đen lon,KPIM Mart Trần Duy Hưng,Giảm giá mua trên 35 sản phẩm,60,360000.0,196390.0,54000.0,18360000.00
+2021-10-01,17:00:40,SO20211001/S25-22,1,Quân Nguyễn Minh,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Trần Duy Hưng,Không giảm giá,4,119000.0,73970.0,0.0,476000.00
+2021-10-01,17:39:07,SO20211001/S25-24,1,Đức Vũ Hoàng,Khăn giấy hộp,KPIM Mart Trần Duy Hưng,Không giảm giá,2,11500.0,5750.0,0.0,23000.00
+2021-10-01,17:39:07,SO20211001/S25-24,2,Đức Vũ Hoàng,Cafe đen lon,KPIM Mart Trần Duy Hưng,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-01,17:39:07,SO20211001/S25-24,3,Đức Vũ Hoàng,Cafe đen lon,KPIM Mart Trần Duy Hưng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-01,17:39:07,SO20211001/S25-24,4,Đức Vũ Hoàng,Bắp Hạt Đông Lạnh,KPIM Mart Trần Duy Hưng,Không giảm giá,1,12000.0,6000.0,0.0,12000.00
+2021-10-01,18:09:32,SO20211001/S25-30,1,Huyền Ngô Thu,Cafe đen lon,KPIM Mart Trần Duy Hưng,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-01,16:24:13,SO20211001/S25-21,2,Hiếu Nguyễn Trung,Miến khác,KPIM Mart Trần Duy Hưng,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-01,17:39:07,SO20211001/S25-24,5,Đức Vũ Hoàng,Dao thái,KPIM Mart Trần Duy Hưng,Giảm giá mua trên 25 sản phẩm,37,80000.0,47278.0,8000.0,2664000.00
+2021-10-01,17:56:55,SO20211001/S25-25,2,Sơn Lê Mậu Cao,Bột chiên giòn,KPIM Mart Trần Duy Hưng,Không giảm giá,8,30000.0,15000.0,0.0,240000.00
+2021-10-01,17:56:55,SO20211001/S25-25,3,Sơn Lê Mậu Cao,Miến lẩu thái,KPIM Mart Trần Duy Hưng,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-01,06:44:59,SO20211001/S28-2,1,Phương Vương Thị Hồng,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart Hàng Buồm,Không giảm giá,1,78000.0,46096.0,0.0,78000.00
+2021-10-01,12:46:28,SO20211001/S28-13,1,Vi Hùynh Thị Hà,Dao thái,KPIM Mart Hàng Buồm,Giảm giá mua trên 35 sản phẩm,42,80000.0,47278.0,12000.0,2856000.00
+2021-10-01,17:39:16,SO20211001/S28-21,4,Anh Vương Ngọc Minh,Dao thái,KPIM Mart Hàng Buồm,Giảm giá mua trên 25 sản phẩm,39,80000.0,47278.0,8000.0,2808000.00
+2021-10-01,17:39:16,SO20211001/S28-21,5,Anh Vương Ngọc Minh,Miến lẩu thái,KPIM Mart Hàng Buồm,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-01,18:04:43,SO20211001/S28-24,2,Hải Nguyễn Duy,Miến lẩu thái,KPIM Mart Hàng Buồm,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-01,18:04:43,SO20211001/S28-24,3,Hải Nguyễn Duy,Nước yến,KPIM Mart Hàng Buồm,Không giảm giá,2,165000.0,99888.0,0.0,330000.00
+2021-10-02,07:33:04,SO20211002/S1-9,1,Quỳnh Lâm Như,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,5,13800.0,5161.0,0.0,69000.00
+2021-10-02,10:12:08,SO20211002/S1-19,2,Long Nghiêm Ngọc,Miến khác,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-01,06:49:04,SO20211001/S28-3,1,Tuấn Trần Gia,Gia vị dạng bột khác,KPIM Mart Hàng Buồm,Không giảm giá,2,125000.0,77700.0,0.0,250000.00
+2021-10-01,11:10:00,SO20211001/S28-8,1,Linh Bùi Hương,Túi đựng rác size nhỏ,KPIM Mart Hàng Buồm,Không giảm giá,4,69000.0,34500.0,0.0,276000.00
+2021-10-01,11:10:00,SO20211001/S28-8,2,Linh Bùi Hương,Bếp từ đôi,KPIM Mart Hàng Buồm,Không giảm giá,2,3250000.0,1753885.0,0.0,6500000.00
+2021-10-01,11:10:00,SO20211001/S28-8,3,Linh Bùi Hương,Bếp nướng điện,KPIM Mart Hàng Buồm,Không giảm giá,2,549000.0,341258.0,0.0,1098000.00
+2021-10-01,15:54:50,SO20211001/S28-15,3,Minh Nguyễn Lê Tuấn,Mì khoai tây,KPIM Mart Hàng Buồm,Không giảm giá,1,4200.0,2100.0,0.0,4200.00
+2021-10-02,11:16:41,SO20211002/S1-24,1,Châu Lưu Minh,Bột chiên đa dụng,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,19000.0,9500.0,0.0,76000.00
+2021-10-02,16:08:14,SO20211002/S1-37,1,Nhi Vi Thị Lâm,Nồi cơm nấu chậm,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-10-02,16:08:49,SO20211002/S1-38,1,Hương Phạm Bình Nguyên,Nồi cơm nấu chậm,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,31,1500000.0,843600.0,150000.0,41850000.00
+2021-10-02,11:13:40,SO20211002/S1-23,2,Phú Nguyễn Thành,Cháo ly,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,26,12500.0,6250.0,1250.0,292500.00
+2021-10-02,16:08:14,SO20211002/S1-37,3,Nhi Vi Thị Lâm,Máy ép chậm,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,1390000.0,781736.0,0.0,5560000.00
+2021-10-02,17:42:04,SO20211002/S1-55,4,Dương Lê Bảo,Dao thái,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-02,18:18:03,SO20211002/S1-60,2,Ngân Ngô Thiên,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-19,08:04:23,SO20211019/S16-2,3,Vinh Lê Thị Yên,Miến khác,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-19,15:04:26,SO20211019/S16-10,1,Hân Trần Thị Gia,Bánh que &,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-02,19:30:44,SO20211002/S1-69,4,Thảo Phạm Phương,Bánh đa cua,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,303000.0,183431.0,0.0,1212000.00
+2021-10-02,20:56:18,SO20211002/S1-75,1,Thắng Bùi Đức,"Kẹp gắp, khui hộp",KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,32,80000.0,47278.0,8000.0,2304000.00
+2021-10-01,12:01:12,SO20211001/S14-12,2,Nhật Phạm Nguyên,Cafe phin nguyên hạt,KPIM Mart Hồ Đắc Di,Không giảm giá,1,276000.0,138000.0,0.0,276000.00
+2021-10-01,10:48:07,SO20211001/S17-8,1,Anh Nguyễn Hà,Bột nếp,KPIM Mart Golden Land,Giảm giá mua trên 35 sản phẩm,52,19300.0,9650.0,2895.0,853060.00
+2021-10-01,19:15:33,SO20211001/S20-30,1,Hưng Phạm Tuấn,Nồi nhôm,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,5,580000.0,369112.0,0.0,2900000.00
+2021-10-01,19:58:31,SO20211001/S20-37,1,Ly Lê Thị Cẩm,Tương cà,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 5 sản phẩm,12,27000.0,13500.0,540.0,317520.00
+2021-10-01,20:43:10,SO20211001/S20-38,1,Đan Hà Linh,Vỉ hấp,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 35 sản phẩm,46,80000.0,47278.0,12000.0,3128000.00
+2021-10-01,14:46:17,SO20211001/S27-17,2,Ngọc Vũ Minh,Bếp từ hồng ngoại,KPIM Mart Phúc Tân,Giảm giá mua trên 15 sản phẩm,19,3250000.0,1972100.0,162500.0,58662500.00
+2021-10-01,19:09:19,SO20211001/S27-27,1,Trang Đào Thùy,Máy ép trái cây,KPIM Mart Phúc Tân,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-10-01,19:09:19,SO20211001/S27-27,2,Trang Đào Thùy,Bếp từ đôi,KPIM Mart Phúc Tân,Không giảm giá,3,3250000.0,1753885.0,0.0,9750000.00
+2021-10-02,07:07:02,SO20211002/S6-3,1,Bình Phạm Nguyễn Quốc,Nồi nhôm,KPIM Mart UDIC Riverside 1,Không giảm giá,2,580000.0,369112.0,0.0,1160000.00
+2021-10-02,07:07:02,SO20211002/S6-3,2,Bình Phạm Nguyễn Quốc,Bột nếp,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,53,19300.0,9650.0,2895.0,869465.00
+2021-10-02,08:38:52,SO20211002/S6-6,1,Ngân Nguyễn Thị Kim,Mì cay,KPIM Mart UDIC Riverside 1,Không giảm giá,2,5500.0,4235.0,0.0,11000.00
+2021-10-18,19:01:51,SO20211018/S29-16,3,Mai Huỳnh Ngọc Xuân,"Kẹp gắp, khui hộp",KPIM Mart Hàng Trống,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-10-19,16:00:14,SO20211019/S10-1,1,Vinh Nguyễn Thế,Bình đựng nước thủy tinh,KPIM Mart Võng Thị,Giảm giá mua trên 5 sản phẩm,13,120000.0,74592.0,2400.0,1528800.00
+2021-10-18,07:54:02,SO20211018/S13-2,3,Phúc Lê Hoàng,"Gia vị nấu lẩu, canh",KPIM Mart Đức Giang,Không giảm giá,1,38000.0,19000.0,0.0,38000.00
+2021-10-18,15:12:44,SO20211018/S13-5,2,Thư Thạch Anh,"Xay tiêu, tỏi",KPIM Mart Đức Giang,Giảm giá mua trên 35 sản phẩm,52,85000.0,50232.0,12750.0,3757000.00
+2021-10-18,17:57:10,SO20211018/S13-15,1,Minh Tạ Nhật,Snack khoai tây Big Sheet,KPIM Mart Đức Giang,Không giảm giá,1,6000.0,3000.0,0.0,6000.00
+2021-10-18,18:38:39,SO20211018/S13-18,2,Ngọc Nguyễn Khánh,"Xay tiêu, tỏi",KPIM Mart Đức Giang,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-10-18,11:31:23,SO20211018/S16-3,1,Đức Tạ Minh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 25 sản phẩm,26,158000.0,98213.0,15800.0,3697200.00
+2021-10-18,16:17:03,SO20211018/S16-10,2,Phát Huỳnh Đức,"Xay tiêu, tỏi",KPIM Mart Ô Chợ Dừa,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-10-18,17:23:38,SO20211018/S23-15,2,Bảo Nguyễn Hữu,Ngũ vị hương,KPIM Mart Dịch Vọng,Giảm giá mua trên 25 sản phẩm,30,13300.0,4974.0,1330.0,359100.00
+2021-10-18,17:23:38,SO20211018/S23-15,3,Bảo Nguyễn Hữu,Đậu Hũ,KPIM Mart Dịch Vọng,Không giảm giá,4,45000.0,22500.0,0.0,180000.00
+2021-10-18,20:56:12,SO20211018/S23-21,1,Vi Vương Thị Hà,Bình đựng nước nhựa,KPIM Mart Dịch Vọng,Không giảm giá,1,160000.0,96861.0,0.0,160000.00
+2021-10-18,10:03:17,SO20211018/S26-7,1,An Nguyễn Thị Thu,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,40,158000.0,98213.0,15800.0,5688000.00
+2021-10-18,19:01:51,SO20211018/S29-16,1,Mai Huỳnh Ngọc Xuân,Lạp xưởng khác,KPIM Mart Hàng Trống,Không giảm giá,1,146000.0,90754.0,0.0,146000.00
+2021-10-19,11:55:53,SO20211019/S19-5,1,Thắng Nguyễn Hữu,Miến khác,KPIM Mart Royal City,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-19,19:09:24,SO20211019/S19-18,1,Bảo Nguyễn Phú Gia,Miến lẩu thái,KPIM Mart Royal City,Giảm giá mua trên 15 sản phẩm,21,250000.0,125000.0,12500.0,4987500.00
+2021-10-19,19:09:24,SO20211019/S19-18,2,Bảo Nguyễn Phú Gia,Tiêu xay,KPIM Mart Royal City,Không giảm giá,2,13800.0,5161.0,0.0,27600.00
+2021-10-19,21:15:07,SO20211019/S19-22,2,Ngọc Đinh Bảo,Chả Bò,KPIM Mart Royal City,Không giảm giá,5,48000.0,24000.0,0.0,240000.00
+2021-10-19,11:33:20,SO20211019/S26-3,1,Quỳnh Trần Nguyễn Như,Cháo ly,KPIM Mart Bạch Đằng,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-19,17:37:24,SO20211019/S26-13,1,Nhân Bùi Trọng,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart Bạch Đằng,Không giảm giá,3,78000.0,46096.0,0.0,234000.00
+2021-10-19,11:52:08,SO20211019/S29-4,1,Hiển Vũ Minh,Khoai Tây Đông Lạnh,KPIM Mart Hàng Trống,Không giảm giá,10,38000.0,19000.0,0.0,380000.00
+2021-10-19,15:43:29,SO20211019/S29-7,1,Xuân Nguyễn Thị Lan,Hỗn Hợp Hạt Dạng Thanh Giàu Đạm Hạt Vị Caramel Muối Và Bơ,KPIM Mart Hàng Trống,Không giảm giá,1,209000.0,133008.0,0.0,209000.00
+2021-10-01,06:44:59,SO20211001/S28-2,2,Phương Vương Thị Hồng,Bún mắm,KPIM Mart Hàng Buồm,Giảm giá mua trên 35 sản phẩm,60,215000.0,107500.0,32250.0,10965000.00
+2021-10-01,17:39:16,SO20211001/S28-21,1,Anh Vương Ngọc Minh,Bún mắm,KPIM Mart Hàng Buồm,Không giảm giá,3,215000.0,107500.0,0.0,645000.00
+2021-10-01,17:39:16,SO20211001/S28-21,2,Anh Vương Ngọc Minh,Bánh canh,KPIM Mart Hàng Buồm,Không giảm giá,3,121000.0,75214.0,0.0,363000.00
+2021-10-01,19:31:14,SO20211001/S28-29,1,Dương Nguyễn Đức,Bánh bông lan,KPIM Mart Hàng Buồm,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-02,07:33:04,SO20211002/S1-9,2,Quỳnh Lâm Như,Cafe đen lon,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,360000.0,196390.0,0.0,1080000.00
+2021-10-02,10:12:08,SO20211002/S1-19,1,Long Nghiêm Ngọc,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,31,158000.0,98213.0,15800.0,4408200.00
+2021-10-01,10:32:28,SO20211001/S17-6,1,Châu Mai Ngọc Bảo,Khăn giấy hộp,KPIM Mart Golden Land,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-01,10:32:28,SO20211001/S17-6,2,Châu Mai Ngọc Bảo,Bún mắm,KPIM Mart Golden Land,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-01,16:12:48,SO20211001/S17-14,1,Hoài Dương Minh,Khăn giấy hộp,KPIM Mart Golden Land,Không giảm giá,2,11500.0,5750.0,0.0,23000.00
+2021-10-19,11:09:38,SO20211019/S13-17,2,Nhi Nguyễn Uyên,"Kẹp gắp, khui hộp",KPIM Mart Đức Giang,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-10-19,11:09:38,SO20211019/S13-17,3,Nhi Nguyễn Uyên,Bếp gas đơn,KPIM Mart Đức Giang,Không giảm giá,4,400000.0,248640.0,0.0,1600000.00
+2021-10-19,18:43:49,SO20211019/S13-26,1,Anh Kiều Hà,Vỉ hấp,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,39,80000.0,47278.0,8000.0,2808000.00
+2021-10-19,19:15:29,SO20211019/S16-22,1,Đức Bùi Anh,Nồi nhôm,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,580000.0,369112.0,0.0,580000.00
+2021-10-19,19:09:24,SO20211019/S19-18,3,Bảo Nguyễn Phú Gia,Vỉ hấp,KPIM Mart Royal City,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-19,21:15:07,SO20211019/S19-22,3,Ngọc Đinh Bảo,Bánh đa cua,KPIM Mart Royal City,Không giảm giá,5,303000.0,183431.0,0.0,1515000.00
+2021-10-19,11:33:20,SO20211019/S26-3,2,Quỳnh Trần Nguyễn Như,Bột chiên đa dụng,KPIM Mart Bạch Đằng,Không giảm giá,2,19000.0,9500.0,0.0,38000.00
+2021-10-19,11:33:20,SO20211019/S26-3,3,Quỳnh Trần Nguyễn Như,Nước đường,KPIM Mart Bạch Đằng,Không giảm giá,9,40000.0,20000.0,0.0,360000.00
+2021-10-19,17:59:31,SO20211019/S26-15,1,Quân Nguyễn Hữu,Máy ép trái cây,KPIM Mart Bạch Đằng,Giảm giá mua trên 5 sản phẩm,12,1500000.0,843600.0,30000.0,17640000.00
+2021-10-20,17:32:12,SO20211020/S3-1,1,Anh Nguyễn Thị Lan,Túi đựng rác size nhỏ,KPIM Mart CT1A Hateco Apolo,Không giảm giá,4,69000.0,34500.0,0.0,276000.00
+2021-10-02,12:46:40,SO20211002/S7-15,1,Hải Nguyễn Đức Anh,Vỉ hấp,KPIM Mart Phố Huế,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-02,12:46:40,SO20211002/S7-15,2,Hải Nguyễn Đức Anh,Máy ép trái cây,KPIM Mart Phố Huế,Không giảm giá,3,1500000.0,843600.0,0.0,4500000.00
+2021-10-02,13:37:43,SO20211002/S7-18,1,Châu Tạ Thị Minh,Gia vị dạng bột khác,KPIM Mart Phố Huế,Không giảm giá,2,125000.0,77700.0,0.0,250000.00
+2021-10-02,13:37:43,SO20211002/S7-18,4,Châu Tạ Thị Minh,Bếp từ hồng ngoại,KPIM Mart Phố Huế,Giảm giá mua trên 15 sản phẩm,18,3250000.0,1972100.0,162500.0,55575000.00
+2021-10-02,06:24:56,SO20211002/S14-1,2,Long Nguyễn Nhật,Nồi đất,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 35 sản phẩm,48,190000.0,95000.0,28500.0,7752000.00
+2021-10-02,06:24:56,SO20211002/S14-1,5,Long Nguyễn Nhật,Bếp gas đơn,KPIM Mart Hồ Đắc Di,Không giảm giá,4,400000.0,248640.0,0.0,1600000.00
+2021-10-02,11:37:28,SO20211002/S14-11,3,Minh Nguyễn Quang,Máy ép trái cây,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 25 sản phẩm,36,1500000.0,843600.0,150000.0,48600000.00
+2021-10-02,11:37:28,SO20211002/S14-11,4,Minh Nguyễn Quang,Máy ép trái cây,KPIM Mart Hồ Đắc Di,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-10-02,13:58:23,SO20211002/S14-16,3,Dương Lại Hoàng,Gia vị dạng bột khác,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 35 sản phẩm,46,125000.0,77700.0,18750.0,4887500.00
+2021-10-02,16:30:03,SO20211002/S6-28,2,Tài Nguyễn Dương Đúc,Máy ép trái cây,KPIM Mart UDIC Riverside 1,Không giảm giá,2,1500000.0,843600.0,0.0,3000000.00
+2021-10-02,17:13:34,SO20211002/S6-31,2,Đức Ngô Mạnh,Bếp từ đôi,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,49,3250000.0,1753885.0,487500.0,135362500.00
+2021-10-02,17:31:59,SO20211002/S6-34,2,Vy Triệu Thị Tường,Máy ép trái cây,KPIM Mart UDIC Riverside 1,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-10-02,19:42:35,SO20211002/S6-48,2,Yến Trần Thị Ngọc,Bình đựng nước thủy tinh,KPIM Mart UDIC Riverside 1,Không giảm giá,2,120000.0,74592.0,0.0,240000.00
+2021-10-02,19:42:35,SO20211002/S6-48,3,Yến Trần Thị Ngọc,"Kẹp gắp, khui hộp",KPIM Mart UDIC Riverside 1,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-10-02,19:55:06,SO20211002/S6-50,3,Linh Lã Diệu,Cafe đen hòa tan,KPIM Mart UDIC Riverside 1,Không giảm giá,3,202000.0,101000.0,0.0,606000.00
+2021-10-02,20:44:42,SO20211002/S6-55,1,Anh Vương Mỹ,Trà hòa tan,KPIM Mart UDIC Riverside 1,Không giảm giá,2,72000.0,36000.0,0.0,144000.00
+2021-10-02,20:44:42,SO20211002/S6-55,3,Anh Vương Mỹ,Bia,KPIM Mart UDIC Riverside 1,Không giảm giá,2,280000.0,140000.0,0.0,560000.00
+2021-10-02,06:33:51,SO20211002/S12-1,1,Sơn Bùi Ngọc,Bia,KPIM Mart Thạch Bàn,Không giảm giá,1,280000.0,140000.0,0.0,280000.00
+2021-10-02,17:31:20,SO20211002/S12-25,1,Linh Nguyễn Thị Hà,Vỉ hấp,KPIM Mart Thạch Bàn,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-10-02,17:31:20,SO20211002/S12-25,3,Linh Nguyễn Thị Hà,Bia,KPIM Mart Thạch Bàn,Giảm giá mua trên 35 sản phẩm,52,280000.0,140000.0,42000.0,12376000.00
+2021-10-02,17:31:20,SO20211002/S12-25,5,Linh Nguyễn Thị Hà,Trà hòa tan,KPIM Mart Thạch Bàn,Không giảm giá,3,72000.0,36000.0,0.0,216000.00
+2021-10-01,18:32:08,SO20211001/S22-29,2,Hằng Nguyễn Diệu,"Xay tiêu, tỏi",KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,7,85000.0,50232.0,0.0,595000.00
+2021-10-01,18:45:55,SO20211001/S22-30,2,Anh Vũ Mai,"Xay tiêu, tỏi",KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 25 sản phẩm,34,85000.0,50232.0,8500.0,2601000.00
+2021-10-01,19:09:02,SO20211001/S22-31,3,Trang Vương Quỳnh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-01,17:56:55,SO20211001/S25-25,1,Sơn Lê Mậu Cao,Nồi cơm nắp rời,KPIM Mart Trần Duy Hưng,Giảm giá mua trên 15 sản phẩm,24,250000.0,125000.0,12500.0,5700000.00
+2021-10-01,06:49:04,SO20211001/S28-3,2,Tuấn Trần Gia,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hàng Buồm,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-01,15:54:50,SO20211001/S28-15,1,Minh Nguyễn Lê Tuấn,Sữa bột,KPIM Mart Hàng Buồm,Không giảm giá,1,369000.0,229370.0,0.0,369000.00
+2021-10-01,15:54:50,SO20211001/S28-15,2,Minh Nguyễn Lê Tuấn,Ly giữ nhiệt,KPIM Mart Hàng Buồm,Không giảm giá,4,220000.0,110000.0,0.0,880000.00
+2021-10-01,17:39:16,SO20211001/S28-21,3,Anh Vương Ngọc Minh,Mì Lẩu,KPIM Mart Hàng Buồm,Không giảm giá,2,5600.0,2800.0,0.0,11200.00
+2021-10-01,18:04:43,SO20211001/S28-24,1,Hải Nguyễn Duy,"Xay tiêu, tỏi",KPIM Mart Hàng Buồm,Giảm giá mua trên 25 sản phẩm,40,85000.0,50232.0,8500.0,3060000.00
+2021-10-02,11:13:40,SO20211002/S1-23,1,Phú Nguyễn Thành,Đậu Hũ,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,45000.0,22500.0,0.0,45000.00
+2021-10-02,11:13:40,SO20211002/S1-23,4,Phú Nguyễn Thành,"Xay tiêu, tỏi",KPIM Mart Dốc Chợ Thành Công,Không giảm giá,6,85000.0,50232.0,0.0,510000.00
+2021-10-01,10:23:23,SO20211001/S14-8,1,Trang Đỗ Thị Thùy,Mì Lẩu,KPIM Mart Hồ Đắc Di,Không giảm giá,10,5600.0,2800.0,0.0,56000.00
+2021-10-01,11:14:02,SO20211001/S14-10,1,Vy Nguyễn Phương,Máy xay sinh tố,KPIM Mart Hồ Đắc Di,Không giảm giá,4,360000.0,223776.0,0.0,1440000.00
+2021-10-01,11:14:02,SO20211001/S14-10,3,Vy Nguyễn Phương,Tương cà Ketchup,KPIM Mart Hồ Đắc Di,Không giảm giá,2,20500.0,15785.0,0.0,41000.00
+2021-10-01,19:08:53,SO20211001/S14-27,1,Anh Diệp Kỳ,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hồ Đắc Di,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-01,08:37:53,SO20211001/S17-5,1,Huy Nguyễn Gia,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Golden Land,Giảm giá mua trên 25 sản phẩm,37,158000.0,98213.0,15800.0,5261400.00
+2021-10-01,08:37:53,SO20211001/S17-5,4,Huy Nguyễn Gia,"Xay tiêu, tỏi",KPIM Mart Golden Land,Giảm giá mua trên 5 sản phẩm,13,85000.0,50232.0,1700.0,1082900.00
+2021-10-01,19:36:11,SO20211001/S17-30,1,Ly Nguyễn Mai Hương,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Golden Land,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-10-01,17:22:43,SO20211001/S20-20,2,Ly Đỗ Nguyễn Khánh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,5,158000.0,98213.0,0.0,790000.00
+2021-10-01,18:08:35,SO20211001/S20-26,2,Anh Nguyễn Châu,Phở khác,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 35 sản phẩm,60,46000.0,23000.0,6900.0,2346000.00
+2021-10-01,21:11:21,SO20211001/S20-39,1,Anh Nguyễn Quốc,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 35 sản phẩm,47,158000.0,98213.0,23700.0,6312100.00
+2021-10-01,07:02:32,SO20211001/S27-4,1,Nam Phạm Hải,Máy xay sinh tố,KPIM Mart Phúc Tân,Không giảm giá,3,360000.0,223776.0,0.0,1080000.00
+2021-10-01,09:21:37,SO20211001/S27-9,2,Vy Trần Khánh,"Xay tiêu, tỏi",KPIM Mart Phúc Tân,Giảm giá mua trên 15 sản phẩm,15,85000.0,50232.0,4250.0,1211250.00
+2021-10-19,15:41:46,SO20211019/S13-21,1,Kiệt Chung Thế,Rau Sắc Màu Hỗn Hợp,KPIM Mart Đức Giang,Không giảm giá,2,39000.0,19500.0,0.0,78000.00
+2021-10-19,18:14:37,SO20211019/S13-25,1,Ngọc Nguyễn Minh,Cháo ăn liền,KPIM Mart Đức Giang,Không giảm giá,2,11800.0,5900.0,0.0,23600.00
+2021-10-19,19:06:49,SO20211019/S13-27,1,Ngân Trần Thị Kim,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Đức Giang,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-19,19:09:24,SO20211019/S19-18,4,Bảo Nguyễn Phú Gia,Ngũ vị hương,KPIM Mart Royal City,Không giảm giá,2,13300.0,4974.0,0.0,26600.00
+2021-10-19,09:02:11,SO20211019/S29-2,1,Linh Nguyễn Việt,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hàng Trống,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-20,19:55:49,SO20211020/S6-32,4,Quỳnh Bùi Thị Như,"Xay tiêu, tỏi",KPIM Mart UDIC Riverside 1,Không giảm giá,5,85000.0,50232.0,0.0,425000.00
+2021-10-20,07:48:57,SO20211020/S13-2,4,Dũng Lê Hữu,Tương cà Ketchup,KPIM Mart Đức Giang,Không giảm giá,1,20500.0,15785.0,0.0,20500.00
+2021-10-20,10:09:02,SO20211020/S13-7,2,Anh Nguyễn Đặng Phương,"Xay tiêu, tỏi",KPIM Mart Đức Giang,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-10-19,20:52:06,SO20211019/S29-20,1,Anh Lưu Kim,Miến lẩu thái,KPIM Mart Hàng Trống,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-20,17:32:12,SO20211020/S3-1,3,Anh Nguyễn Thị Lan,Miến khác,KPIM Mart CT1A Hateco Apolo,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-01,19:22:57,SO20211001/S20-32,1,Linh Trần Phương,Vỉ nướng,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,1,155000.0,96348.0,0.0,155000.00
+2021-10-01,19:58:31,SO20211001/S20-37,2,Ly Lê Thị Cẩm,Cháo ly,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-01,20:43:10,SO20211001/S20-38,2,Đan Hà Linh,Cháo ly,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 25 sản phẩm,39,12500.0,6250.0,1250.0,438750.00
+2021-10-01,21:12:12,SO20211001/S20-40,2,Ly Nguyễn Khánh,Dao thái,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-01,21:12:12,SO20211001/S20-40,5,Ly Nguyễn Khánh,Cháo ly,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-01,07:02:32,SO20211001/S27-4,2,Nam Phạm Hải,Cá trích hộp,KPIM Mart Phúc Tân,Không giảm giá,2,12000.0,6000.0,0.0,24000.00
+2021-10-01,09:21:37,SO20211001/S27-9,1,Vy Trần Khánh,Miến lẩu thái,KPIM Mart Phúc Tân,Giảm giá mua trên 25 sản phẩm,38,250000.0,125000.0,25000.0,8550000.00
+2021-10-02,06:53:35,SO20211002/S6-2,1,Uyên Nguyễn Phương,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,13:57:54,SO20211002/S6-22,2,Minh Hoàng Anh,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-01,17:22:43,SO20211001/S20-20,1,Ly Đỗ Nguyễn Khánh,Hủ tiếu bò kho,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,3,206000.0,103000.0,0.0,618000.00
+2021-10-01,17:22:43,SO20211001/S20-20,3,Ly Đỗ Nguyễn Khánh,Cafe đen lon,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-01,21:11:21,SO20211001/S20-39,2,Anh Nguyễn Quốc,Bún mắm,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,2,215000.0,107500.0,0.0,430000.00
+2021-10-01,21:12:12,SO20211001/S20-40,1,Ly Nguyễn Khánh,Cafe đen lon,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-01,21:12:12,SO20211001/S20-40,3,Ly Nguyễn Khánh,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-01,21:12:12,SO20211001/S20-40,4,Ly Nguyễn Khánh,Sữa tươi,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 15 sản phẩm,18,320000.0,193723.0,16000.0,5472000.00
+2021-10-01,07:02:32,SO20211001/S27-4,3,Nam Phạm Hải,Khăn giấy bỏ túi,KPIM Mart Phúc Tân,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-01,10:47:50,SO20211001/S27-12,1,Sơn Nguyễn Tài,Khăn giấy hộp,KPIM Mart Phúc Tân,Không giảm giá,2,11500.0,5750.0,0.0,23000.00
+2021-10-01,10:47:50,SO20211001/S27-12,2,Sơn Nguyễn Tài,Cafe đen lon,KPIM Mart Phúc Tân,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-01,14:46:17,SO20211001/S27-17,1,Ngọc Vũ Minh,Cafe đen lon,KPIM Mart Phúc Tân,Không giảm giá,3,360000.0,196390.0,0.0,1080000.00
+2021-10-01,18:23:30,SO20211001/S27-26,1,An Nguyễn Trường,Khăn giấy bỏ túi,KPIM Mart Phúc Tân,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-18,18:37:13,SO20211018/S26-18,1,Huy Huỳnh Vĩnh,Bếp gas âm,KPIM Mart Bạch Đằng,Không giảm giá,1,3190000.0,1935692.0,0.0,3190000.00
+2021-10-18,13:16:52,SO20211018/S29-8,1,Chi Phan Huyền,Cafe đen lon,KPIM Mart Hàng Trống,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-19,17:05:11,SO20211019/S3-3,1,Anh Nguyễn Mai,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart CT1A Hateco Apolo,Không giảm giá,1,119000.0,73970.0,0.0,119000.00
+2021-10-19,17:05:11,SO20211019/S3-3,2,Anh Nguyễn Mai,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart CT1A Hateco Apolo,Không giảm giá,4,550000.0,341880.0,0.0,2200000.00
+2021-10-19,06:21:35,SO20211019/S13-2,1,Linh Nguyễn Thị Mai,Bếp gas âm,KPIM Mart Đức Giang,Không giảm giá,4,3190000.0,1935692.0,0.0,12760000.00
+2021-10-19,06:21:35,SO20211019/S13-2,3,Linh Nguyễn Thị Mai,Giò Tai Ngon,KPIM Mart Đức Giang,Không giảm giá,1,225000.0,112500.0,0.0,225000.00
+2021-10-19,11:24:15,SO20211019/S13-19,2,Ly Hoàng Khánh,Bún mắm,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,25,215000.0,107500.0,21500.0,4837500.00
+2021-10-19,15:41:46,SO20211019/S13-21,3,Kiệt Chung Thế,Lò vi sóng,KPIM Mart Đức Giang,Không giảm giá,2,1350000.0,759240.0,0.0,2700000.00
+2021-10-19,18:14:37,SO20211019/S13-25,2,Ngọc Nguyễn Minh,Lò vi sóng,KPIM Mart Đức Giang,Giảm giá mua trên 35 sản phẩm,59,1350000.0,759240.0,202500.0,67702500.00
+2021-10-19,08:04:23,SO20211019/S16-2,2,Vinh Lê Thị Yên,Bún mắm,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 25 sản phẩm,34,215000.0,107500.0,21500.0,6579000.00
+2021-10-19,08:31:29,SO20211019/S16-3,1,Ngọc Lê Nguyễn Minh,Nước chấm,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 15 sản phẩm,22,160000.0,96861.0,8000.0,3344000.00
+2021-10-19,19:15:29,SO20211019/S16-22,2,Đức Bùi Anh,Giò Bò Ngon,KPIM Mart Ô Chợ Dừa,Không giảm giá,4,295000.0,178588.0,0.0,1180000.00
+2021-10-02,11:05:21,SO20211002/S1-21,1,Hân Phùng Bảo,Bún mắm,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-02,11:13:40,SO20211002/S1-23,3,Phú Nguyễn Thành,Khăn giấy bỏ túi,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-02,11:16:41,SO20211002/S1-24,2,Châu Lưu Minh,Khăn giấy hộp,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-02,16:08:14,SO20211002/S1-37,5,Nhi Vi Thị Lâm,Cá nục hộp,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,44,21000.0,16170.0,3150.0,785400.00
+2021-10-02,16:08:49,SO20211002/S1-38,2,Hương Phạm Bình Nguyên,Lò vi sóng,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-10-02,17:42:04,SO20211002/S1-55,1,Dương Lê Bảo,Túi đựng rác size lớn,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,10,82000.0,48460.0,0.0,820000.00
+2021-10-02,17:42:04,SO20211002/S1-55,2,Dương Lê Bảo,Bánh canh,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,48,121000.0,75214.0,18150.0,4936800.00
+2021-10-02,17:42:04,SO20211002/S1-55,3,Dương Lê Bảo,Lò vi sóng,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,35,1350000.0,759240.0,135000.0,42525000.00
+2021-10-02,18:43:53,SO20211002/S1-64,1,Linh Nguyễn Diệu,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Dốc Chợ Thành Công,Không giảm giá,5,158000.0,98213.0,0.0,790000.00
+2021-10-02,19:30:44,SO20211002/S1-69,1,Thảo Phạm Phương,Bún mắm,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-02,19:30:44,SO20211002/S1-69,3,Thảo Phạm Phương,Khăn giấy bỏ túi,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,31,12500.0,6250.0,1250.0,348750.00
+2021-10-02,20:15:48,SO20211002/S1-72,1,Trí Cam Đức,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,5,550000.0,341880.0,0.0,2750000.00
+2021-10-02,20:56:18,SO20211002/S1-75,2,Thắng Bùi Đức,Khăn giấy bỏ túi,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-10-02,09:10:55,SO20211002/S7-6,1,Linh Cù Ngọc,Khăn giấy bỏ túi,KPIM Mart Phố Huế,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-10-02,09:10:55,SO20211002/S7-6,2,Linh Cù Ngọc,Cafe đen lon,KPIM Mart Phố Huế,Không giảm giá,6,360000.0,196390.0,0.0,2160000.00
+2021-10-02,11:43:10,SO20211002/S7-10,1,Huyền Nguyễn Thị Khánh,Giò Bò Ngon,KPIM Mart Phố Huế,Không giảm giá,1,295000.0,178588.0,0.0,295000.00
+2021-10-02,13:37:43,SO20211002/S7-18,2,Châu Tạ Thị Minh,Cafe đen lon,KPIM Mart Phố Huế,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,17:20:14,SO20211002/S7-28,1,Thiệp Đặng Đình,Giò Xào Ngon,KPIM Mart Phố Huế,Giảm giá mua trên 5 sản phẩm,14,215000.0,136826.0,4300.0,2949800.00
+2021-10-02,18:19:37,SO20211002/S7-37,1,Uyên Lưu Mỹ,Khăn giấy hộp,KPIM Mart Phố Huế,Không giảm giá,6,11500.0,5750.0,0.0,69000.00
+2021-10-02,13:57:54,SO20211002/S6-22,1,Minh Hoàng Anh,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,17:31:59,SO20211002/S6-34,3,Vy Triệu Thị Tường,Bún mắm,KPIM Mart UDIC Riverside 1,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-02,18:26:50,SO20211002/S6-38,1,Trung Bùi Minh,Khăn giấy hộp,KPIM Mart UDIC Riverside 1,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-02,18:26:50,SO20211002/S6-38,3,Trung Bùi Minh,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart UDIC Riverside 1,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-02,18:28:52,SO20211002/S6-39,1,Luyến Trần Thị Ngọc,Mắm ruốc,KPIM Mart UDIC Riverside 1,Không giảm giá,2,81000.0,47869.0,0.0,162000.00
+2021-10-02,19:42:35,SO20211002/S6-48,1,Yến Trần Thị Ngọc,Bánh canh,KPIM Mart UDIC Riverside 1,Không giảm giá,5,121000.0,75214.0,0.0,605000.00
+2021-10-02,20:04:51,SO20211002/S6-51,1,Trang Hồ Huyền,Bếp gas đôi,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,48,470000.0,292152.0,70500.0,19176000.00
+2021-10-02,20:04:51,SO20211002/S6-51,2,Trang Hồ Huyền,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-02,06:33:51,SO20211002/S12-1,2,Sơn Bùi Ngọc,Lò vi sóng,KPIM Mart Thạch Bàn,Không giảm giá,3,1350000.0,759240.0,0.0,4050000.00
+2021-10-02,17:31:20,SO20211002/S12-25,2,Linh Nguyễn Thị Hà,Khăn giấy bỏ túi,KPIM Mart Thạch Bàn,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-02,17:31:20,SO20211002/S12-25,4,Linh Nguyễn Thị Hà,Cafe đen lon,KPIM Mart Thạch Bàn,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,17:56:09,SO20211002/S12-33,2,Phương Lê Khánh,Khăn giấy bỏ túi,KPIM Mart Thạch Bàn,Giảm giá mua trên 35 sản phẩm,45,12500.0,6250.0,1875.0,478125.00
+2021-10-02,17:13:34,SO20211002/S6-31,1,Đức Ngô Mạnh,Miến lẩu thái,KPIM Mart UDIC Riverside 1,Không giảm giá,5,250000.0,125000.0,0.0,1250000.00
+2021-10-02,17:31:59,SO20211002/S6-34,1,Vy Triệu Thị Tường,Miến khác,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,17,363000.0,225641.0,18150.0,5862450.00
+2021-10-02,19:29:00,SO20211002/S6-47,1,Triết Đặng Văn,Dao thái,KPIM Mart UDIC Riverside 1,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-10-02,20:44:42,SO20211002/S6-55,2,Anh Vương Mỹ,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-02,07:53:10,SO20211002/S7-4,1,Trang Nguyễn Huyền,Miến lẩu thái,KPIM Mart Phố Huế,Không giảm giá,4,250000.0,125000.0,0.0,1000000.00
+2021-10-02,11:43:10,SO20211002/S7-10,2,Huyền Nguyễn Thị Khánh,Dao thái,KPIM Mart Phố Huế,Giảm giá mua trên 25 sản phẩm,29,80000.0,47278.0,8000.0,2088000.00
+2021-10-02,13:37:43,SO20211002/S7-18,3,Châu Tạ Thị Minh,Tiêu xay,KPIM Mart Phố Huế,Không giảm giá,2,13800.0,5161.0,0.0,27600.00
+2021-10-02,19:36:04,SO20211002/S7-44,1,Anh Phạm Thị Thùy,Miến khác,KPIM Mart Phố Huế,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-19,21:15:07,SO20211019/S19-22,1,Ngọc Đinh Bảo,Khăn giấy bỏ túi,KPIM Mart Royal City,Giảm giá mua trên 35 sản phẩm,49,12500.0,6250.0,1875.0,520625.00
+2021-10-19,16:26:17,SO20211019/S26-8,1,Dương Nguyễn Ngọc Thùy,Bếp gas âm,KPIM Mart Bạch Đằng,Không giảm giá,3,3190000.0,1935692.0,0.0,9570000.00
+2021-10-19,17:12:43,SO20211019/S26-10,1,Hiền Trần Ngọc,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,28,119000.0,73970.0,11900.0,2998800.00
+2021-10-19,17:12:43,SO20211019/S26-10,2,Hiền Trần Ngọc,Bún mắm,KPIM Mart Bạch Đằng,Giảm giá mua trên 25 sản phẩm,26,215000.0,107500.0,21500.0,5031000.00
+2021-10-19,11:52:08,SO20211019/S29-4,2,Hiển Vũ Minh,Trà khô,KPIM Mart Hàng Trống,Giảm giá mua trên 5 sản phẩm,14,44000.0,22000.0,880.0,603680.00
+2021-10-19,15:43:29,SO20211019/S29-7,2,Xuân Nguyễn Thị Lan,Khăn giấy hộp,KPIM Mart Hàng Trống,Không giảm giá,2,11500.0,5750.0,0.0,23000.00
+2021-10-20,17:32:12,SO20211020/S3-1,2,Anh Nguyễn Thị Lan,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart CT1A Hateco Apolo,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-20,16:04:34,SO20211020/S6-13,4,Huy Lê Đoàn Gia,Cafe đen lon,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,26,360000.0,196390.0,36000.0,8424000.00
+2021-10-20,17:08:18,SO20211020/S6-16,1,Yến Lê Thị Hải,Khăn giấy hộp,KPIM Mart UDIC Riverside 1,Không giảm giá,4,11500.0,5750.0,0.0,46000.00
+2021-10-20,19:55:49,SO20211020/S6-32,1,Quỳnh Bùi Thị Như,Nước trái cây,KPIM Mart UDIC Riverside 1,Không giảm giá,3,250000.0,125000.0,0.0,750000.00
+2021-10-02,06:24:56,SO20211002/S14-1,1,Long Nguyễn Nhật,Miến khác,KPIM Mart Hồ Đắc Di,Không giảm giá,9,363000.0,225641.0,0.0,3267000.00
+2021-10-02,06:24:56,SO20211002/S14-1,3,Long Nguyễn Nhật,Giò Lụa Ngon,KPIM Mart Hồ Đắc Di,Không giảm giá,5,225000.0,112500.0,0.0,1125000.00
+2021-10-02,06:24:56,SO20211002/S14-1,4,Long Nguyễn Nhật,Xúc xích heo,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 25 sản phẩm,32,21000.0,16170.0,2100.0,604800.00
+2021-10-02,11:37:28,SO20211002/S14-11,1,Minh Nguyễn Quang,Máy ép chậm,KPIM Mart Hồ Đắc Di,Không giảm giá,1,1390000.0,781736.0,0.0,1390000.00
+2021-10-02,11:37:28,SO20211002/S14-11,2,Minh Nguyễn Quang,Miến lẩu thái,KPIM Mart Hồ Đắc Di,Không giảm giá,5,250000.0,125000.0,0.0,1250000.00
+2021-10-02,13:58:23,SO20211002/S14-16,1,Dương Lại Hoàng,Cháo ly,KPIM Mart Hồ Đắc Di,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-02,13:58:23,SO20211002/S14-16,2,Dương Lại Hoàng,Tiêu xay,KPIM Mart Hồ Đắc Di,Không giảm giá,7,13800.0,5161.0,0.0,96600.00
+2021-10-02,13:58:23,SO20211002/S14-16,4,Dương Lại Hoàng,Dao thái,KPIM Mart Hồ Đắc Di,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-02,16:30:09,SO20211002/S14-21,1,Thúy Lê Thị Diễm,Miến khác,KPIM Mart Hồ Đắc Di,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,17:19:41,SO20211002/S14-24,1,Nga Nguyễn Thị,Miến khác,KPIM Mart Hồ Đắc Di,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,17:19:41,SO20211002/S14-24,2,Nga Nguyễn Thị,Miến lẩu thái,KPIM Mart Hồ Đắc Di,Không giảm giá,5,250000.0,125000.0,0.0,1250000.00
+2021-10-02,19:20:47,SO20211002/S14-32,3,Ngọc Hoàng Đặng Bảo,Dao thái,KPIM Mart Hồ Đắc Di,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-02,07:40:33,SO20211002/S12-5,2,Vy Ngô Hà,Miến lẩu thái,KPIM Mart Thạch Bàn,Không giảm giá,5,250000.0,125000.0,0.0,1250000.00
+2021-10-02,13:59:36,SO20211002/S12-15,1,Vân Bùi Khánh,Miến khác,KPIM Mart Thạch Bàn,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-20,19:55:49,SO20211020/S6-32,2,Quỳnh Bùi Thị Như,Muối hồng Himalaya,KPIM Mart UDIC Riverside 1,Không giảm giá,4,17500.0,8750.0,0.0,70000.00
+2021-10-20,20:06:42,SO20211020/S6-33,1,Thành Cao Nguyễn Minh,Bếp gas đôi,KPIM Mart UDIC Riverside 1,Không giảm giá,1,470000.0,292152.0,0.0,470000.00
+2021-10-20,07:48:57,SO20211020/S13-2,3,Dũng Lê Hữu,Khăn giấy hộp,KPIM Mart Đức Giang,Giảm giá mua trên 15 sản phẩm,23,11500.0,5750.0,575.0,251275.00
+2021-10-20,10:09:02,SO20211020/S13-7,3,Anh Nguyễn Đặng Phương,Khăn giấy bỏ túi,KPIM Mart Đức Giang,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-20,10:09:02,SO20211020/S13-7,4,Anh Nguyễn Đặng Phương,Cafe đen lon,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,36,360000.0,196390.0,36000.0,11664000.00
+2021-10-20,12:09:58,SO20211020/S13-9,1,Nghĩa Vũ Thế,Bếp gas âm,KPIM Mart Đức Giang,Không giảm giá,4,3190000.0,1935692.0,0.0,12760000.00
+2021-10-02,06:30:50,SO20211002/S14-2,1,Tùng Trần Thanh,Bún mắm,KPIM Mart Hồ Đắc Di,Không giảm giá,2,215000.0,107500.0,0.0,430000.00
+2021-10-02,18:24:12,SO20211002/S14-28,1,Giang Nguyễn Ngọc Trường,Cá nục hộp,KPIM Mart Hồ Đắc Di,Không giảm giá,5,21000.0,16170.0,0.0,105000.00
+2021-10-02,19:20:47,SO20211002/S14-32,1,Ngọc Hoàng Đặng Bảo,Bún mắm,KPIM Mart Hồ Đắc Di,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-02,17:56:09,SO20211002/S12-33,1,Phương Lê Khánh,Tiêu xay,KPIM Mart Thạch Bàn,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-10-02,17:56:09,SO20211002/S12-33,3,Phương Lê Khánh,Miến khác,KPIM Mart Thạch Bàn,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-02,18:37:26,SO20211002/S12-37,1,Đạt Nguyễn Tiến,Cháo ly,KPIM Mart Thạch Bàn,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-02,20:00:07,SO20211002/S12-41,2,Minh Lê Nguyễn Tuệ,Cháo ly,KPIM Mart Thạch Bàn,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-10-02,20:24:53,SO20211002/S12-44,1,Uyên Lê Thị Phương,Bánh que &,KPIM Mart Thạch Bàn,Giảm giá mua trên 35 sản phẩm,60,19000.0,9500.0,2850.0,969000.00
+2021-10-02,09:36:21,SO20211002/S15-6,2,Trang Nguyễn Thu,Cá trích hộp,KPIM Mart Tây Sơn,Giảm giá mua trên 5 sản phẩm,11,12000.0,6000.0,240.0,129360.00
+2021-10-02,09:36:21,SO20211002/S15-6,3,Trang Nguyễn Thu,Miến khác,KPIM Mart Tây Sơn,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,10:00:54,SO20211002/S15-7,1,Ngân Trần Khánh,Tiêu xay,KPIM Mart Tây Sơn,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-02,10:00:54,SO20211002/S15-7,3,Ngân Trần Khánh,Heo hộp khác Picnic Shoulder Classic,KPIM Mart Tây Sơn,Không giảm giá,3,1226000.0,689502.0,0.0,3678000.00
+2021-10-02,17:15:17,SO20211002/S15-20,1,Đạt Phạm Tiến,Miến khác,KPIM Mart Tây Sơn,Giảm giá mua trên 35 sản phẩm,45,363000.0,225641.0,54450.0,13884750.00
+2021-10-02,17:57:22,SO20211002/S15-24,1,An Cáp Việt,Miến khác,KPIM Mart Tây Sơn,Giảm giá mua trên 35 sản phẩm,59,363000.0,225641.0,54450.0,18204450.00
+2021-10-02,17:57:22,SO20211002/S15-24,2,An Cáp Việt,Miến lẩu thái,KPIM Mart Tây Sơn,Không giảm giá,3,250000.0,125000.0,0.0,750000.00
+2021-10-02,17:57:22,SO20211002/S15-24,3,An Cáp Việt,Dao thái,KPIM Mart Tây Sơn,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-02,17:57:22,SO20211002/S15-24,4,An Cáp Việt,Dao thái,KPIM Mart Tây Sơn,Không giảm giá,7,80000.0,47278.0,0.0,560000.00
+2021-10-02,18:38:30,SO20211002/S15-27,1,An Lê Thị Thúy,Miến khác,KPIM Mart Tây Sơn,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,12:39:08,SO20211002/S17-15,1,Cường Trần Quốc,Cafe đen lon,KPIM Mart Golden Land,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,18:06:43,SO20211002/S17-23,1,Minh Trần Quang,Bún mắm,KPIM Mart Golden Land,Không giảm giá,2,215000.0,107500.0,0.0,430000.00
+2021-10-02,21:33:47,SO20211002/S17-34,1,Nam Trương Đăng,Nước trái cây,KPIM Mart Golden Land,Giảm giá mua trên 35 sản phẩm,50,250000.0,125000.0,37500.0,10625000.00
+2021-10-02,15:41:42,SO20211002/S20-19,3,Giang Nguyễn Minh,Khăn giấy bỏ túi,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-02,15:41:42,SO20211002/S20-19,4,Giang Nguyễn Minh,Cafe đen lon,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,5,360000.0,196390.0,0.0,1800000.00
+2021-10-02,17:04:02,SO20211002/S20-21,3,Huy Lê Quốc,Nồi cơm điện tử,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,7,1190000.0,669256.0,0.0,8330000.00
+2021-10-02,17:04:02,SO20211002/S20-21,4,Huy Lê Quốc,Khăn giấy bỏ túi,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-02,09:21:55,SO20211002/S23-6,1,Linh Nguyễn Thùy,Khăn giấy hộp,KPIM Mart Dịch Vọng,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-02,11:07:56,SO20211002/S23-9,1,Đạt Ứng Quang,Khăn giấy hộp,KPIM Mart Dịch Vọng,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-02,17:42:29,SO20211002/S23-25,1,Thịnh Nguyễn Gia,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Dịch Vọng,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-02,18:56:25,SO20211002/S23-30,1,Lâm Cao Văn,Cafe đen lon,KPIM Mart Dịch Vọng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,18:56:25,SO20211002/S23-30,2,Lâm Cao Văn,Bình thủy,KPIM Mart Dịch Vọng,Giảm giá mua trên 15 sản phẩm,22,290000.0,156501.0,14500.0,6061000.00
+2021-10-02,19:43:17,SO20211002/S23-34,2,Trung Lê Quốc,Lò vi sóng,KPIM Mart Dịch Vọng,Không giảm giá,3,1350000.0,759240.0,0.0,4050000.00
+2021-10-02,19:58:41,SO20211002/S23-35,3,Quý Cao Công,Khăn giấy hộp,KPIM Mart Dịch Vọng,Không giảm giá,4,11500.0,5750.0,0.0,46000.00
+2021-10-02,21:37:15,SO20211002/S23-41,1,Anh Văn Phan Hoàng,Cafe đen lon,KPIM Mart Dịch Vọng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,14:52:08,SO20211002/S27-13,1,Long Tôn Vũ Hoàng,Bún mắm,KPIM Mart Phúc Tân,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-02,16:07:42,SO20211002/S27-14,3,Nam Nguyễn Nhật,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Phúc Tân,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-10-02,16:07:42,SO20211002/S27-14,4,Nam Nguyễn Nhật,Trà khô,KPIM Mart Phúc Tân,Không giảm giá,3,44000.0,22000.0,0.0,132000.00
+2021-10-02,16:33:51,SO20211002/S27-16,3,Hường Nguyễn Thị Ánh,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Phúc Tân,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-02,17:27:32,SO20211002/S27-21,1,Trang Ngô Linh,"Gia vị nấu phở, bún, hủ tiếu",KPIM Mart Phúc Tân,Không giảm giá,1,40000.0,20000.0,0.0,40000.00
+2021-10-02,18:09:14,SO20211002/S27-23,1,Trang Nguyễn Quỳnh,Bếp gas âm,KPIM Mart Phúc Tân,Không giảm giá,2,3190000.0,1935692.0,0.0,6380000.00
+2021-10-02,18:09:14,SO20211002/S27-23,2,Trang Nguyễn Quỳnh,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Phúc Tân,Không giảm giá,3,119000.0,73970.0,0.0,357000.00
+2021-10-02,18:09:14,SO20211002/S27-23,3,Trang Nguyễn Quỳnh,Bắp Hạt Đông Lạnh,KPIM Mart Phúc Tân,Không giảm giá,9,12000.0,6000.0,0.0,108000.00
+2021-10-02,20:41:20,SO20211002/S12-46,1,Anh Nguyễn Thị Ngọc,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Thạch Bàn,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-02,07:00:46,SO20211002/S15-2,2,Huyền Thân Thị Ngọc,Cafe đen lon,KPIM Mart Tây Sơn,Giảm giá mua trên 25 sản phẩm,28,360000.0,196390.0,36000.0,9072000.00
+2021-10-02,07:29:31,SO20211002/S15-3,1,Hưng Hoàng Gia,Khăn giấy bỏ túi,KPIM Mart Tây Sơn,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-02,09:36:21,SO20211002/S15-6,1,Trang Nguyễn Thu,Khăn giấy bỏ túi,KPIM Mart Tây Sơn,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-02,10:00:54,SO20211002/S15-7,2,Ngân Trần Khánh,Khăn giấy hộp,KPIM Mart Tây Sơn,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-02,20:16:21,SO20211002/S15-32,1,Toàn Lê Mạnh,Khăn giấy bỏ túi,KPIM Mart Tây Sơn,Giảm giá mua trên 15 sản phẩm,20,12500.0,6250.0,625.0,237500.00
+2021-10-02,08:17:47,SO20211002/S22-5,1,Ly Bùi Khánh,Dao chặt,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,210000.0,133644.0,0.0,210000.00
+2021-10-02,08:17:47,SO20211002/S22-5,3,Ly Bùi Khánh,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,550000.0,341880.0,0.0,550000.00
+2021-10-02,16:20:42,SO20211002/S22-23,2,Yến Phạm Trần Như,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,4,119000.0,73970.0,0.0,476000.00
+2021-10-02,17:21:44,SO20211002/S22-27,1,Liễu Nguyễn Thị Thu,Cafe đen lon,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 25 sản phẩm,37,360000.0,196390.0,36000.0,11988000.00
+2021-10-02,19:43:31,SO20211002/S22-38,2,Hà Phạm Trúc,Khăn giấy bỏ túi,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-02,19:43:31,SO20211002/S22-38,4,Hà Phạm Trúc,Khăn giấy hộp,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 15 sản phẩm,15,11500.0,5750.0,575.0,163875.00
+2021-10-02,11:29:17,SO20211002/S25-8,2,Linh Vũ Thùy,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Trần Duy Hưng,Giảm giá mua trên 5 sản phẩm,11,119000.0,73970.0,2380.0,1282820.00
+2021-10-02,12:50:03,SO20211002/S25-10,1,Dương Đặng Đình Đan,Cafe đen lon,KPIM Mart Trần Duy Hưng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,16:27:40,SO20211002/S25-15,1,Anh Lưu Kim,Bắp Hạt Đông Lạnh,KPIM Mart Trần Duy Hưng,Không giảm giá,5,12000.0,6000.0,0.0,60000.00
+2021-10-20,18:27:42,SO20211020/S13-22,1,Tâm Trần Nhật Huy,Khăn giấy hộp,KPIM Mart Đức Giang,Giảm giá mua trên 15 sản phẩm,18,11500.0,5750.0,575.0,196650.00
+2021-10-20,06:53:37,SO20211020/S16-1,1,Hoàng Nguyễn Công,Cafe đen lon,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,360000.0,196390.0,0.0,1080000.00
+2021-10-20,11:02:44,SO20211020/S16-4,3,My Nguyễn Ngọc,Khăn giấy hộp,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,11500.0,5750.0,0.0,34500.00
+2021-10-20,17:05:46,SO20211020/S19-13,1,Trí Trần Ngọc,Thịt Càng Cua Biển Đông Lạnh,KPIM Mart Royal City,Giảm giá mua trên 15 sản phẩm,21,550000.0,341880.0,27500.0,10972500.00
+2021-10-02,16:08:14,SO20211002/S1-37,2,Nhi Vi Thị Lâm,Túi đựng rác size vừa,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,52,82000.0,48460.0,12300.0,3624400.00
+2021-10-02,16:08:14,SO20211002/S1-37,4,Nhi Vi Thị Lâm,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,43,158000.0,98213.0,23700.0,5774900.00
+2021-10-02,18:18:03,SO20211002/S1-60,1,Ngân Ngô Thiên,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-02,19:30:44,SO20211002/S1-69,2,Thảo Phạm Phương,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-10-02,07:53:10,SO20211002/S7-4,2,Trang Nguyễn Huyền,Ly giữ nhiệt,KPIM Mart Phố Huế,Giảm giá mua trên 15 sản phẩm,23,220000.0,110000.0,11000.0,4807000.00
+2021-10-02,11:43:10,SO20211002/S7-10,3,Huyền Nguyễn Thị Khánh,Snack khoai tây Big Sheet,KPIM Mart Phố Huế,Không giảm giá,1,6000.0,3000.0,0.0,6000.00
+2021-10-02,11:43:10,SO20211002/S7-10,4,Huyền Nguyễn Thị Khánh,Lạp xưởng heo,KPIM Mart Phố Huế,Không giảm giá,3,117000.0,72727.0,0.0,351000.00
+2021-10-02,13:37:43,SO20211002/S7-18,5,Châu Tạ Thị Minh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Phố Huế,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-02,17:06:50,SO20211002/S7-27,1,Thư Trần Anh,Đậu Hũ,KPIM Mart Phố Huế,Giảm giá mua trên 15 sản phẩm,16,45000.0,22500.0,2250.0,684000.00
+2021-10-02,18:25:03,SO20211002/S7-39,1,Đạt Nguyễn Đức,"Xay tiêu, tỏi",KPIM Mart Phố Huế,Không giảm giá,4,85000.0,50232.0,0.0,340000.00
+2021-10-20,17:22:32,SO20211020/S19-15,1,Quang Nguyễn Minh,SữA Chua NếP CẩM 100G,KPIM Mart Royal City,Không giảm giá,1,36000.0,18000.0,0.0,36000.00
+2021-10-20,20:19:54,SO20211020/S19-20,3,Anh Kiều Thị Minh,Khăn giấy hộp,KPIM Mart Royal City,Không giảm giá,4,11500.0,5750.0,0.0,46000.00
+2021-10-20,08:57:13,SO20211020/S22-5,1,An Bùi Ngọc,Tương chao,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,13500.0,5049.0,0.0,13500.00
+2021-10-20,15:02:57,SO20211020/S22-13,1,Linh Trần Khánh,Cafe đen lon,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-20,15:22:01,SO20211020/S29-8,1,Khánh Vi Hữu,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Hàng Trống,Không giảm giá,4,119000.0,73970.0,0.0,476000.00
+2021-10-20,17:28:09,SO20211020/S29-13,1,Bách Đỗ Gia,Cafe đen lon,KPIM Mart Hàng Trống,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-21,06:57:15,SO20211021/S6-2,1,Trang Phùng Huyền,Khăn giấy hộp,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,38,11500.0,5750.0,1150.0,393300.00
+2021-10-21,07:35:24,SO20211021/S6-3,1,Đạt Nguyễn Huy Tiến,Trà khô,KPIM Mart UDIC Riverside 1,Không giảm giá,1,44000.0,22000.0,0.0,44000.00
+2021-10-21,07:35:24,SO20211021/S6-3,3,Đạt Nguyễn Huy Tiến,Khăn giấy hộp,KPIM Mart UDIC Riverside 1,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-21,07:35:24,SO20211021/S6-3,4,Đạt Nguyễn Huy Tiến,Muối hồng Himalaya,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,39,17500.0,8750.0,1750.0,614250.00
+2021-10-21,16:06:43,SO20211021/S6-14,1,Anh Nguyễn Tú,Khăn giấy bỏ túi,KPIM Mart UDIC Riverside 1,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-21,16:17:22,SO20211021/S6-15,1,Vân Trần Thu,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart UDIC Riverside 1,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-10-21,17:39:40,SO20211021/S6-23,2,Tuấn Lưu Anh,Cafe đen lon,KPIM Mart UDIC Riverside 1,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,19:20:47,SO20211002/S14-32,2,Ngọc Hoàng Đặng Bảo,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hồ Đắc Di,Giảm giá mua trên 5 sản phẩm,11,158000.0,98213.0,3160.0,1703240.00
+2021-10-02,16:30:03,SO20211002/S6-28,1,Tài Nguyễn Dương Đúc,Snack khoai tây Big Sheet,KPIM Mart UDIC Riverside 1,Không giảm giá,1,6000.0,3000.0,0.0,6000.00
+2021-10-02,18:26:50,SO20211002/S6-38,2,Trung Bùi Minh,Giò Bê (Me),KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,45,295000.0,159199.0,44250.0,11283750.00
+2021-10-02,19:29:00,SO20211002/S6-47,2,Triết Đặng Văn,Đường phèn,KPIM Mart UDIC Riverside 1,Không giảm giá,3,36000.0,18000.0,0.0,108000.00
+2021-10-02,19:54:14,SO20211002/S6-49,1,Linh Đặng Trần Khánh,"Xay tiêu, tỏi",KPIM Mart UDIC Riverside 1,Không giảm giá,1,85000.0,50232.0,0.0,85000.00
+2021-10-02,19:55:06,SO20211002/S6-50,1,Linh Lã Diệu,Túi đựng rác size vừa,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,16,82000.0,48460.0,4100.0,1246400.00
+2021-10-02,19:55:06,SO20211002/S6-50,2,Linh Lã Diệu,"Xay tiêu, tỏi",KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,49,85000.0,50232.0,12750.0,3540250.00
+2021-10-02,19:55:06,SO20211002/S6-50,4,Linh Lã Diệu,"Xay tiêu, tỏi",KPIM Mart UDIC Riverside 1,Không giảm giá,1,85000.0,50232.0,0.0,85000.00
+2021-10-02,07:40:33,SO20211002/S12-5,1,Vy Ngô Hà,Snack khoai tây Big Sheet,KPIM Mart Thạch Bàn,Không giảm giá,1,6000.0,3000.0,0.0,6000.00
+2021-10-21,12:25:35,SO20211021/S16-7,1,Long Vũ Hoàng,Bún mắm,KPIM Mart Ô Chợ Dừa,Không giảm giá,2,215000.0,107500.0,0.0,430000.00
+2021-10-21,15:15:35,SO20211021/S16-9,2,Thy Nguyễn Ngọc Bảo,Bún mắm,KPIM Mart Ô Chợ Dừa,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-21,07:45:02,SO20211021/S19-2,1,Cường Hoàng Văn,Lò vi sóng,KPIM Mart Royal City,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-10-21,17:37:29,SO20211021/S19-13,3,Hoàng Đào Việt,Khăn giấy hộp,KPIM Mart Royal City,Không giảm giá,5,11500.0,5750.0,0.0,57500.00
+2021-10-21,20:35:02,SO20211021/S19-24,2,Hiếu Nguyễn Trung,SữA Chua NếP CẩM 100G,KPIM Mart Royal City,Không giảm giá,2,36000.0,18000.0,0.0,72000.00
+2021-10-02,17:42:48,SO20211002/S25-26,1,Tiên Nguyễn Hoàng Thủy,Bún mắm,KPIM Mart Trần Duy Hưng,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-02,20:00:07,SO20211002/S12-41,1,Minh Lê Nguyễn Tuệ,"Xay tiêu, tỏi",KPIM Mart Thạch Bàn,Giảm giá mua trên 5 sản phẩm,14,85000.0,50232.0,1700.0,1166200.00
+2021-10-02,07:00:46,SO20211002/S15-2,1,Huyền Thân Thị Ngọc,Nồi cơm nắp rời,KPIM Mart Tây Sơn,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-02,16:20:42,SO20211002/S22-23,1,Yến Phạm Trần Như,"Xay tiêu, tỏi",KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,9,85000.0,50232.0,0.0,765000.00
+2021-10-20,06:53:37,SO20211020/S16-1,2,Hoàng Nguyễn Công,Lạp xưởng khác,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,146000.0,90754.0,0.0,438000.00
+2021-10-20,06:42:17,SO20211020/S19-1,1,Hùng Lê Năng,Nồi cơm nắp rời,KPIM Mart Royal City,Không giảm giá,2,250000.0,125000.0,0.0,500000.00
+2021-10-20,06:42:17,SO20211020/S19-1,2,Hùng Lê Năng,Đường phèn,KPIM Mart Royal City,Không giảm giá,9,36000.0,18000.0,0.0,324000.00
+2021-10-02,07:29:31,SO20211002/S15-3,2,Hưng Hoàng Gia,Bánh đa cua,KPIM Mart Tây Sơn,Giảm giá mua trên 15 sản phẩm,24,303000.0,183431.0,15150.0,6908400.00
+2021-10-02,07:29:31,SO20211002/S15-3,3,Hưng Hoàng Gia,Bình đựng nước thủy tinh,KPIM Mart Tây Sơn,Không giảm giá,6,120000.0,74592.0,0.0,720000.00
+2021-10-02,18:38:30,SO20211002/S15-27,2,An Lê Thị Thúy,Bánh đa cua,KPIM Mart Tây Sơn,Không giảm giá,9,303000.0,183431.0,0.0,2727000.00
+2021-10-02,08:17:47,SO20211002/S22-5,2,Ly Bùi Khánh,Máy ép trái cây,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 25 sản phẩm,30,1500000.0,843600.0,150000.0,40500000.00
+2021-10-20,16:04:34,SO20211020/S6-13,2,Huy Lê Đoàn Gia,Máy ép trái cây,KPIM Mart UDIC Riverside 1,Không giảm giá,1,1500000.0,843600.0,0.0,1500000.00
+2021-10-20,17:17:06,SO20211020/S6-18,1,Anh Nguyễn Hoàng Kim,Bánh đa cua,KPIM Mart UDIC Riverside 1,Không giảm giá,1,303000.0,183431.0,0.0,303000.00
+2021-10-20,20:06:42,SO20211020/S6-33,3,Thành Cao Nguyễn Minh,Máy ép trái cây,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,36,1500000.0,843600.0,150000.0,48600000.00
+2021-10-20,07:48:57,SO20211020/S13-2,1,Dũng Lê Hữu,Vỉ hấp,KPIM Mart Đức Giang,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-20,07:48:57,SO20211020/S13-2,2,Dũng Lê Hữu,Máy ép trái cây,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,28,1500000.0,843600.0,150000.0,37800000.00
+2021-10-20,10:09:02,SO20211020/S13-7,1,Anh Nguyễn Đặng Phương,Gia vị dạng bột khác,KPIM Mart Đức Giang,Không giảm giá,3,125000.0,77700.0,0.0,375000.00
+2021-10-02,12:48:26,SO20211002/S28-10,3,Anh Lưu Vũ Hải,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart Hàng Buồm,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-02,12:50:28,SO20211002/S28-11,1,Châu Lưu Minh,Giò Tai Ngon,KPIM Mart Hàng Buồm,Không giảm giá,1,225000.0,112500.0,0.0,225000.00
+2021-10-02,12:50:28,SO20211002/S28-11,2,Châu Lưu Minh,Khăn giấy hộp,KPIM Mart Hàng Buồm,Không giảm giá,1,11500.0,5750.0,0.0,11500.00
+2021-10-02,19:33:12,SO20211002/S28-29,1,Anh Nguyễn Quỳnh,Cafe đen lon,KPIM Mart Hàng Buồm,Giảm giá mua trên 35 sản phẩm,60,360000.0,196390.0,54000.0,18360000.00
+2021-10-03,06:11:37,SO20211003/S1-2,2,Hậu Nguyễn Công,Cafe đen lon,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 15 sản phẩm,21,360000.0,196390.0,18000.0,7182000.00
+2021-10-03,06:11:37,SO20211003/S1-2,3,Hậu Nguyễn Công,Bún mắm,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,215000.0,107500.0,0.0,430000.00
+2021-10-03,07:25:41,SO20211003/S1-5,1,Anh Trần Phương,Trà khô,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 35 sản phẩm,49,44000.0,22000.0,6600.0,1832600.00
+2021-10-03,09:59:43,SO20211003/S1-15,1,Nguyên Nguyễn Viết,Bún mắm,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,215000.0,107500.0,0.0,430000.00
+2021-10-02,07:19:32,SO20211002/S22-3,1,Hưng Nguyễn Vũ Phú,Miến khác,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 35 sản phẩm,44,363000.0,225641.0,54450.0,13576200.00
+2021-10-02,19:46:57,SO20211002/S17-31,2,Ly Trương Hoàng Diệu,Bình đun siêu tốc,KPIM Mart Golden Land,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-02,19:46:57,SO20211002/S17-31,3,Ly Trương Hoàng Diệu,Dao thái,KPIM Mart Golden Land,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-10-02,21:33:47,SO20211002/S17-34,2,Nam Trương Đăng,Cá trích hộp,KPIM Mart Golden Land,Không giảm giá,1,12000.0,6000.0,0.0,12000.00
+2021-10-02,11:53:57,SO20211002/S20-16,1,Trâm Nguyễn Thị Bảo,Miến khác,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-02,17:04:02,SO20211002/S20-21,1,Huy Lê Quốc,Cháo ly,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-02,17:04:02,SO20211002/S20-21,2,Huy Lê Quốc,Miến khác,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-02,07:24:31,SO20211002/S23-2,1,Trang Lê Nguyễn Quỳnh,Dao thái,KPIM Mart Dịch Vọng,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-10-02,11:06:04,SO20211002/S23-8,2,Nhi Nguyễn Lê Yến,Miến khác,KPIM Mart Dịch Vọng,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-02,11:06:04,SO20211002/S23-8,3,Nhi Nguyễn Lê Yến,Dao thái,KPIM Mart Dịch Vọng,Không giảm giá,2,80000.0,47278.0,0.0,160000.00
+2021-10-02,11:07:56,SO20211002/S23-9,2,Đạt Ứng Quang,Bánh que &,KPIM Mart Dịch Vọng,Không giảm giá,5,19000.0,9500.0,0.0,95000.00
+2021-10-02,16:13:27,SO20211002/S23-16,1,Hiền Phạm Bùi Thúy,Cháo ly,KPIM Mart Dịch Vọng,Giảm giá mua trên 15 sản phẩm,15,12500.0,6250.0,625.0,178125.00
+2021-10-20,16:04:34,SO20211020/S6-13,1,Huy Lê Đoàn Gia,Heo hộp khác Picnic Shoulder Classic,KPIM Mart UDIC Riverside 1,Không giảm giá,4,1226000.0,689502.0,0.0,4904000.00
+2021-10-20,16:04:34,SO20211020/S6-13,3,Huy Lê Đoàn Gia,Cháo ly,KPIM Mart UDIC Riverside 1,Không giảm giá,10,12500.0,6250.0,0.0,125000.00
+2021-10-20,17:08:18,SO20211020/S6-16,2,Yến Lê Thị Hải,Máy ép chậm,KPIM Mart UDIC Riverside 1,Không giảm giá,2,1390000.0,781736.0,0.0,2780000.00
+2021-10-20,19:19:32,SO20211020/S6-31,1,Anh Cao Việt,Tiêu xay,KPIM Mart UDIC Riverside 1,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-20,19:19:32,SO20211020/S6-31,2,Anh Cao Việt,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-20,19:55:49,SO20211020/S6-32,3,Quỳnh Bùi Thị Như,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-20,20:06:42,SO20211020/S6-33,2,Thành Cao Nguyễn Minh,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-20,09:05:06,SO20211020/S13-5,1,Anh Hoàng Duy,Miến lẩu thái,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,30,250000.0,125000.0,25000.0,6750000.00
+2021-10-20,15:30:34,SO20211020/S13-14,3,Anh Lê Hà,Tiêu xay,KPIM Mart Đức Giang,Không giảm giá,1,13800.0,5161.0,0.0,13800.00
+2021-10-20,17:17:11,SO20211020/S13-18,1,Phong Trịnh Hải,Xúc xích heo,KPIM Mart Đức Giang,Giảm giá mua trên 35 sản phẩm,41,21000.0,16170.0,3150.0,731850.00
+2021-10-20,11:02:44,SO20211020/S16-4,1,My Nguyễn Ngọc,Chả Bò,KPIM Mart Ô Chợ Dừa,Không giảm giá,5,48000.0,24000.0,0.0,240000.00
+2021-10-20,11:02:44,SO20211020/S16-4,2,My Nguyễn Ngọc,Tiêu xay,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-20,11:02:44,SO20211020/S16-4,4,My Nguyễn Ngọc,Cháo ly,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-10-20,13:47:01,SO20211020/S16-8,1,Anh Nguyễn Duy,Xúc xích bò Gold,KPIM Mart Ô Chợ Dừa,Không giảm giá,5,21000.0,16170.0,0.0,105000.00
+2021-10-20,13:47:01,SO20211020/S16-8,2,Anh Nguyễn Duy,Cháo ly,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-20,17:36:12,SO20211020/S16-15,1,Loan Nguyễn Thị,Xúc xích heo,KPIM Mart Ô Chợ Dừa,Không giảm giá,8,21000.0,16170.0,0.0,168000.00
+2021-10-20,06:42:17,SO20211020/S19-1,3,Hùng Lê Năng,Miến khác,KPIM Mart Royal City,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-20,20:19:54,SO20211020/S19-20,1,Anh Kiều Thị Minh,Xúc xích heo,KPIM Mart Royal City,Giảm giá mua trên 15 sản phẩm,20,21000.0,16170.0,1050.0,399000.00
+2021-10-20,20:19:54,SO20211020/S19-20,2,Anh Kiều Thị Minh,Giò Lụa Ngon,KPIM Mart Royal City,Không giảm giá,4,225000.0,112500.0,0.0,900000.00
+2021-10-20,09:23:26,SO20211020/S22-6,1,Vân Đặng Bảo,Miến lẩu thái,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,5,250000.0,125000.0,0.0,1250000.00
+2021-10-20,09:23:26,SO20211020/S22-6,2,Vân Đặng Bảo,Miến khác,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,3,363000.0,225641.0,0.0,1089000.00
+2021-10-20,09:31:16,SO20211020/S22-7,2,Đạt Vũ Văn,Miến lẩu thái,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,250000.0,125000.0,0.0,250000.00
+2021-10-20,15:02:57,SO20211020/S22-13,2,Linh Trần Khánh,Dao thái,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,80000.0,47278.0,0.0,80000.00
+2021-10-20,12:01:26,SO20211020/S29-6,1,Phú Đoàn Trường,Cá trích hộp,KPIM Mart Hàng Trống,Không giảm giá,2,12000.0,6000.0,0.0,24000.00
+2021-10-20,19:21:52,SO20211020/S29-17,1,Duy Đào Phương,Cháo ly,KPIM Mart Hàng Trống,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-21,06:57:15,SO20211021/S6-2,2,Trang Phùng Huyền,Tiêu xay,KPIM Mart UDIC Riverside 1,Không giảm giá,5,13800.0,5161.0,0.0,69000.00
+2021-10-21,17:39:40,SO20211021/S6-23,3,Tuấn Lưu Anh,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,19:43:31,SO20211002/S22-38,5,Hà Phạm Trúc,"Gia vị nấu lẩu, canh Nhật Yosenabe",KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,78000.0,46096.0,0.0,78000.00
+2021-10-02,11:29:17,SO20211002/S25-8,1,Linh Vũ Thùy,Tiêu xay,KPIM Mart Trần Duy Hưng,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-10-02,12:44:14,SO20211002/S28-9,2,Yến Lâm Hải,Máy lọc nước,KPIM Mart Hàng Buồm,Không giảm giá,5,7800000.0,4209324.0,0.0,39000000.00
+2021-10-02,12:48:26,SO20211002/S28-10,4,Anh Lưu Vũ Hải,Cháo ly,KPIM Mart Hàng Buồm,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-02,12:50:28,SO20211002/S28-11,3,Châu Lưu Minh,Miến khác,KPIM Mart Hàng Buồm,Không giảm giá,1,363000.0,225641.0,0.0,363000.00
+2021-10-02,16:07:01,SO20211002/S28-15,3,Diệp Nguyễn Ngọc,Tiêu xay,KPIM Mart Hàng Buồm,Không giảm giá,4,13800.0,5161.0,0.0,55200.00
+2021-10-02,16:38:27,SO20211002/S28-17,1,Tịnh Nguyễn Năng,Tiêu xay,KPIM Mart Hàng Buồm,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-02,18:13:35,SO20211002/S28-23,2,Chi Phạm Hồng,Miến khác,KPIM Mart Hàng Buồm,Giảm giá mua trên 35 sản phẩm,59,363000.0,225641.0,54450.0,18204450.00
+2021-10-02,17:20:11,SO20211002/S23-23,2,Quyên Lê Nhã,Xúc xích heo,KPIM Mart Dịch Vọng,Không giảm giá,1,21000.0,16170.0,0.0,21000.00
+2021-10-02,18:56:25,SO20211002/S23-30,4,Lâm Cao Văn,Cháo ly,KPIM Mart Dịch Vọng,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-02,19:43:17,SO20211002/S23-34,1,Trung Lê Quốc,Miến lẩu thái,KPIM Mart Dịch Vọng,Giảm giá mua trên 35 sản phẩm,53,250000.0,125000.0,37500.0,11262500.00
+2021-10-02,19:58:41,SO20211002/S23-35,1,Quý Cao Công,Cháo đóng thùng,KPIM Mart Dịch Vọng,Không giảm giá,1,360000.0,196390.0,0.0,360000.00
+2021-10-02,14:04:10,SO20211002/S27-10,1,Linh Trịnh Gia,Miến lẩu thái,KPIM Mart Phúc Tân,Không giảm giá,4,250000.0,125000.0,0.0,1000000.00
+2021-10-02,14:04:10,SO20211002/S27-10,2,Linh Trịnh Gia,Tiêu xay,KPIM Mart Phúc Tân,Không giảm giá,2,13800.0,5161.0,0.0,27600.00
+2021-10-02,16:33:51,SO20211002/S27-16,1,Hường Nguyễn Thị Ánh,Tiêu xay,KPIM Mart Phúc Tân,Không giảm giá,2,13800.0,5161.0,0.0,27600.00
+2021-10-02,17:27:32,SO20211002/S27-21,3,Trang Ngô Linh,Miến khác,KPIM Mart Phúc Tân,Không giảm giá,5,363000.0,225641.0,0.0,1815000.00
+2021-10-03,11:25:30,SO20211003/S2-20,1,Nhi Nguyễn Thị Ngọc,Miến khác,KPIM Mart Ngọc Hà,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-03,11:55:03,SO20211003/S2-24,1,Hải Lê San,Cá trích hộp,KPIM Mart Ngọc Hà,Không giảm giá,8,12000.0,6000.0,0.0,96000.00
+2021-10-03,12:40:18,SO20211003/S2-31,2,Nhi Nguyễn Yến,Bình đun siêu tốc,KPIM Mart Ngọc Hà,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-03,17:03:00,SO20211003/S2-51,1,Quân Lương Minh,Miến lẩu thái,KPIM Mart Ngọc Hà,Không giảm giá,4,250000.0,125000.0,0.0,1000000.00
+2021-10-03,17:13:56,SO20211003/S2-53,1,Tuyết Nguyễn Thị Hồng,Tiêu xay,KPIM Mart Ngọc Hà,Không giảm giá,1,13800.0,5161.0,0.0,13800.00
+2021-10-03,17:13:56,SO20211003/S2-53,2,Tuyết Nguyễn Thị Hồng,Dao thái,KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,15,80000.0,47278.0,4000.0,1140000.00
+2021-10-03,17:51:38,SO20211003/S2-60,1,Khánh Trương Minh,Dao thái,KPIM Mart Ngọc Hà,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-03,17:51:38,SO20211003/S2-60,3,Khánh Trương Minh,Dao thái,KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,21,80000.0,47278.0,4000.0,1596000.00
+2021-10-02,19:33:12,SO20211002/S28-29,2,Anh Nguyễn Quỳnh,Miến khác,KPIM Mart Hàng Buồm,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-03,07:34:52,SO20211003/S1-7,1,Phát Trần Minh,Bình đun siêu tốc,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,215000.0,107500.0,0.0,215000.00
+2021-10-03,11:58:08,SO20211003/S1-26,1,Linh Nghiêm Thị Hà,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-03,16:04:34,SO20211003/S1-41,1,Thứ Ngô Công,Cháo ly,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 15 sản phẩm,18,12500.0,6250.0,625.0,213750.00
+2021-10-03,17:53:11,SO20211003/S1-53,1,Hà Trần Thu,Nồi inox,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,720000.0,458208.0,0.0,720000.00
+2021-10-03,18:18:05,SO20211003/S1-58,2,Trang Đặng Kỳ,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Giảm giá mua trên 25 sản phẩm,38,13800.0,5161.0,1380.0,471960.00
+2021-10-03,18:48:51,SO20211003/S1-61,1,Long Nguyễn Hải,Bánh que &,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-03,19:02:55,SO20211003/S1-65,4,Thư Nguyễn Anh,Tiêu xay,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,13800.0,5161.0,0.0,41400.00
+2021-10-03,19:44:07,SO20211003/S1-72,2,Nhi Nguyễn Yến,Nồi inox,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,720000.0,458208.0,0.0,2880000.00
+2021-10-03,20:29:15,SO20211003/S1-77,1,Hiếu Vũ Nguyễn Trí,Cháo đóng thùng,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,360000.0,196390.0,0.0,720000.00
+2021-10-21,17:37:29,SO20211021/S19-13,1,Hoàng Đào Việt,Cháo ly,KPIM Mart Royal City,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-21,18:42:58,SO20211021/S19-17,1,Uy Nguyễn Trần Gia,Cháo ly,KPIM Mart Royal City,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-21,20:35:02,SO20211021/S19-24,1,Hiếu Nguyễn Trung,Dao thái,KPIM Mart Royal City,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-21,15:38:00,SO20211021/S22-15,1,Mạnh Hoàng Duy,Miến khác,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 15 sản phẩm,17,363000.0,225641.0,18150.0,5862450.00
+2021-10-21,17:29:16,SO20211021/S22-18,1,Long Thái Bảo,Cháo ly,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-21,17:29:16,SO20211021/S22-18,2,Long Thái Bảo,Dao thái,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-10-21,20:10:23,SO20211021/S22-26,3,Việt Phạm Quốc,Heo hộp khác Picnic Shoulder Classic,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 5 sản phẩm,12,1226000.0,689502.0,24520.0,14417760.00
+2021-10-21,20:28:16,SO20211021/S22-28,4,Vũ Đinh Công,Miến khác,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-21,11:06:49,SO20211021/S22-6,2,Hương Đặng Thị Thu,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,119000.0,73970.0,0.0,119000.00
+2021-10-21,11:06:49,SO20211021/S22-6,3,Hương Đặng Thị Thu,Cá nục hộp,KPIM Mart Nguyễn Khánh Toàn,Giảm giá mua trên 15 sản phẩm,18,21000.0,16170.0,1050.0,359100.00
+2021-10-21,15:38:00,SO20211021/S22-15,2,Mạnh Hoàng Duy,Khăn giấy bỏ túi,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,4,12500.0,6250.0,0.0,50000.00
+2021-10-21,20:28:16,SO20211021/S22-28,2,Vũ Đinh Công,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,3,119000.0,73970.0,0.0,357000.00
+2021-10-21,20:28:16,SO20211021/S22-28,3,Vũ Đinh Công,Hạt Hỗn Hợp Ngũ Cốc Walkabout Mix,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,119000.0,73970.0,0.0,119000.00
+2021-10-21,19:16:04,SO20211021/S25-24,2,Huấn Nguyễn Hoàng Tâm,Khăn giấy hộp,KPIM Mart Trần Duy Hưng,Giảm giá mua trên 35 sản phẩm,45,11500.0,5750.0,1725.0,439875.00
+2021-10-20,20:19:54,SO20211020/S19-20,5,Anh Kiều Thị Minh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Royal City,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-20,09:31:16,SO20211020/S22-7,1,Đạt Vũ Văn,Snack khoai tây Big Sheet,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,3,6000.0,3000.0,0.0,18000.00
+2021-10-20,17:28:09,SO20211020/S29-13,2,Bách Đỗ Gia,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hàng Trống,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-21,08:32:06,SO20211021/S6-4,3,Anh Phạm Thị Hiền,Cháo ăn liền,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,43,11800.0,5900.0,1770.0,431290.00
+2021-10-21,08:35:17,SO20211021/S6-5,1,Trang Lưu Thu,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart UDIC Riverside 1,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-21,17:39:40,SO20211021/S6-23,1,Tuấn Lưu Anh,Ly sứ,KPIM Mart UDIC Riverside 1,Không giảm giá,4,20000.0,10000.0,0.0,80000.00
+2021-10-21,17:55:39,SO20211021/S6-24,1,Bình Nguyễn Như,Ngũ vị hương,KPIM Mart UDIC Riverside 1,Không giảm giá,1,13300.0,4974.0,0.0,13300.00
+2021-10-21,11:59:30,SO20211021/S16-6,1,Mai Hoàng Cẩm,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Ô Chợ Dừa,Giảm giá mua trên 35 sản phẩm,60,158000.0,98213.0,23700.0,8058000.00
+2021-10-21,15:15:35,SO20211021/S16-9,1,Thy Nguyễn Ngọc Bảo,Đường phèn,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,36000.0,18000.0,0.0,36000.00
+2021-10-02,19:46:57,SO20211002/S17-31,1,Ly Trương Hoàng Diệu,Sữa bột,KPIM Mart Golden Land,Không giảm giá,1,369000.0,229370.0,0.0,369000.00
+2021-10-02,11:35:18,SO20211002/S20-15,1,Hà Lê Ngọc,Rau Sắc Màu Hỗn Hợp,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,6,39000.0,19500.0,0.0,234000.00
+2021-10-02,11:35:18,SO20211002/S20-15,3,Hà Lê Ngọc,Sữa bột,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,369000.0,229370.0,0.0,1476000.00
+2021-10-02,15:41:42,SO20211002/S20-19,1,Giang Nguyễn Minh,Snack khoai tây Big Sheet,KPIM Mart CT1 Vimeco Nguyễn Chánh,Giảm giá mua trên 35 sản phẩm,49,6000.0,3000.0,900.0,249900.00
+2021-10-02,07:34:46,SO20211002/S23-3,1,Sơn Vũ Ngọc Hà,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dịch Vọng,Giảm giá mua trên 5 sản phẩm,11,158000.0,98213.0,3160.0,1703240.00
+2021-10-02,11:06:04,SO20211002/S23-8,1,Nhi Nguyễn Lê Yến,"Xay tiêu, tỏi",KPIM Mart Dịch Vọng,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-10-02,17:20:11,SO20211002/S23-23,1,Quyên Lê Nhã,Cá thu hộp,KPIM Mart Dịch Vọng,Không giảm giá,1,19000.0,9500.0,0.0,19000.00
+2021-10-02,17:20:11,SO20211002/S23-23,3,Quyên Lê Nhã,Kẹo mềm,KPIM Mart Dịch Vọng,Không giảm giá,1,20000.0,10000.0,0.0,20000.00
+2021-10-02,19:10:33,SO20211002/S23-32,2,Uyên Phùng Thị Tố,Ly giữ nhiệt,KPIM Mart Dịch Vọng,Không giảm giá,5,220000.0,110000.0,0.0,1100000.00
+2021-10-02,19:43:17,SO20211002/S23-34,3,Trung Lê Quốc,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dịch Vọng,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-02,19:43:17,SO20211002/S23-34,4,Trung Lê Quốc,Lạp xưởng khác,KPIM Mart Dịch Vọng,Không giảm giá,1,146000.0,90754.0,0.0,146000.00
+2021-10-02,14:04:10,SO20211002/S27-10,3,Linh Trịnh Gia,Miến sườn heo,KPIM Mart Phúc Tân,Không giảm giá,3,210000.0,133644.0,0.0,630000.00
+2021-10-02,16:07:42,SO20211002/S27-14,1,Nam Nguyễn Nhật,Kẹo mềm,KPIM Mart Phúc Tân,Không giảm giá,4,20000.0,10000.0,0.0,80000.00
+2021-10-02,16:07:42,SO20211002/S27-14,2,Nam Nguyễn Nhật,"Gia vị nấu lẩu, canh",KPIM Mart Phúc Tân,Không giảm giá,1,38000.0,19000.0,0.0,38000.00
+2021-10-02,16:33:51,SO20211002/S27-16,2,Hường Nguyễn Thị Ánh,Mì Lẩu,KPIM Mart Phúc Tân,Không giảm giá,1,5600.0,2800.0,0.0,5600.00
+2021-10-02,21:09:09,SO20211002/S27-31,1,Linh Phùng Khánh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Phúc Tân,Không giảm giá,5,158000.0,98213.0,0.0,790000.00
+2021-10-02,21:09:09,SO20211002/S27-31,2,Linh Phùng Khánh,Sữa bột,KPIM Mart Phúc Tân,Không giảm giá,1,369000.0,229370.0,0.0,369000.00
+2021-10-03,07:11:10,SO20211003/S2-2,2,Phú Phạm Đình,Ly sứ,KPIM Mart Ngọc Hà,Không giảm giá,3,20000.0,10000.0,0.0,60000.00
+2021-10-03,08:23:54,SO20211003/S2-11,1,Ngọc Vũ Bảo,"Xay tiêu, tỏi",KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,17,85000.0,50232.0,4250.0,1372750.00
+2021-10-02,11:29:17,SO20211002/S25-8,3,Linh Vũ Thùy,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Trần Duy Hưng,Không giảm giá,2,158000.0,98213.0,0.0,316000.00
+2021-10-02,12:44:14,SO20211002/S28-9,1,Yến Lâm Hải,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hàng Buồm,Giảm giá mua trên 35 sản phẩm,60,158000.0,98213.0,23700.0,8058000.00
+2021-10-02,12:48:26,SO20211002/S28-10,1,Anh Lưu Vũ Hải,"Xay tiêu, tỏi",KPIM Mart Hàng Buồm,Không giảm giá,5,85000.0,50232.0,0.0,425000.00
+2021-10-02,12:48:26,SO20211002/S28-10,2,Anh Lưu Vũ Hải,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hàng Buồm,Không giảm giá,3,158000.0,98213.0,0.0,474000.00
+2021-10-02,12:50:28,SO20211002/S28-11,4,Châu Lưu Minh,Ly giữ nhiệt,KPIM Mart Hàng Buồm,Không giảm giá,4,220000.0,110000.0,0.0,880000.00
+2021-10-02,16:07:01,SO20211002/S28-15,1,Diệp Nguyễn Ngọc,Nồi cơm nắp rời,KPIM Mart Hàng Buồm,Không giảm giá,4,250000.0,125000.0,0.0,1000000.00
+2021-10-02,18:13:35,SO20211002/S28-23,1,Chi Phạm Hồng,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Hàng Buồm,Giảm giá mua trên 35 sản phẩm,43,158000.0,98213.0,23700.0,5774900.00
+2021-10-02,19:33:12,SO20211002/S28-29,3,Anh Nguyễn Quỳnh,"Xay tiêu, tỏi",KPIM Mart Hàng Buồm,Không giảm giá,3,85000.0,50232.0,0.0,255000.00
+2021-10-03,06:11:37,SO20211003/S1-2,1,Hậu Nguyễn Công,Nhấc nồi,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,3,46000.0,23000.0,0.0,138000.00
+2021-10-03,07:25:41,SO20211003/S1-5,2,Anh Trần Phương,"Xay tiêu, tỏi",KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,85000.0,50232.0,0.0,85000.00
+2021-10-03,07:39:56,SO20211003/S1-8,1,Trang Trần Thu,Bình đựng nước nhựa,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,1,160000.0,96861.0,0.0,160000.00
+2021-10-03,09:59:43,SO20211003/S1-15,3,Nguyên Nguyễn Viết,Ly giữ nhiệt,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,220000.0,110000.0,0.0,440000.00
+2021-10-03,09:59:43,SO20211003/S1-15,4,Nguyên Nguyễn Viết,Đường ăn kiêng,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,5,79000.0,46687.0,0.0,395000.00
+2021-10-03,19:02:55,SO20211003/S1-65,1,Thư Nguyễn Anh,Cháo Yến Mạch Và Các Loại Dâu,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,4,158000.0,98213.0,0.0,632000.00
+2021-10-03,19:44:07,SO20211003/S1-72,1,Nhi Nguyễn Yến,Hủ tiếu Nam vang,KPIM Mart Dốc Chợ Thành Công,Không giảm giá,2,332000.0,181115.0,0.0,664000.00
+2021-10-21,07:40:15,SO20211021/S19-1,1,Huyền Cồ Lê Nhật,Cá thu hộp,KPIM Mart Royal City,Không giảm giá,3,19000.0,9500.0,0.0,57000.00
+2021-10-21,17:37:29,SO20211021/S19-13,2,Hoàng Đào Việt,Kẹo mềm,KPIM Mart Royal City,Không giảm giá,2,20000.0,10000.0,0.0,40000.00
+2021-10-21,18:42:58,SO20211021/S19-17,2,Uy Nguyễn Trần Gia,Ly sứ,KPIM Mart Royal City,Không giảm giá,1,20000.0,10000.0,0.0,20000.00
+2021-10-21,19:16:04,SO20211021/S25-24,1,Huấn Nguyễn Hoàng Tâm,Miến lẩu thái,KPIM Mart Trần Duy Hưng,Giảm giá mua trên 15 sản phẩm,15,250000.0,125000.0,12500.0,3562500.00
+2021-10-22,07:18:27,SO20211022/S6-4,3,Anh Vũ Minh,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,6,363000.0,225641.0,0.0,2178000.00
+2021-10-22,07:18:27,SO20211022/S6-4,4,Anh Vũ Minh,Cháo ly,KPIM Mart UDIC Riverside 1,Không giảm giá,1,12500.0,6250.0,0.0,12500.00
+2021-10-22,11:29:56,SO20211022/S6-17,1,Phong Trần Thanh,Miến khác,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,16,363000.0,225641.0,18150.0,5517600.00
+2021-10-22,11:29:56,SO20211022/S6-17,2,Phong Trần Thanh,Cháo ly,KPIM Mart UDIC Riverside 1,Không giảm giá,3,12500.0,6250.0,0.0,37500.00
+2021-10-22,11:52:35,SO20211022/S6-21,2,Anh Dương Ngọc Tú,Tiêu xay,KPIM Mart UDIC Riverside 1,Không giảm giá,1,13800.0,5161.0,0.0,13800.00
+2021-10-22,16:48:07,SO20211022/S6-31,2,Thương Tạ Thị Ngân,Dao thái,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 15 sản phẩm,18,80000.0,47278.0,4000.0,1368000.00
+2021-10-22,18:25:24,SO20211022/S6-39,2,Lâm Đoàn Phúc,Cháo đóng thùng,KPIM Mart UDIC Riverside 1,Không giảm giá,4,360000.0,196390.0,0.0,1440000.00
+2021-10-22,18:28:26,SO20211022/S6-40,3,Thông Hoàng Đình,Dao thái,KPIM Mart UDIC Riverside 1,Không giảm giá,5,80000.0,47278.0,0.0,400000.00
+2021-10-22,19:14:43,SO20211022/S6-46,1,Tiến Nguyễn Phúc,Bột chiên giòn,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,30,30000.0,15000.0,3000.0,810000.00
+2021-10-22,19:14:43,SO20211022/S6-46,2,Tiến Nguyễn Phúc,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,2,363000.0,225641.0,0.0,726000.00
+2021-10-22,19:32:30,SO20211022/S6-48,3,Sơn Nguyễn Ngọc Trường,Miến khác,KPIM Mart UDIC Riverside 1,Không giảm giá,4,363000.0,225641.0,0.0,1452000.00
+2021-10-22,19:32:30,SO20211022/S6-48,4,Sơn Nguyễn Ngọc Trường,Cá trích hộp,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,27,12000.0,6000.0,1200.0,291600.00
+2021-10-22,07:18:27,SO20211022/S6-4,2,Anh Vũ Minh,Cafe đen lon,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,55,360000.0,196390.0,54000.0,16830000.00
+2021-10-22,11:28:39,SO20211022/S6-16,1,Anh Nguyễn Việt,Bắp Hạt Đông Lạnh,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,45,12000.0,6000.0,1800.0,459000.00
+2021-10-22,11:29:56,SO20211022/S6-17,3,Phong Trần Thanh,Khăn giấy bỏ túi,KPIM Mart UDIC Riverside 1,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-22,11:52:35,SO20211022/S6-21,3,Anh Dương Ngọc Tú,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart UDIC Riverside 1,Không giảm giá,1,158000.0,98213.0,0.0,158000.00
+2021-10-22,16:13:37,SO20211022/S6-28,2,Linh Đoàn Thảo,Lò vi sóng,KPIM Mart UDIC Riverside 1,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-10-22,16:19:40,SO20211022/S6-29,1,Tùng Vũ Quang,Trà khô,KPIM Mart UDIC Riverside 1,Không giảm giá,3,44000.0,22000.0,0.0,132000.00
+2021-10-22,17:17:49,SO20211022/S6-33,2,Linh Nguyễn Thị Phương,Lò vi sóng,KPIM Mart UDIC Riverside 1,Không giảm giá,2,1350000.0,759240.0,0.0,2700000.00
+2021-10-22,18:25:24,SO20211022/S6-39,3,Lâm Đoàn Phúc,"Cháo Yến Mạch, Mật Ong, Vani Và Hạt Chia",KPIM Mart UDIC Riverside 1,Giảm giá mua trên 35 sản phẩm,49,158000.0,98213.0,23700.0,6580700.00
+2021-10-22,18:28:26,SO20211022/S6-40,1,Thông Hoàng Đình,Hủ tiếu bò kho,KPIM Mart UDIC Riverside 1,Không giảm giá,4,206000.0,103000.0,0.0,824000.00
+2021-10-22,19:02:47,SO20211022/S6-43,1,Ngọc Nguyễn Minh,Khăn giấy bỏ túi,KPIM Mart UDIC Riverside 1,Giảm giá mua trên 25 sản phẩm,37,12500.0,6250.0,1250.0,416250.00
+2021-10-03,07:05:04,SO20211003/S2-1,2,Anh Lê Tấn,Bún mắm,KPIM Mart Ngọc Hà,Không giảm giá,4,215000.0,107500.0,0.0,860000.00
+2021-10-03,08:23:54,SO20211003/S2-11,2,Ngọc Vũ Bảo,"Gia vị nấu phở, bún, hủ tiếu",KPIM Mart Ngọc Hà,Không giảm giá,3,40000.0,20000.0,0.0,120000.00
+2021-10-03,08:23:54,SO20211003/S2-11,3,Ngọc Vũ Bảo,Khăn giấy bỏ túi,KPIM Mart Ngọc Hà,Không giảm giá,2,12500.0,6250.0,0.0,25000.00
+2021-10-03,11:55:03,SO20211003/S2-24,2,Hải Lê San,Dao bào,KPIM Mart Ngọc Hà,Giảm giá mua trên 25 sản phẩm,33,45000.0,22500.0,4500.0,1336500.00
+2021-10-03,12:31:56,SO20211003/S2-27,1,Đông Nguyễn Hiểu,Cá nục hộp,KPIM Mart Ngọc Hà,Không giảm giá,8,21000.0,16170.0,0.0,168000.00
+2021-10-03,12:31:56,SO20211003/S2-27,2,Đông Nguyễn Hiểu,Khăn giấy bỏ túi,KPIM Mart Ngọc Hà,Không giảm giá,5,12500.0,6250.0,0.0,62500.00
+2021-10-03,12:39:52,SO20211003/S2-30,2,Anh Nguyễn Tuấn,Lò vi sóng,KPIM Mart Ngọc Hà,Không giảm giá,1,1350000.0,759240.0,0.0,1350000.00
+2021-10-03,12:40:18,SO20211003/S2-31,1,Nhi Nguyễn Yến,Lò vi sóng,KPIM Mart Ngọc Hà,Giảm giá mua trên 15 sản phẩm,23,1350000.0,759240.0,67500.0,29497500.00
+2021-10-20,15:30:34,SO20211020/S13-14,1,Anh Lê Hà,Vỉ hấp,KPIM Mart Đức Giang,Giảm giá mua trên 25 sản phẩm,40,80000.0,47278.0,8000.0,2880000.00
+2021-10-20,15:30:34,SO20211020/S13-14,2,Anh Lê Hà,Bình đựng nước thủy tinh,KPIM Mart Đức Giang,Không giảm giá,2,120000.0,74592.0,0.0,240000.00
+2021-10-20,13:47:01,SO20211020/S16-8,3,Anh Nguyễn Duy,Tương cà,KPIM Mart Ô Chợ Dừa,Không giảm giá,2,27000.0,13500.0,0.0,54000.00
+2021-10-20,17:56:49,SO20211020/S16-16,1,Thư Huỳnh Thị Thanh,Miến thịt bằm,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,290000.0,145000.0,0.0,870000.00
+2021-10-20,17:56:49,SO20211020/S16-16,2,Thư Huỳnh Thị Thanh,Nồi nhôm,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,580000.0,369112.0,0.0,580000.00
+2021-10-20,20:24:46,SO20211020/S16-20,1,Linh Đỗ Duyên Thùy,Mì cay,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,5500.0,4235.0,0.0,16500.00
+2021-10-20,20:24:46,SO20211020/S16-20,2,Linh Đỗ Duyên Thùy,Bếp từ hồng ngoại,KPIM Mart Ô Chợ Dừa,Không giảm giá,1,3250000.0,1972100.0,0.0,3250000.00
+2021-10-20,20:24:46,SO20211020/S16-20,3,Linh Đỗ Duyên Thùy,Cafe đen hòa tan,KPIM Mart Ô Chợ Dừa,Không giảm giá,3,202000.0,101000.0,0.0,606000.00
+2021-10-20,16:03:36,SO20211020/S19-10,1,Vinh Bùi Quang,Bếp từ đôi,KPIM Mart Royal City,Không giảm giá,1,3250000.0,1753885.0,0.0,3250000.00
+2021-10-20,17:11:26,SO20211020/S19-14,1,Nhật Nguyễn Thành,Mì khoai tây,KPIM Mart Royal City,Không giảm giá,2,4200.0,2100.0,0.0,8400.00
+2021-10-20,17:11:26,SO20211020/S19-14,2,Nhật Nguyễn Thành,"Kẹp gắp, khui hộp",KPIM Mart Royal City,Không giảm giá,3,80000.0,47278.0,0.0,240000.00
+2021-10-20,20:19:54,SO20211020/S19-20,4,Anh Kiều Thị Minh,"Gia vị nấu phở, bún, hủ tiếu Huế",KPIM Mart Royal City,Không giảm giá,1,40000.0,20000.0,0.0,40000.00
+2021-10-20,08:16:58,SO20211020/S22-3,1,Huy Trần Hữu,Tương cà,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,27000.0,13500.0,0.0,27000.00
+2021-10-20,11:32:19,SO20211020/S22-11,1,Hoàng Lâm Việt,Nồi nhôm,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,580000.0,369112.0,0.0,580000.00
+2021-10-20,11:32:19,SO20211020/S22-11,2,Hoàng Lâm Việt,Bình đựng nước thủy tinh,KPIM Mart Nguyễn Khánh Toàn,Không giảm giá,1,120000.0,74592.0,0.0,120000.00
+2021-10-20,17:28:09,SO20211020/S29-13,3,Bách Đỗ Gia,Bếp gas đơn,KPIM Mart Hàng Trống,Giảm giá mua trên 25 sản phẩm,37,400000.0,248640.0,40000.0,13320000.00
+2021-10-20,19:21:52,SO20211020/S29-17,2,Duy Đào Phương,Bình đựng nước thủy tinh,KPIM Mart Hàng Trống,Không giảm giá,5,120000.0,74592.0,0.0,600000.00
+2021-10-02,11:35:18,SO20211002/S20-15,2,Hà Lê Ngọc,Vỉ hấp,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,80000.0,47278.0,0.0,320000.00
+2021-10-02,15:41:42,SO20211002/S20-19,2,Giang Nguyễn Minh,Rây lọc,KPIM Mart CT1 Vimeco Nguyễn Chánh,Không giảm giá,4,70000.0,35000.0,0.0,280000.00
+2021-10-02,09:21:55,SO20211002/S23-6,2,Linh Nguyễn Thùy,Gia vị dạng bột khác,KPIM Mart Dịch Vọng,Không giảm giá,1,125000.0,77700.0,0.0,125000.00
+2021-10-02,17:42:29,SO20211002/S23-25,2,Thịnh Nguyễn Gia,Bếp từ đôi,KPIM Mart Dịch Vọng,Không giảm giá,4,3250000.0,1753885.0,0.0,13000000.00
+2021-10-02,18:56:25,SO20211002/S23-30,3,Lâm Cao Văn,Túi đựng rác size nhỏ,KPIM Mart Dịch Vọng,Không giảm giá,4,69000.0,34500.0,0.0,276000.00
+2021-10-02,19:10:33,SO20211002/S23-32,1,Uyên Phùng Thị Tố,Bia,KPIM Mart Dịch Vọng,Không giảm giá,1,280000.0,140000.0,0.0,280000.00

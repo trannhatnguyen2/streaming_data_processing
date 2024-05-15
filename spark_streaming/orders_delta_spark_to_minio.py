@@ -13,7 +13,6 @@ logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s:%(funcName)s:%(levelname)s:%(message)s')
             
 warnings.filterwarnings('ignore')
-# checkpointDir = "file:///"
 
 def create_spark_session():
     """
@@ -22,12 +21,6 @@ def create_spark_session():
     from pyspark.sql import SparkSession
 
     try:
-        # spark = (SparkSession.builder \
-        #         .appName("Streaming Kafka") \
-        #         .config("spark.jars.packages", "org.apache.spark:spark-sql-kafka-0-10_2.12:3.0.0,org.apache.hadoop:hadoop-aws:2.8.2")
-        #         .config("spark.hadoop.fs.s3a.aws.credentials.provider", "org.apache.hadoop.fs.s3a.SimpleAWSCredentialsProvider") \
-        #         .getOrCreate())
-
         builder = SparkSession.builder \
                     .appName("Streaming Kafka") \
                     .config("spark.sql.extensions", "io.delta.sql.DeltaSparkSessionExtension") \
@@ -72,7 +65,7 @@ def create_initial_dataframe(spark_session):
             .readStream
             .format("kafka")
             .option("kafka.bootstrap.servers", "localhost:9092")
-            .option("subscribe", "device_0")
+            .option("subscribe", "sales.public.orders")
             .option("failOnDataLoss", "false")
             .load())
         logging.info("Initial dataframe created successfully!")
@@ -86,54 +79,70 @@ def create_final_dataframe(df, spark_session):
     """
     Modifies the initial dataframe, and creates the final dataframe
     """
-    from pyspark.sql.types import IntegerType, FloatType, StringType, StructType, StructField
-    from pyspark.sql.functions import col, from_json
+    from pyspark.sql.types import IntegerType, FloatType, StringType, StructType, StructField, DecimalType
+    from pyspark.sql.functions import col, from_json, udf
 
-    df2 = df.selectExpr("CAST(value AS STRING) AS json_value")
-
-    payload_schema = StructType([
-    StructField("created", StringType(), True),
-    StructField("device_id", IntegerType(), True),
-    StructField("feature_5", FloatType(), True),
-    StructField("feature_3", FloatType(), True),
-    StructField("feature_1", FloatType(), True),
-    StructField("feature_8", FloatType(), True),
-    StructField("feature_6", FloatType(), True),
-    StructField("feature_0", FloatType(), True),
-    StructField("feature_4", FloatType(), True)
+    payload_after_schema = StructType([
+            StructField("order_date", StringType(), True),
+            StructField("order_time", StringType(), True),
+            StructField("order_number", StringType(), True),
+            StructField("order_line_number", IntegerType(), True),
+            StructField("customer_name", StringType(), True),
+            StructField("product_name", StringType(), True),
+            StructField("store", StringType(), True),
+            StructField("promotion", StringType(), True),
+            StructField("order_quantity", IntegerType(), True),
+            StructField("unit_price", StringType(), True),
+            StructField("unit_cost", StringType(), True),
+            StructField("unit_discount", StringType(), True),
+            StructField("sales_amount", StringType(), True)
     ])
 
-    # Parse the JSON and extract the payload
-    parsed_df = df2 \
-        .select(from_json(col("json_value"), 
-                      StructType([StructField("schema", StructType([]), True), 
-                                  StructField("payload", payload_schema, True)]))
-            .alias("data")) \
-        .select("data.payload.*")   
+    schema = StructType([
+        StructField("payload", StructType([
+            StructField("after", payload_after_schema, True)
+        ]), True)
+    ])
 
-    parsed_df.createOrReplaceTempView("device_view")
+    parsed_df = df.selectExpr("CAST(value AS STRING) as json") \
+                .select(from_json(col("json"), schema).alias("data")) \
+                .select("data.payload.after.*")
 
-    df4 = spark.sql("""
+    decode_base64_to_decimal_udf = udf(decode_base64_to_decimal, DecimalType(12, 2))
+
+    decoded_df = parsed_df \
+            .withColumn("unit_price", decode_base64_to_decimal_udf(col("unit_price"))) \
+            .withColumn("unit_cost", decode_base64_to_decimal_udf(col("unit_cost"))) \
+            .withColumn("unit_discount", decode_base64_to_decimal_udf(col("unit_discount"))) \
+            .withColumn("sales_amount", decode_base64_to_decimal_udf(col("sales_amount")))
+
+    decoded_df.createOrReplaceTempView("orders_view")
+
+    df_final = spark.sql("""
         SELECT 
-            created,
-            device_id,
-            feature_0,
-            feature_1,
-            feature_3,
-            feature_4,
-            feature_5,
-            feature_6,
-            feature_8,
-            CASE
-                WHEN feature_0 > 0.75 THEN 'movement'
-                ELSE 'no_movement'
-            END AS if_movement
-        FROM device_view 
+            *
+        FROM orders_view 
     """)
 
     logging.info("Final dataframe created successfully!")
-    return df4
+    return df_final
 
+def decode_base64_to_decimal(base64_str):
+    """
+    Decode base64 to decimal
+    """
+    import base64
+    from decimal import Decimal
+
+    if base64_str:
+        # Fix padding
+        missing_padding = len(base64_str) % 4
+        if missing_padding:
+            base64_str += '=' * (4 - missing_padding)
+        decoded_bytes = base64.b64decode(base64_str)
+        # Convert bytes to integer and then to decimal with scale 2
+        return Decimal(int.from_bytes(decoded_bytes, byteorder='big')) / Decimal(100)
+    return None
 
 def start_streaming(df):
     """
@@ -145,9 +154,9 @@ def start_streaming(df):
     stream_query = df.writeStream \
                         .format("delta") \
                         .outputMode("append") \
-                        .option("checkpointLocation", f"minio_streaming/{minio_bucket}/checkpoints") \
-                        .option("path", f"s3a://{minio_bucket}/device") \
-                        .partitionBy("if_movement") \
+                        .option("checkpointLocation", f"minio_streaming/{minio_bucket}/orders/checkpoints") \
+                        .option("path", f"s3a://{minio_bucket}/orders") \
+                        .partitionBy("store") \
                         .start()
 
     return stream_query.awaitTermination()

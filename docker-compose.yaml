@@ -74,41 +74,41 @@ services:
       SCHEMA_REGISTRY_LISTENERS: http://0.0.0.0:8081
 
   # For connecting to offline store (Connect Kafka to database)
-  connect:
-    image: confluentinc/cp-kafka-connect:7.5.0
-    container_name: streaming-connect
-    depends_on:
-      broker:
-        condition: service_healthy
-      schema-registry:
-        condition: service_healthy
-      zookeeper:
-        condition: service_healthy
-    ports:
-      - "8083:8083"
-    environment:
-      CONNECT_BOOTSTRAP_SERVERS: "broker:29092"
-      CONNECT_REST_ADVERTISED_HOST_NAME: connect
-      CONNECT_REST_PORT: 8083
-      CONNECT_GROUP_ID: compose-connect-group
-      CONNECT_CONFIG_STORAGE_TOPIC: docker-connect-configs
-      CONNECT_CONFIG_STORAGE_REPLICATION_FACTOR: 1
-      CONNECT_OFFSET_FLUSH_INTERVAL_MS: 10000
-      CONNECT_OFFSET_STORAGE_TOPIC: docker-connect-offsets
-      CONNECT_OFFSET_STORAGE_REPLICATION_FACTOR: 1
-      CONNECT_STATUS_STORAGE_TOPIC: docker-connect-status
-      CONNECT_STATUS_STORAGE_REPLICATION_FACTOR: 1
-      CONNECT_KEY_CONVERTER: org.apache.kafka.connect.storage.StringConverter
-      CONNECT_KEY_CONVERTER_SCHEMAS_ENABLE: false
-      CONNECT_VALUE_CONVERTER: org.apache.kafka.connect.json.JsonConverter
-      CONNECT_VALUE_CONVERTER_SCHEMAS_ENABLE: true
-      # CONNECT_KEY_CONVERTER: io.confluent.connect.avro.AvroConverter
-      # CONNECT_VALUE_CONVERTER: io.confluent.connect.avro.AvroConverter
-      # CONNECT_KEY_CONVERTER_SCHEMA_REGISTRY_URL: http://schema-registry:8081
-      # CONNECT_VALUE_CONVERTER_SCHEMA_REGISTRY_URL: http://schema-registry:8081
-      CONNECT_PLUGIN_PATH: "/usr/share/java,/etc/kafka-connect/jars"
-    volumes:
-      - $PWD/data_ingestion/kafka_connect/jars/:/etc/kafka-connect/jars
+  # connect:
+  #   image: confluentinc/cp-kafka-connect:7.5.0
+  #   container_name: streaming-connect
+  #   depends_on:
+  #     broker:
+  #       condition: service_healthy
+  #     schema-registry:
+  #       condition: service_healthy
+  #     zookeeper:
+  #       condition: service_healthy
+  #   ports:
+  #     - "8083:8083"
+  #   environment:
+  #     CONNECT_BOOTSTRAP_SERVERS: "broker:29092"
+  #     CONNECT_REST_ADVERTISED_HOST_NAME: connect
+  #     CONNECT_REST_PORT: 8083
+  #     CONNECT_GROUP_ID: compose-connect-group
+  #     CONNECT_CONFIG_STORAGE_TOPIC: docker-connect-configs
+  #     CONNECT_CONFIG_STORAGE_REPLICATION_FACTOR: 1
+  #     CONNECT_OFFSET_FLUSH_INTERVAL_MS: 10000
+  #     CONNECT_OFFSET_STORAGE_TOPIC: docker-connect-offsets
+  #     CONNECT_OFFSET_STORAGE_REPLICATION_FACTOR: 1
+  #     CONNECT_STATUS_STORAGE_TOPIC: docker-connect-status
+  #     CONNECT_STATUS_STORAGE_REPLICATION_FACTOR: 1
+  #     CONNECT_KEY_CONVERTER: org.apache.kafka.connect.storage.StringConverter
+  #     CONNECT_KEY_CONVERTER_SCHEMAS_ENABLE: false
+  #     CONNECT_VALUE_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+  #     CONNECT_VALUE_CONVERTER_SCHEMAS_ENABLE: true
+  #     # CONNECT_KEY_CONVERTER: io.confluent.connect.avro.AvroConverter
+  #     # CONNECT_VALUE_CONVERTER: io.confluent.connect.avro.AvroConverter
+  #     # CONNECT_KEY_CONVERTER_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+  #     # CONNECT_VALUE_CONVERTER_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+  #     CONNECT_PLUGIN_PATH: "/usr/share/java,/etc/kafka-connect/jars"
+  #   volumes:
+  #     - $PWD/data_ingestion/kafka_connect/jars/:/etc/kafka-connect/jars
 
   # Confluent control center to manage Kafka
   control-center:
@@ -117,7 +117,7 @@ services:
     depends_on:
       - broker
       - schema-registry
-      - connect
+      - debezium
     ports:
       - "9021:9021"
     healthcheck:
@@ -127,45 +127,88 @@ services:
       retries: 3
     environment:
       CONTROL_CENTER_BOOTSTRAP_SERVERS: "broker:29092"
-      CONTROL_CENTER_CONNECT_CONNECT-DEFAULT_CLUSTER: "connect:8083"
+      # CONTROL_CENTER_CONNECT_CONNECT-DEFAULT_CLUSTER: "connect:8083"
       CONTROL_CENTER_SCHEMA_REGISTRY_URL: "http://schema-registry:8081"
       CONTROL_CENTER_REPLICATION_FACTOR: 1
       CONTROL_CENTER_INTERNAL_TOPICS_PARTITIONS: 1
       CONTROL_CENTER_CONNECT_HEALTHCHECK_ENDPOINT: "/connectors"
       CONFLUENT_METRICS_TOPIC_REPLICATION: 1
 
-  # Offline store
-  timescaledb:
-    image: timescale/timescaledb:latest-pg13
-    command: postgres -c shared_preload_libraries=timescaledb
-    container_name: streaming-timescaledb
+  # CDC platform to capture changes in DB
+  # and stream them to Kafka
+  debezium:
+    image: debezium/connect:1.9
+    container_name: streaming-debezium
+    depends_on:
+      broker:
+        condition: service_healthy
+      schema-registry:
+        condition: service_healthy
+      zookeeper:
+        condition: service_healthy
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "curl",
+          "--silent",
+          "--fail",
+          "-X",
+          "GET",
+          "http://localhost:8083/connectors",
+        ]
+      start_period: 10s
+      interval: 10s
+      timeout: 5s
+      retries: 5
     ports:
-      - "5432:5432"
+      - "8083:8083"
+    environment:
+      BOOTSTRAP_SERVERS: broker:29092
+      GROUP_ID: 1
+      CONFIG_STORAGE_TOPIC: connect_configs
+      OFFSET_STORAGE_TOPIC: connect_offsets
+      # Set to Avro for higher performance
+      # KEY_CONVERTER: io.confluent.connect.avro.AvroConverter
+      # VALUE_CONVERTER: io.confluent.connect.avro.AvroConverter
+      KEY_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+      VALUE_CONVERTER: org.apache.kafka.connect.json.JsonConverter
+      CONNECT_KEY_CONVERTER_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+      CONNECT_VALUE_CONVERTER_SCHEMA_REGISTRY_URL: http://schema-registry:8081
+      CONNECT_TOPIC_CREATION_ENABLE: true
+
+  # Debezium UI
+  debezium-ui:
+    image: debezium/debezium-ui:latest
+    container_name: debezium-ui
+    hostname: debezium-ui
+    depends_on:
+      debezium:
+        condition: service_healthy
+    ports:
+      - "8085:8080"
+    environment:
+      KAFKA_CONNECT_URIS: http://debezium:8083
+
+  postgresql:
+    # Set wal_level from replica (default) to logical
+    # so that Debezium can capture change
+    image: postgres:latest
+    command: ["postgres", "-c", "wal_level=logical"]
+    container_name: streaming-postgresql
     healthcheck:
       test: ["CMD", "psql", "-U", "k6", "-c", "SELECT 1"]
       interval: 10s
       timeout: 5s
       retries: 5
+    ports:
+      - "5432:5432"
     environment:
-      - PGDATA=/var/lib/postgresql/data/timescaledb
       - POSTGRES_DB=k6
       - POSTGRES_USER=k6
       - POSTGRES_PASSWORD=k6
     volumes:
-      - pgdata:/var/lib/postgresql/data
-
-  # # Simulation of sending messages to Kafka topics
-  # kafka_producer:
-  #   container_name: streaming-kafka-producer
-  #   build:
-  #     context: data_ingestion
-  #     dockerfile: kafka_producer/Dockerfile
-  #   depends_on:
-  #     broker:
-  #       condition: service_healthy
-  #     timescaledb:
-  #       condition: service_healthy
+      - cdc_postgres_data:/var/lib/postgresql/data
 
 volumes:
-  # Volume for TimescaleDB
-  pgdata:
+  cdc_postgres_data:

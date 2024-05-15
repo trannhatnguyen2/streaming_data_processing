@@ -4,7 +4,7 @@ services:
   # of data sources
   trino:
     ports:
-      - "8080:8080"
+      - "8084:8080"
     container_name: datalake-trino
     image: "trinodb/trino:410"
     hostname: trino
@@ -80,45 +80,45 @@ services:
       MINIO_SECRET_KEY: minio_secret_key
     command: server --console-address ":9001" /data
 
-  es:
-    image: docker.elastic.co/elasticsearch/elasticsearch:7.9.0
-    container_name: es
-    environment:
-      - node.name=es
-      - cluster.name=es-docker-single
-      - discovery.seed_hosts=es
-      - cluster.initial_master_nodes=es
-      - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms1024m -Xmx1024m"
-    ulimits:
-      memlock:
-        soft: -1
-        hard: -1
-    volumes:
-      - data:/usr/share/elasticsearch/data
-    ports:
-      - 9200:9200
-    networks:
-      - elastic
+  # es:
+  #   image: docker.elastic.co/elasticsearch/elasticsearch:7.9.0
+  #   container_name: es
+  #   environment:
+  #     - node.name=es
+  #     - cluster.name=es-docker-single
+  #     - discovery.seed_hosts=es
+  #     - cluster.initial_master_nodes=es
+  #     - bootstrap.memory_lock=true
+  #     - "ES_JAVA_OPTS=-Xms1024m -Xmx1024m"
+  #   ulimits:
+  #     memlock:
+  #       soft: -1
+  #       hard: -1
+  #   volumes:
+  #     - data:/usr/share/elasticsearch/data
+  #   ports:
+  #     - 9200:9200
+  #   networks:
+  #     - elastic
 
-  kib:
-    image: docker.elastic.co/kibana/kibana:7.9.0
-    depends_on:
-      - es
-    container_name: kib
-    ports:
-      - 5601:5601
-    environment:
-      ELASTICSEARCH_URL: http://es:9200
-      ELASTICSEARCH_HOSTS: http://es:9200
-    networks:
-      - elastic
+  # kib:
+  #   image: docker.elastic.co/kibana/kibana:7.9.0
+  #   depends_on:
+  #     - es
+  #   container_name: kib
+  #   ports:
+  #     - 5601:5601
+  #   environment:
+  #     ELASTICSEARCH_URL: http://es:9200
+  #     ELASTICSEARCH_HOSTS: http://es:9200
+  #   networks:
+  #     - elastic
 
 volumes:
   minio_storage:
   data:
     driver: local
-networks:
-  my_docker:
-  elastic:
-    driver: bridge
+# networks:
+#   my_docker:
+#   elastic:
+#     driver: bridge
