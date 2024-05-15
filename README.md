@@ -79,8 +79,8 @@ Before running this script, ensure you have the following installed:
 2.  **Create an empty table in PostgreSQL and insert new record to the table**
 
     ```bash
-    python streaming/utils/create_table.py
-    python streaming/utils/insert_table.py
+    python utils/create_table.py
+    python utils/insert_table.py
     ```
 
     <!-- **Note:** Print records as json format in terminal
