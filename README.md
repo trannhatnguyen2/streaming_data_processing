@@ -110,37 +110,39 @@ Before running this script, ensure you have the following installed:
 
 After putting your files to ` MinIO``, please execute  `trino` container by the following command:
 
-```shell
-docker exec -ti datalake-trino bash
-```
+    ```bash
+    docker exec -ti datalake-trino bash
+    ```
 
 When you are already inside the `trino` container, typing `trino` to in an interactive mode
 
 After that, run the following command to register a new schema for our data:
 
-```sql
-CREATE SCHEMA IF NOT EXISTS lakehouse.orders
-WITH (location = 's3://lakehouse/');
+    ```sql
 
-CREATE TABLE IF NOT EXISTS lakehouse.orders.orders (
-event_timestamp TIMESTAMP(3) WITH TIME ZONE,
-order_date VARCHAR,
-order_time VARCHAR,
-order_number VARCHAR,
-order_line_number TINYINT,
-customer_name VARCHAR,
-product_name VARCHAR,
-store VARCHAR,
-promotion VARCHAR,
-order_quantity TINYINT,
-unit_price DOUBLE,
-unit_cost DOUBLE,
-unit_discount DOUBLE,
-sales_amount DOUBLE
-) WITH (
-location = 's3://lakehouse/orders'
-);
-```
+    CREATE SCHEMA IF NOT EXISTS lakehouse.orders
+    WITH (location = 's3://lakehouse/');
+
+    CREATE TABLE IF NOT EXISTS lakehouse.orders.orders (
+    event_timestamp TIMESTAMP(3) WITH TIME ZONE,
+    order_date VARCHAR,
+    order_time VARCHAR,
+    order_number VARCHAR,
+    order_line_number TINYINT,
+    customer_name VARCHAR,
+    product_name VARCHAR,
+    store VARCHAR,
+    promotion VARCHAR,
+    order_quantity TINYINT,
+    unit_price DOUBLE,
+    unit_cost DOUBLE,
+    unit_discount DOUBLE,
+    sales_amount DOUBLE
+    ) WITH (
+    location = 's3://lakehouse/orders'
+    );
+
+    ```
 
 ## Query with DBeaver
 
@@ -151,3 +153,4 @@ location = 's3://lakehouse/orders'
 ---
 
 <p>&copy; 2024 NhatNguyen</p>
+```
