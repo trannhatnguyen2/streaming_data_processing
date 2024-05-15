@@ -1,0 +1,8 @@
+kafka-python==2.0.2
+avro-python3==1.10.2
+pandas==2.2.2
+pyarrow==16.1.0
+python-schema-registry-client==2.5.6
+pyspark==3.5.1
+pymongo==4.7.2
+delta-spark==3.1.0
