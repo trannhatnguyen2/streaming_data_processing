@@ -153,4 +153,3 @@ After that, run the following command to register a new schema for our data:
 ---
 
 <p>&copy; 2024 NhatNguyen</p>
-```
