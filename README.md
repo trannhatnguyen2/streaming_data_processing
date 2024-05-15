@@ -108,17 +108,17 @@ Before running this script, ensure you have the following installed:
 
 ### Create data schema
 
-After putting your files to ` MinIO``, please execute  `trino` container by the following command:
+After putting your files to ` MinIO`, please execute `trino` container by the following command:
 
-    ```bash
-    docker exec -ti datalake-trino bash
-    ```
+```bash
+docker exec -ti datalake-trino bash
+```
 
 When you are already inside the `trino` container, typing `trino` to in an interactive mode
 
 After that, run the following command to register a new schema for our data:
 
-    ```sql
+```sql
 
     CREATE SCHEMA IF NOT EXISTS lakehouse.orders
     WITH (location = 's3://lakehouse/');
@@ -142,7 +142,7 @@ After that, run the following command to register a new schema for our data:
     location = 's3://lakehouse/orders'
     );
 
-    ```
+```
 
 ## Query with DBeaver
 
