@@ -12,7 +12,7 @@
 ## System Architecture
 
 <p align="center">
-<img src="img/system_architecture.png" width=80% height=80%>
+<img src="./imgs/system_architecture.png" width=80% height=80%>
 
 <p align="center">
     System Architecture
